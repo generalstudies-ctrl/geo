@@ -443,7 +443,7 @@ B) 5 hours
 C) 5 hours 30 minutes
 D) 6 hours
 ANS: C
-Q: If a person crosses the International Date Line (IDL) from **West to East**, what occurs?
+Q: If a person crosses the International Date Line (IDL) from West to East, what occurs?
 A) Day Gain / Date Loss
 B) Day Loss / Date Gain
 C) No change
@@ -491,13 +491,13 @@ B) Tides and Revolution
 C) Revolution and Tilt of the Axis
 D) Tilt and Rotation
 ANS: C
-Q: On which date does the **Summer Solstice** (longest day for the Northern Hemisphere) occur?
+Q: On which date does the Summer Solstice (longest day for the Northern Hemisphere) occur?
 A) March 21
 B) June 21
 C) September 23
 D) December 22
 ANS: B
-Q: On which date does the **Winter Solstice** (shortest day for the Northern Hemisphere) occur?
+Q: On which date does the Winter Solstice (shortest day for the Northern Hemisphere) occur?
 A) March 21
 B) June 21
 C) September 23
@@ -521,31 +521,31 @@ B) June 21
 C) September 23
 D) December 22
 ANS: C
-Q: The point in the Earth's orbit when it is **closest** to the Sun is called:
+Q: The point in the Earth's orbit when it is closest to the Sun is called:
 A) Aphelion
 B) Perihelion
 C) Apogee
 D) Perigee
 ANS: B
-Q: The point in the Earth's orbit when it is **farthest** from the Sun is called:
+Q: The point in the Earth's orbit when it is farthest from the Sun is called:
 A) Perihelion
 B) Aphelion
 C) Apogee
 D) Perigee
 ANS: B
-Q: On which date does the Earth reach **Perihelion** (closest to the Sun)?
+Q: On which date does the Earth reach Perihelion (closest to the Sun)?
 A) June 21
 B) July 4
 C) January 3
 D) December 22
 ANS: C
-Q: A **Solar Eclipse** occurs when the sequence of celestial bodies is:
+Q: A Solar Eclipse occurs when the sequence of celestial bodies is:
 A) Sun-Earth-Moon
 B) Sun-Moon-Earth
 C) Moon-Sun-Earth
 D) Earth-Sun-Moon
 ANS: B
-Q: A **Lunar Eclipse** occurs when the sequence of celestial bodies is:
+Q: A Lunar Eclipse occurs when the sequence of celestial bodies is:
 A) Sun-Earth-Moon
 B) Sun-Moon-Earth
 C) Moon-Sun-Earth
@@ -752,7 +752,7 @@ B) Nitrogen and Iron
 C) Nickel and Iron (Ferrum)
 D) Neon and Iron
 ANS: C
-Q: The Outer Core of the Earth is in a **liquid** state, and the Inner Core is in a **solid** state. What is the main reason for the Inner Core's solidity?
+Q: The Outer Core of the Earth is in a liquid state, and the Inner Core is in a solid state. What is the main reason for the Inner Core's solidity?
 A) Higher concentration of Iron
 B) Absence of Silicone
 C) Immense Pressure
@@ -860,13 +860,13 @@ B) Eurasian Plate
 C) African Plate
 D) Pacific Plate
 ANS: D
-Q: A **Divergent Plate Boundary** is considered a 'Constructive' boundary because:
+Q: A Divergent Plate Boundary is considered a 'Constructive' boundary because:
 A) Old crust is destroyed at a deep trench.
 B) New crust is created as magma rises and solidifies.
 C) Crust is neither created nor destroyed.
 D) Continental landmasses are pulled apart.
 ANS: B
-Q: A **Convergent Plate Boundary** is considered a 'Destructive' boundary because:
+Q: A Convergent Plate Boundary is considered a 'Destructive' boundary because:
 A) New volcanoes are formed from rising magma.
 B) Oceanic crust is subducted and melts into the mantle.
 C) Large mountains are constructed.
@@ -926,43 +926,43 @@ B) Mantle
 C) Outer Core
 D) Lithosphere
 ANS: D
-Q: Which seismic wave is the **fastest** and is recorded first on a seismograph?
+Q: Which seismic wave is the fastest and is recorded first on a seismograph?
 A) Secondary Waves (S-waves)
 B) Primary Waves (P-waves)
 C) Love Waves
 D) Rayleigh Waves
 ANS: B
-Q: Which seismic wave can travel through **all three mediums** (Solid, Liquid, Gas)?
+Q: Which seismic wave can travel through all three mediums (Solid, Liquid, Gas)?
 A) Secondary Waves (S-waves)
 B) Primary Waves (P-waves)
 C) Love Waves
 D) Rayleigh Waves
 ANS: B
-Q: Which seismic wave can travel through **only solid material**?
+Q: Which seismic wave can travel through only solid material?
 A) Primary Waves (P-waves)
 B) Secondary Waves (S-waves)
 C) Love Waves
 D) Rayleigh Waves
 ANS: B
-Q: Which seismic waves are the **most destructive** due to their late arrival and large amplitude at the surface?
+Q: Which seismic waves are the most destructive due to their late arrival and large amplitude at the surface?
 A) Primary Waves (P-waves)
 B) Secondary Waves (S-waves)
 C) Body Waves
 D) Surface Waves
 ANS: D
-Q: The scale used to measure the **Magnitude** (energy released) of an earthquake is the:
+Q: The scale used to measure the Magnitude (energy released) of an earthquake is the:
 A) Mercalli Scale
 B) Beaufort Scale
 C) Richter Scale
 D) Mohs Scale
 ANS: C
-Q: The scale used to measure the **Intensity** (damage caused) of an earthquake is the:
+Q: The scale used to measure the Intensity (damage caused) of an earthquake is the:
 A) Richter Scale
 B) Mercalli Scale
 C) Mohs Scale
 D) Beaufort Scale
 ANS: B
-Q: The region identified as the **Ring of Fire**, known for high volcanic and seismic activity, is located primarily around which ocean?
+Q: The region identified as the Ring of Fire, known for high volcanic and seismic activity, is located primarily around which ocean?
 A) Atlantic Ocean
 B) Indian Ocean
 C) Pacific Ocean
@@ -1001,7 +1001,7 @@ B) Arthur Holmes
 C) Abraham Ortelius
 D) Tuzo Wilson
 ANS: C
-Q: Who is credited with proposing the **Continental Drift Theory** in 1912?
+Q: Who is credited with proposing the Continental Drift Theory in 1912?
 A) Abraham Ortelius
 B) Alfred Wegener
 C) Sir Edward Bullard
@@ -1061,7 +1061,7 @@ B) Tidal Forces and Polar Fleeing Force
 C) Volcanic Activity
 D) Earth's Magnetic Field
 ANS: B
-Q: Who proposed the **Convection Current Theory** (Convection Cells) to explain the movement of tectonic plates?
+Q: Who proposed the Convection Current Theory (Convection Cells) to explain the movement of tectonic plates?
 A) Alfred Wegener (1912)
 B) Harry Hess (1962)
 C) Arthur Holmes (1930)
@@ -1091,7 +1091,7 @@ B) Sea Floor Spreading
 C) Subduction
 D) Accretion
 ANS: B
-Q: Who proposed the **Sea Floor Spreading Theory** in 1962?
+Q: Who proposed the Sea Floor Spreading Theory in 1962?
 A) Alfred Wegener
 B) Harry Hess
 C) Arthur Holmes
@@ -1109,7 +1109,7 @@ B) The same age and magnetic properties
 C) Opposite ages
 D) Varying rock composition
 ANS: B
-Q: Which statement correctly explains why **Oceanic Crust** is denser and thinner than Continental Crust?
+Q: Which statement correctly explains why Oceanic Crust is denser and thinner than Continental Crust?
 A) Oceanic Crust is made of Sial (Silica + Aluminium)
 B) Oceanic Crust is made of Sima (Silica + Magnesium)
 C) Oceanic Crust is generally older
@@ -1121,19 +1121,19 @@ B) The Great Barrier Reef
 C) The Mid-Atlantic Ridge
 D) The Andes Mountains
 ANS: C
-Q: What is the result of a **Divergent** plate boundary occurring within a **Continent** (Continental-Continental Divergence)?
+Q: What is the result of a Divergent plate boundary occurring within a Continent (Continental-Continental Divergence)?
 A) Subduction Zone
 B) Fold Mountains
 C) Formation of a Rift Valley
 D) Volcanic Island Arc
 ANS: C
-Q: What is the general result of a **Convergent** boundary between two **Oceanic** plates (Oceanic-Oceanic Convergent)?
+Q: What is the general result of a Convergent boundary between two Oceanic plates (Oceanic-Oceanic Convergent)?
 A) Fold Mountains
 B) Volcanic Island Arc (and trenches)
 C) Rift Valley
 D) Transverse Fault
 ANS: B
-Q: Why do no major active volcanoes form where the **Continental-Continental** plate convergence (e.g., Himalayas) occurs?
+Q: Why do no major active volcanoes form where the Continental-Continental plate convergence (e.g., Himalayas) occurs?
 A) Subduction is too slow to cause melting.
 B) The plates are too light to subduct deeply and melt.
 C) The friction is too high.
@@ -1175,13 +1175,13 @@ B) Continental Rise
 C) Continental Slope
 D) Abyssal Plain
 ANS: D
-Q: A **Sea Mount** whose pointed top has been eroded flat by wave action is called a:
+Q: A Sea Mount whose pointed top has been eroded flat by wave action is called a:
 A) Guyot
 B) Trench
 C) Ridge
 D) Atoll
 ANS: A
-Q: What is a **Coral Reef** typically referred to as?
+Q: What is a Coral Reef typically referred to as?
 A) Rainforest of the Sea
 B) Desert of the Ocean
 C) Mountain of the Sea
@@ -1253,7 +1253,7 @@ B) Atlantic, Pacific, Indian, Southern, Arctic
 C) Pacific, Indian, Atlantic, Arctic, Southern
 D) Arctic, Southern, Indian, Atlantic, Pacific
 ANS: A
-Q: Which Union Territory has the **largest total area** under coral reefs in India?
+Q: Which Union Territory has the largest total area under coral reefs in India?
 A) Lakshadweep
 B) Gujarat
 C) Andaman and Nicobar Islands
@@ -1298,13 +1298,13 @@ B) Vent
 C) Caldera
 D) Batholith
 ANS: C
-Q: **Acidic Lava** is characterized by:
+Q: Acidic Lava is characterized by:
 A) Low silica content, low viscosity, high temperature
 B) High silica content, high viscosity, low temperature
 C) High silica content, low viscosity, high temperature
 D) Low silica content, high viscosity, low temperature
 ANS: B
-Q: **Basic Lava** is characterized by:
+Q: Basic Lava is characterized by:
 A) Low silica content, high fluidity (low viscosity), high temperature
 B) High silica content, low fluidity, low temperature
 C) Low silica content, high viscosity, low temperature
@@ -1316,7 +1316,7 @@ B) Basic
 C) Both spread equally
 D) Only Acidic lava spreads
 ANS: B
-Q: The **Flood Basalt Province** found in the Deccan Traps region of India is an example of eruptions involving which type of lava?
+Q: The Flood Basalt Province found in the Deccan Traps region of India is an example of eruptions involving which type of lava?
 A) Acidic (Granitic)
 B) Intermediate (Andesitic)
 C) Basic (Basaltic)
@@ -1334,13 +1334,13 @@ B) Mount Cotopaxi, Ecuador
 C) Mauna Loa, Hawaii, USA
 D) Mount Vesuvius, Italy
 ANS: C
-Q: **Composite Volcanoes** are steep-sided cones built from alternating layers (strata) of lava and ash. They are generally associated with which type of lava?
+Q: Composite Volcanoes are steep-sided cones built from alternating layers (strata) of lava and ash. They are generally associated with which type of lava?
 A) Basic (Fluid)
 B) Mafic (High Iron)
 C) Acidic (Viscous)
 D) Felsic (Low Viscosity)
 ANS: C
-Q: The volcano **Stromboli** is often called the "Lighthouse of the Mediterranean" because of its:
+Q: The volcano Stromboli is often called the Lighthouse of the Mediterranean because of its:
 A) Extreme height
 B) Continuous and visible night-time eruptions
 C) Location near a major port
@@ -1364,7 +1364,7 @@ B) Paleontology
 C) Petrology
 D) Lithology
 ANS: C
-Q: Which type of rock is also known as the **Primary Rock** because it forms first from the cooling and solidification of magma or lava?
+Q: Which type of rock is also known as the Primary Rock because it forms first from the cooling and solidification of magma or lava?
 A) Sedimentary Rock
 B) Metamorphic Rock
 C) Igneous Rock
@@ -1382,13 +1382,13 @@ B) Extrusive Igneous (Volcanic)
 C) Metamorphic
 D) Gneiss
 ANS: B
-Q: Which of the following is an **Intrusive Igneous Rock**?
+Q: Which of the following is an Intrusive Igneous Rock?
 A) Basalt
 B) Gabbro
 C) Pumice
 D) Andesite
 ANS: B
-Q: Which of the following is an **Extrusive Igneous Rock**?
+Q: Which of the following is an Extrusive Igneous Rock?
 A) Granite
 B) Gabbro
 C) Basalt
@@ -1400,19 +1400,19 @@ B) Sill
 C) Laccolith
 D) Batholith
 ANS: D
-Q: A tabular intrusive igneous body that is **horizontal** or parallel to the surrounding rock layers is called a:
+Q: A tabular intrusive igneous body that is horizontal or parallel to the surrounding rock layers is called a:
 A) Dike
 B) Sill
 C) Laccolith
 D) Phacolith
 ANS: B
-Q: A tabular intrusive igneous body that is **vertical** or steeply inclined, cutting across the rock layers, is called a:
+Q: A tabular intrusive igneous body that is vertical or steeply inclined, cutting across the rock layers, is called a:
 A) Sill
 B) Laccolith
 C) Dike
 D) Lopolith
 ANS: C
-Q: The formation of **Sedimentary Rock** primarily occurs through the process of:
+Q: The formation of Sedimentary Rock primarily occurs through the process of:
 A) High heat and pressure changes (PVT)
 B) Cooling and solidification of molten rock
 C) Accumulation and cementation of fragments (sediments)
@@ -1424,13 +1424,13 @@ B) Lithification
 C) Erosion
 D) Crystallization
 ANS: B
-Q: Which type of rock is the **only one** that typically contains fossils (remains of plants and animals)?
+Q: Which type of rock is the only one that typically contains fossils (remains of plants and animals)?
 A) Igneous Rock
 B) Metamorphic Rock
 C) Sedimentary Rock
 D) Plutonic Rock
 ANS: C
-Q: Which of the following is an example of a **Mechanically (Clastically) Formed Sedimentary Rock**?
+Q: Which of the following is an example of a Mechanically (Clastically) Formed Sedimentary Rock?
 A) Chalk
 B) Limestone
 C) Sandstone
@@ -1460,13 +1460,13 @@ B) Thermal Metamorphism
 C) Regional Metamorphism
 D) Dynamic Metamorphism
 ANS: C
-Q: The formation of the metamorphic rock **Gneiss** is a result of the metamorphism of which parent rock?
+Q: The formation of the metamorphic rock Gneiss is a result of the metamorphism of which parent rock?
 A) Limestone
 B) Shale
 C) Granite
 D) Sandstone
 ANS: C
-Q: The formation of **Marble** is a result of the metamorphism of which parent rock?
+Q: The formation of Marble is a result of the metamorphism of which parent rock?
 A) Sandstone
 B) Shale
 C) Limestone
@@ -1478,7 +1478,7 @@ B) Plate Tectonics Cycle
 C) Rock Cycle
 D) Mineral Conversion
 ANS: C
-Q: Which of the following is a **Mineral** and NOT a rock?
+Q: Which of the following is a Mineral and NOT a rock?
 A) Marble
 B) Limestone
 C) Granite
@@ -1508,13 +1508,13 @@ B) Pyroxene
 C) Olivine
 D) Amphibole
 ANS: C
-Q: The **Taj Mahal** is primarily constructed using which metamorphic rock?
+Q: The Taj Mahal is primarily constructed using which metamorphic rock?
 A) Red Sandstone
 B) Marble
 C) Granite
 D) Slate
 ANS: B
-Q: The **Red Fort** (Lal Qila) in Delhi is primarily constructed using which sedimentary rock?
+Q: The Red Fort (Lal Qila) in Delhi is primarily constructed using which sedimentary rock?
 A) Marble
 B) Limestone
 C) Red Sandstone
@@ -1554,13 +1554,13 @@ B) Seismology
 C) Geomorphology
 D) Glaciology
 ANS: C
-Q: Which type of force or process is primarily responsible for **building up** or elevating the Earth's surface features (constructional forces)?
+Q: Which type of force or process is primarily responsible for building up or elevating the Earth's surface features (constructional forces)?
 A) Exogenic Forces
 B) Gravitational Forces
 C) Endogenic Forces
 D) Denudational Forces
 ANS: C
-Q: Which type of force or process is primarily responsible for **wearing down** or destroying the Earth's surface features (destructional forces)?
+Q: Which type of force or process is primarily responsible for wearing down or destroying the Earth's surface features (destructional forces)?
 A) Endogenic Forces
 B) Orogenic Forces
 C) Earth's Interior Heat
@@ -1572,13 +1572,13 @@ B) Denudation
 C) Volcanism
 D) Orogeny
 ANS: B
-Q: The process of **breaking down of rocks** in place (in-situ) without significant movement, is called:
+Q: The process of breaking down of rocks in place (in-situ) without significant movement, is called:
 A) Erosion
 B) Transportation
 C) Mass Movement
 D) Weathering
 ANS: D
-Q: Which of the following is **NOT** a type of Mass Movement?
+Q: Which of the following is NOT a type of Mass Movement?
 A) Landslide
 B) Creep
 C) Earthflow
@@ -1590,13 +1590,13 @@ B) Water Velocity
 C) Gravitational Force
 D) Solar Heating
 ANS: C
-Q: The process of **Mass Movement** is categorized as **Slow** when it involves the imperceptible, gradual movement of soil, such as:
+Q: The process of Mass Movement is categorized as Slow when it involves the imperceptible, gradual movement of soil, such as:
 A) Landslides
 B) Solifluction
 C) Mudflows
 D) Avalanches
 ANS: B
-Q: **Landslides** are an example of which category of Mass Movement?
+Q: Landslides are an example of which category of Mass Movement?
 A) Slow Mass Movement
 B) Creep Mass Movement
 C) Rapid Mass Movement
@@ -1608,7 +1608,7 @@ B) Exfoliation
 C) Oxidation
 D) Hydration
 ANS: B
-Q: Which of the following is a process of **Chemical Weathering**?
+Q: Which of the following is a process of Chemical Weathering?
 A) Freezing and Thawing
 B) Exfoliation
 C) Carbonation
@@ -1620,7 +1620,7 @@ B) Wind
 C) River Water
 D) Sea Waves
 ANS: C
-Q: In which stage of a river's life cycle do **Erosional** landforms like V-shaped Valleys typically dominate?
+Q: In which stage of a river's life cycle do Erosional landforms like V-shaped Valleys typically dominate?
 A) Youthful Stage
 B) Mature Stage
 C) Old Stage
@@ -1686,13 +1686,13 @@ B) Lagoon
 C) Fjord
 D) Atoll
 ANS: C
-Q: The most common landforms found in **Karst Topography** (Ground Water-dominated areas) are:
+Q: The most common landforms found in Karst Topography (Ground Water-dominated areas) are:
 A) Moraines and Eskers
 B) Dunes and Barchans
 C) Sinkholes and Caves
 D) Cliffs and Beaches
 ANS: C
-Q: The region where ground water landforms are most famously studied, leading to the name "Karst Topography," is located in:
+Q: The region where ground water landforms are most famously studied, leading to the name Karst Topography, is located in:
 A) Southern Asia
 B) Southern Europe (near the Mediterranean)
 C) North America
@@ -1722,7 +1722,7 @@ B) Parabolic Dunes
 C) Longitudinal Dunes
 D) Barchans (or Barkhans)
 ANS: D
-Q: Which of the following is an **Erosional** landform created by **Wind** (Aeolian) action?
+Q: Which of the following is an Erosional landform created by Wind (Aeolian) action?
 A) Barchans
 B) Loess
 C) Mushroom Rock
@@ -1734,7 +1734,7 @@ B) Loess
 C) Silt Deposits
 D) Pediments
 ANS: B
-Q: The general term for landforms created by the action of **Wind** is:
+Q: The general term for landforms created by the action of Wind is:
 A) Fluvial
 B) Karst
 C) Aeolian
@@ -1776,7 +1776,7 @@ B) Cliff
 C) Beach
 D) Cave
 ANS: C
-Q: **Mushroom Rocks** (Pedestal Rocks) are most commonly found in:
+Q: Mushroom Rocks (Pedestal Rocks) are most commonly found in:
 A) Glacial environments
 B) Coastal environments
 C) Desert environments
@@ -1788,7 +1788,7 @@ B) Aeolian process
 C) Glacial process
 D) Karst process
 ANS: B
-Q: The driving force for **Erosion and Transportation** by agents like wind and water is:
+Q: The driving force for Erosion and Transportation by agents like wind and water is:
 A) Gravitational Stress
 B) Molecular Stress
 C) Geothermal Heat
@@ -1800,25 +1800,25 @@ B) Mature and Old
 C) Plateau and Plain
 D) Canyon and Gorge
 ANS: B
-Q: Which of the following is a key characteristic of the **Old Stage** of a river?
+Q: Which of the following is a key characteristic of the Old Stage of a river?
 A) V-shaped Valley formation
 B) Deep cutting (Vertical Erosion)
 C) Formation of wide floodplains and deltas
 D) High velocity and turbulence
 ANS: C
-Q: The term **Denudation** includes which of the following processes?
+Q: The term Denudation includes which of the following processes?
 A) Weathering, Mass Movement, and Erosion/Transportation
 B) Diastrophism and Volcanism
 C) Orogeny and Epeirogeny
 D) Only Erosion and Transportation
 ANS: A
-Q: The **Grand Canyon** in the USA is a massive example of which river erosional landform?
+Q: The Grand Canyon in the USA is a massive example of which river erosional landform?
 A) Gorge
 B) V-Shaped Valley
 C) Canyon
 D) Plunge Pool
 ANS: C
-Q: The study of the development of **Coral Reefs** is most relevant to which coastal landform?
+Q: The study of the development of Coral Reefs is most relevant to which coastal landform?
 A) Beaches
 B) Dunes
 C) Atolls
@@ -1833,7 +1833,7 @@ B) Earth's Magnetic Field
 C) Earth's Gravitational Force
 D) The Ozone Layer
 ANS: C
-Q: Which gases were abundant in Earth's **Pre-Modial Atmosphere** before being stripped away by solar winds?
+Q: Which gases were abundant in Earth's Pre-Modial Atmosphere before being stripped away by solar winds?
 A) Oxygen and Carbon Dioxide
 B) Nitrogen and Argon
 C) Hydrogen and Helium
@@ -1845,19 +1845,19 @@ B) Biological Fixation
 C) Volcanism (Degassing)
 D) Cometary Impacts
 ANS: C
-Q: In which layer of the atmosphere do **all weather phenomena** (rain, clouds, storms, etc.) occur?
+Q: In which layer of the atmosphere do all weather phenomena (rain, clouds, storms, etc.) occur?
 A) Stratosphere
 B) Troposphere
 C) Mesosphere
 D) Thermosphere
 ANS: B
-Q: The line that separates the **Troposphere** from the **Stratosphere** is called the:
+Q: The line that separates the Troposphere from the Stratosphere is called the:
 A) Stratopause
 B) Mesopause
 C) Tropopause
 D) Homopause
 ANS: C
-Q: As one moves upwards in the **Troposphere**, the temperature normally **decreases**. This rate of decrease is known as:
+Q: As one moves upwards in the Troposphere, the temperature normally decreases. This rate of decrease is known as:
 A) Temperature Inversion
 B) Adiabatic Lapse Rate
 C) Normal Lapse Rate
@@ -1872,22 +1872,22 @@ ANS: B
 Q: What is the primary reason the temperature decreases with altitude in the Troposphere?
 A) Direct absorption of Solar Radiation
 B) Convectional heating from the top
-C) Heating from the **Terrestrial Radiation** below
+C) Heating from the Terrestrial Radiation below
 D) Low concentration of Nitrogen
 ANS: C
-Q: Which gas has the **highest concentration** (approx. 78%) in the Earth's atmosphere?
+Q: Which gas has the highest concentration (approx. 78%) in the Earth's atmosphere?
 A) Oxygen
 B) Argon
 C) Nitrogen
 D) Carbon Dioxide
 ANS: C
-Q: Which of the following is the **most abundant** noble gas (inert gas) in the atmosphere?
+Q: Which of the following is the most abundant noble gas (inert gas) in the atmosphere?
 A) Neon
 B) Helium
 C) Argon
 D) Xenon
 ANS: C
-Q: Which layer of the atmosphere typically has the **greatest thickness** at the **Equator** (approx. 18 km) compared to the Poles (approx. 8 km)?
+Q: Which layer of the atmosphere typically has the greatest thickness at the Equator (approx. 18 km) compared to the Poles (approx. 8 km)?
 A) Stratosphere
 B) Troposphere
 C) Mesosphere
@@ -1896,40 +1896,40 @@ ANS: B
 Q: The variation in the thickness of the Troposphere (thicker at the Equator) is due to:
 A) Higher concentration of Green House Gases at the Poles
 B) The Coriolis Effect
-C) **Convectional Heat** being transported to greater heights at the Equator
+C) Convectional Heat being transported to greater heights at the Equator
 D) Greater Earth tilt at the Equator
 ANS: C
-Q: The process of heat transfer from the Earth's surface to the lowermost layer of the atmosphere through **direct molecular contact** is called:
+Q: The process of heat transfer from the Earth's surface to the lowermost layer of the atmosphere through direct molecular contact is called:
 A) Convection
 B) Advection
 C) Radiation
 D) Conduction
 ANS: D
-Q: The process of **vertical heating** of the atmosphere, where warmed air masses rise and cooler air masses sink, creating currents, is called:
+Q: The process of vertical heating of the atmosphere, where warmed air masses rise and cooler air masses sink, creating currents, is called:
 A) Conduction
 B) Advection
 C) Convection
 D) Latent Heat Exchange
 ANS: C
-Q: The **horizontal transfer of heat** due to the movement of air (e.g., warm or cold air masses moving across a region) is called:
+Q: The horizontal transfer of heat due to the movement of air (e.g., warm or cold air masses moving across a region) is called:
 A) Convection
 B) Advection
 C) Conduction
 D) Sublimation
 ANS: B
-Q: Which phenomenon is a direct result of **Advection**?
+Q: Which phenomenon is a direct result of Advection?
 A) Thunderstorms
 B) Formation of the Ozone Layer
 C) The Loo Winds in Northern India during summer
 D) The decrease in temperature with height
 ANS: C
-Q: A situation where the air temperature **increases** with altitude in the lower atmosphere, instead of decreasing (inversion of the normal lapse rate), is called:
+Q: A situation where the air temperature increases with altitude in the lower atmosphere, instead of decreasing (inversion of the normal lapse rate), is called:
 A) Positive Lapse Rate
 B) Negative Lapse Rate
 C) Temperature Inversion
 D) Adiabatic Cooling
 ANS: C
-Q: Which of the following is an **ideal condition** for the formation of a **Temperature Inversion**?
+Q: Which of the following is an ideal condition for the formation of a Temperature Inversion?
 A) Short winter night and turbulent air
 B) Long winter night, clear skies, and calm air
 C) Cloud cover and high surface wind
@@ -1941,13 +1941,13 @@ B) Stable, suppressing cloud formation and vertical movement
 C) Highly turbulent
 D) Overheated rapidly
 ANS: B
-Q: In which layer of the atmosphere does the temperature typically **increase** with altitude due to the absorption of solar radiation by ozone?
+Q: In which layer of the atmosphere does the temperature typically increase with altitude due to the absorption of solar radiation by ozone?
 A) Troposphere
 B) Stratosphere
 C) Mesosphere
 D) Exosphere
 ANS: B
-Q: The layer of the atmosphere that protects life by **absorbing harmful ultraviolet (UV) radiation** is the:
+Q: The layer of the atmosphere that protects life by absorbing harmful ultraviolet (UV) radiation is the:
 A) Troposphere
 B) Ionosphere
 C) Ozone Layer
@@ -1965,55 +1965,55 @@ B) Richter
 C) Doppler
 D) Dobson Unit
 ANS: D
-Q: In which layer of the atmosphere do most **meteors** (shooting stars) burn up due to friction?
+Q: In which layer of the atmosphere do most meteors (shooting stars) burn up due to friction?
 A) Stratosphere
 B) Mesosphere
 C) Thermosphere
 D) Exosphere
 ANS: B
-Q: The **Mesosphere** is known for being the:
+Q: The Mesosphere is known for being the:
 A) Warmest layer of the atmosphere
 B) Layer containing all weather events
 C) Coldest layer of the atmosphere
 D) Layer of stable air
 ANS: C
-Q: In which layer of the atmosphere does the temperature generally **decrease** with altitude after the Stratosphere?
+Q: In which layer of the atmosphere does the temperature generally decrease with altitude after the Stratosphere?
 A) Troposphere
 B) Thermosphere
 C) Exosphere
 D) Mesosphere
 ANS: D
-Q: In which layer of the atmosphere do electrically charged particles (ions) reflect **radio waves** back to Earth?
+Q: In which layer of the atmosphere do electrically charged particles (ions) reflect radio waves back to Earth?
 A) Mesosphere
 B) Stratosphere
 C) Ionosphere (Thermosphere)
 D) Exosphere
 ANS: C
-Q: The **Thermosphere** is characterized by temperatures that:
+Q: The Thermosphere is characterized by temperatures that:
 A) Decrease with altitude
 B) Remain constant
 C) Increase significantly with altitude
 D) Decrease steadily to the top
 ANS: C
-Q: Which gas makes up the highest percentage of the atmosphere by volume at the **Karman Line** (the boundary of space, approx. 100 km)?
+Q: Which gas makes up the highest percentage of the atmosphere by volume at the Karman Line (the boundary of space, approx. 100 km)?
 A) Oxygen
 B) Nitrogen
 C) Hydrogen
 D) Carbon Dioxide
 ANS: B
-Q: Which of the following is a greenhouse gas that is predominantly **man-made** (anthropogenic)?
+Q: Which of the following is a greenhouse gas that is predominantly man-made (anthropogenic)?
 A) Water Vapour
 B) Carbon Dioxide
 C) Methane
 D) Chlorofluorocarbons (CFCs)
 ANS: D
-Q: The short-wave radiation emitted by the Sun is called **Insolation**, while the long-wave radiation re-emitted by the Earth is called:
+Q: The short-wave radiation emitted by the Sun is called Insolation, while the long-wave radiation re-emitted by the Earth is called:
 A) Convectional Heat
 B) Albedo
 C) Terrestrial Radiation
 D) Infrared Radiation
 ANS: C
-Q: The **Earth's Atmosphere** is heated primarily by:
+Q: The Earth's Atmosphere is heated primarily by:
 A) Incoming Short-wave Solar Radiation (Insolation)
 B) Reflected Long-wave Terrestrial Radiation
 C) Direct Heat from the Earth's Core
@@ -2025,7 +2025,7 @@ B) Convection Rate
 C) Albedo
 D) Emissivity
 ANS: C
-Q: Which surface has the **highest Albedo** value?
+Q: Which surface has the highest Albedo value?
 A) Fresh Snow/Ice
 B) Ocean Water
 C) Dark Soil
@@ -2037,7 +2037,7 @@ B) Lapse Rate
 C) Insolation
 D) Greenhouse Effect
 ANS: C
-Q: Why is the maximum amount of Insolation (solar radiation) received at the **Tropics (North and South of Equator)** and not the Equator itself?
+Q: Why is the maximum amount of Insolation (solar radiation) received at the Tropics (North and South of Equator) and not the Equator itself?
 A) The presence of higher Albedo at the Equator.
 B) The shorter daylight hours at the Equator.
 C) High cloudiness at the Equator reduces incoming radiation.
@@ -2045,7 +2045,7 @@ D) The Earth's tilt favors the Tropics.
 ANS: C
 Q: What is the main reason why the temperature on Earth's surface would drop dramatically (below freezing) without the atmosphere?
 A) Lack of conduction from the core
-B) The absence of the stabilizing effect of **Greenhouse Gases**
+B) The absence of the stabilizing effect of Greenhouse Gases
 C) Increased Albedo
 D) Loss of Convectional Heat
 ANS: B
@@ -2061,7 +2061,7 @@ B) Advection
 C) Conduction
 D) Radiation
 ANS: C
-Q: The process of heat transfer from the Earth's surface to the lowermost layer of the atmosphere through **direct molecular contact** is called:
+Q: The process of heat transfer from the Earth's surface to the lowermost layer of the atmosphere through direct molecular contact is called:
 A) Convection
 B) Advection
 C) Radiation
@@ -2073,31 +2073,31 @@ B) Biological Modification (Photosynthesis)
 C) Continuous Volcanism
 D) Tidal Friction
 ANS: B
-Q: The average height of the **Troposphere** (lowermost layer) is:
+Q: The average height of the Troposphere (lowermost layer) is:
 A) 8 km
 B) 13 km
 C) 18 km
 D) 50 km
 ANS: B
-Q: Which of the following is considered a major **variable** gas in the atmosphere (whose amount changes frequently)?
+Q: Which of the following is considered a major variable gas in the atmosphere (whose amount changes frequently)?
 A) Nitrogen
 B) Oxygen
 C) Argon
 D) Water Vapour
 ANS: D
-Q: The phenomenon of **Global Dimming** is caused by the increase in:
+Q: The phenomenon of Global Dimming is caused by the increase in:
 A) Greenhouse gases leading to higher temperatures
 B) Particulate matter in the atmosphere blocking solar radiation
 C) Solar wind intensity
 D) Ozone hole size
 ANS: B
-Q: The **Karman Line**, an internationally recognized boundary between the Earth's atmosphere and outer space, is located at approximately:
+Q: The Karman Line, an internationally recognized boundary between the Earth's atmosphere and outer space, is located at approximately:
 A) 85 km
 B) 100 km
 C) 400 km
 D) 600 km
 ANS: B
-Q: **Isotherms** are imaginary lines on a map that connect points of equal:
+Q: Isotherms are imaginary lines on a map that connect points of equal:
 A) Atmospheric Pressure
 B) Temperature
 C) Altitude
@@ -2112,7 +2112,7 @@ ANS: D
 
 [SUBJECT: Geography]
 [CHAPTER: Condensation and Precipitation]
-Q: The concentration of **Water Vapour** present in the air is known as:
+Q: The concentration of Water Vapour present in the air is known as:
 A) Precipitation
 B) Saturation
 C) Condensation
@@ -2142,7 +2142,7 @@ B) Condensation
 C) Sublimation
 D) Precipitation
 ANS: B
-Q: Which statement correctly describes the relationship between **air temperature** and **humidity capacity**?
+Q: Which statement correctly describes the relationship between air temperature and humidity capacity?
 A) Warm air has lower capacity to hold moisture than cold air.
 B) Cold air has higher capacity to hold moisture than warm air.
 C) Warm air has higher capacity to hold moisture than cold air.
@@ -2154,7 +2154,7 @@ B) Specific Humidity
 C) Relative Humidity
 D) Saturation Humidity
 ANS: C
-Q: The temperature at which air becomes **fully saturated** with moisture, causing water vapour to condense into liquid drops, is called the:
+Q: The temperature at which air becomes fully saturated with moisture, causing water vapour to condense into liquid drops, is called the:
 A) Freezing Point
 B) Critical Temperature
 C) Dew Point
@@ -2166,19 +2166,19 @@ B) Hydrospheres
 C) Hygroscopic Nuclei (Condensation Nuclei)
 D) Dust Particles
 ANS: C
-Q: Which phenomenon is formed when condensation occurs around a **solid, sub-freezing surface** (like grass or objects) instead of around hygroscopic nuclei?
+Q: Which phenomenon is formed when condensation occurs around a solid, sub-freezing surface (like grass or objects) instead of around hygroscopic nuclei?
 A) Fog
 B) Mist
 C) Due (Dew)
 D) Frost
 ANS: D
-Q: **Dew (Osa)** is formed when condensation occurs around a solid surface (like cold bottles or leaves) and the dew point temperature is:
+Q: Dew (Osa) is formed when condensation occurs around a solid surface (like cold bottles or leaves) and the dew point temperature is:
 A) Below 0°C (Freezing Point)
 B) Equal to the Freezing Point
 C) Above 0°C (Freezing Point)
 D) Below the surface temperature
 ANS: C
-Q: **Frost** is formed when the condensation occurs around a solid surface and the dew point temperature is:
+Q: Frost is formed when the condensation occurs around a solid surface and the dew point temperature is:
 A) Below 0°C (Freezing Point)
 B) Above 10°C
 C) Above 0°C (Freezing Point)
@@ -2190,13 +2190,13 @@ B) Haze
 C) Cloud
 D) Mist
 ANS: C
-Q: Clouds are primarily classified based on their **height** and **appearance**. Which of the following is NOT one of the four main types?
+Q: Clouds are primarily classified based on their height and appearance. Which of the following is NOT one of the four main types?
 A) Cumulus
 B) Cirrus
 C) Stratus
 D) Nimbus
 ANS: D
-Q: The clouds that appear as **feather-shaped** and are found at very **high altitudes** (above 8 km) are called:
+Q: The clouds that appear as feather-shaped and are found at very high altitudes (above 8 km) are called:
 A) Stratus
 B) Nimbus
 C) Cumulus
@@ -2208,25 +2208,25 @@ B) Cumulus
 C) Stratus
 D) Nimbus
 ANS: C
-Q: The clouds that appear like **cotton wool** or **cauliflower** (often with a flat base) and are associated with vertical growth are called:
+Q: The clouds that appear like cotton wool or cauliflower (often with a flat base) and are associated with vertical growth are called:
 A) Cumulus
 B) Stratus
 C) Cirrus
 D) Nimbus
 ANS: A
-Q: The clouds that are typically **dark, grey, and opaque** (rain-bearing clouds) are called:
+Q: The clouds that are typically dark, grey, and opaque (rain-bearing clouds) are called:
 A) Cirrostratus
 B) Altostratus
 C) Cumulus
 D) Nimbus
 ANS: D
-Q: Which of the following is an example of a **Low-Level Cloud** (typically below 4 km)?
+Q: Which of the following is an example of a Low-Level Cloud (typically below 4 km)?
 A) Cirrus
 B) Altocumulus
 C) Stratus
 D) Cumulonimbus
 ANS: C
-Q: **Fog** is a cloud that forms:
+Q: Fog is a cloud that forms:
 A) At high altitudes, above the tropopause
 B) At the Earth's surface
 C) Only in coastal areas
@@ -2234,11 +2234,11 @@ D) Exclusively during the day
 ANS: B
 Q: Fog is typically visible because its condensation occurs at the surface when the dew point is reached due to:
 A) Advective heating
-B) **Temperature Inversion** (cold air trapped below warm air)
+B) Temperature Inversion (cold air trapped below warm air)
 C) High wind speeds
 D) High pressure systems
 ANS: B
-Q: The primary difference between **Fog** and **Mist** is that:
+Q: The primary difference between Fog and Mist is that:
 A) Mist has higher visibility (typically > 1 km) and more moisture.
 B) Fog has higher visibility (typically > 1 km) and less moisture.
 C) Mist is formed at high altitudes, while fog is low-level.
@@ -2259,7 +2259,7 @@ ANS: B
 Q: The primary process by which water droplets in a cloud grow large enough to fall as rain is:
 A) Sublimation
 B) Evaporation
-C) **Collision and Coalescence** (sticking together)
+C) Collision and Coalescence (sticking together)
 D) Deposition
 ANS: C
 Q: The process where liquid or frozen water forms in the atmosphere and falls back to Earth's surface is called:
@@ -2274,21 +2274,21 @@ B) Sleet
 C) Snow
 D) Hail
 ANS: C
-Q: Which form of precipitation is formed when raindrops fall through a layer of **sub-freezing air** near the surface, turning into ice pellets?
+Q: Which form of precipitation is formed when raindrops fall through a layer of sub-freezing air near the surface, turning into ice pellets?
 A) Snow
 B) Hail (or Hailstones)
 C) Sleet
 D) Freezing Rain
 ANS: C
-Q: Which form of precipitation is associated with strong vertical air currents (updrafts and downdrafts) that repeatedly carry ice pellets up and down, resulting in **concentric rings**?
+Q: Which form of precipitation is associated with strong vertical air currents (updrafts and downdrafts) that repeatedly carry ice pellets up and down, resulting in concentric rings?
 A) Sleet
 B) Hail (or Hailstones)
 C) Snow
 D) Freezing Rain
 ANS: B
-Q: Why do **Hailstones** often occur during warm summer months in tropical/mid-latitude regions?
+Q: Why do Hailstones often occur during warm summer months in tropical/mid-latitude regions?
 A) Because the cloud base is below the freezing level.
-B) Due to the intense **updrafts** carrying water high into sub-freezing altitudes.
+B) Due to the intense updrafts carrying water high into sub-freezing altitudes.
 C) Because the sun melts the ice crystals.
 D) Due to calm, stable air conditions.
 ANS: B
@@ -2298,7 +2298,7 @@ B) Snow
 C) Mist
 D) Rain
 ANS: D
-Q: **Artificial Rain** (Cloud Seeding) is primarily created by injecting which particles into the clouds?
+Q: Artificial Rain (Cloud Seeding) is primarily created by injecting which particles into the clouds?
 A) Carbon Monoxide
 B) Silver Iodide
 C) Water Vapor
@@ -2310,25 +2310,25 @@ B) Clear the pollution by washing suspended particles out of the air.
 C) Increase the cloud base.
 D) Reduce the temperature inversion.
 ANS: B
-Q: Which of the following is a key condition for the formation of **Hail**?
+Q: Which of the following is a key condition for the formation of Hail?
 A) Weak vertical air currents
 B) High temperatures throughout the troposphere
-C) **Intense warm air updrafts** in cumulonimbus clouds
+C) Intense warm air updrafts in cumulonimbus clouds
 D) Shallow layer of freezing air near the ground
 ANS: C
-Q: The process of **Vaporization** is essentially the reverse of:
+Q: The process of Vaporization is essentially the reverse of:
 A) Precipitation
 B) Deposition
 C) Condensation
 D) Saturation
 ANS: C
-Q: The highest concentration of **Water Vapour** is generally found near the:
+Q: The highest concentration of Water Vapour is generally found near the:
 A) Poles
 B) Equator
 C) Stratosphere
 D) Mesosphere
 ANS: B
-Q: Why is it common to use a **moisturizer** (which adds water) in cold winter months?
+Q: Why is it common to use a moisturizer (which adds water) in cold winter months?
 A) Because cold air has a low capacity to hold water vapour.
 B) Because cold air has a high capacity to hold water vapour.
 C) Due to high relative humidity in winter.
@@ -2340,25 +2340,25 @@ B) Only on hygroscopic nuclei
 C) At or near the Earth's surface
 D) Only when wind speeds are high
 ANS: C
-Q: The term **Piedmont** is sometimes used in geology to refer to a landscape feature found near the base of mountains, often associated with:
+Q: The term Piedmont is sometimes used in geology to refer to a landscape feature found near the base of mountains, often associated with:
 A) Glacial moraines
 B) Alluvial fans
 C) Coastal dunes
 D) Karst sinkholes
 ANS: B
-Q: Which of the following is NOT a form of **Precipitation**?
+Q: Which of the following is NOT a form of Precipitation?
 A) Rain
 B) Hail
 C) Fog
 D) Snow
 ANS: C
-Q: The formation of the dark, heavy, and rain-producing **Nimbus** clouds is often an indication of:
+Q: The formation of the dark, heavy, and rain-producing Nimbus clouds is often an indication of:
 A) Low atmospheric pressure
 B) Unstable atmospheric conditions
 C) High atmospheric stability
 D) Low moisture content
 ANS: B
-Q: **Isonephs** are lines on a map connecting points of equal:
+Q: Isonephs are lines on a map connecting points of equal:
 A) Temperature
 B) Pressure
 C) Cloudiness
@@ -2372,17 +2372,17 @@ D) Gravity
 ANS: D
 Q: When an air mass descends, it compresses and warms up. This process is called:
 A) Condensation
-B) **Adiabatic Heating**
+B) Adiabatic Heating
 C) Latent Heating
 D) Convective Cooling
 ANS: B
 Q: When an air mass ascends, it expands and cools down. This process is called:
 A) Adiabatic Heating
-B) **Adiabatic Cooling**
+B) Adiabatic Cooling
 C) Latent Heating
 D) Convective Warming
 ANS: B
-Q: Which type of cloud is the **highest** in altitude?
+Q: Which type of cloud is the highest in altitude?
 A) Cumulus
 B) Altostratus
 C) Cirrus
@@ -2394,7 +2394,7 @@ B) Stratus
 C) Altostratus
 D) Cirrus
 ANS: B
-Q: The primary reason for the high humidity in coastal areas is the presence of high **water availability** and:
+Q: The primary reason for the high humidity in coastal areas is the presence of high water availability and:
 A) Low temperatures
 B) High temperatures, leading to higher evaporation
 C) High wind speeds
@@ -2404,19 +2404,19 @@ ANS: B
 
 [SUBJECT: Geography]
 [CHAPTER: Wind]
-Q: The primary cause of wind movement is the difference in **Air Pressure** (Pressure Gradient), with air moving from:
+Q: The primary cause of wind movement is the difference in Air Pressure (Pressure Gradient), with air moving from:
 A) Low Pressure to High Pressure
 B) High Pressure to Low Pressure
 C) Cold Air to Warm Air
 D) West to East
 ANS: B
-Q: In the atmosphere, **Warm Air** typically creates a **Low Pressure** system because it:
+Q: In the atmosphere, Warm Air typically creates a Low Pressure system because it:
 A) Sinks, exerting greater downward force
 B) Rises, creating less downward pressure
 C) Is denser than cold air
 D) Is not affected by gravity
 ANS: B
-Q: In the atmosphere, **Cold Air** typically creates a **High Pressure** system because it:
+Q: In the atmosphere, Cold Air typically creates a High Pressure system because it:
 A) Rises, creating less downward pressure
 B) Sinks, exerting greater downward force
 C) Is lighter than warm air
@@ -2434,37 +2434,37 @@ B) Trade Winds
 C) Local Winds
 D) Westerlies
 ANS: C
-Q: Which phenomenon is responsible for **deflecting** global winds (causing them to curve) due to the Earth's rotation?
+Q: Which phenomenon is responsible for deflecting global winds (causing them to curve) due to the Earth's rotation?
 A) Pressure Gradient Force (PGF)
 B) Centrifugal Force
 C) Coriolis Force
 D) Gravitational Force
 ANS: C
-Q: The **Coriolis Force** is strongest at the:
+Q: The Coriolis Force is strongest at the:
 A) Equator, where deflection is maximum
 B) Poles, where deflection is maximum
 C) Mid-latitudes (30° to 60°), where wind speed is highest
 D) Poles, where deflection is zero
 ANS: B
-Q: The Coriolis Force causes winds in the **Northern Hemisphere** to deflect to the:
+Q: The Coriolis Force causes winds in the Northern Hemisphere to deflect to the:
 A) Left
 B) Right
 C) Equator
 D) West
 ANS: B
-Q: The Coriolis Force causes winds in the **Southern Hemisphere** to deflect to the:
+Q: The Coriolis Force causes winds in the Southern Hemisphere to deflect to the:
 A) Left
 B) Right
 C) Equator
 D) West
 ANS: A
-Q: The permanent winds that blow between the **Equator** and the **30° latitude** (High-Pressure Belt) are called:
+Q: The permanent winds that blow between the Equator and the 30° latitude (High-Pressure Belt) are called:
 A) Polar Easterlies
 B) Westerlies
 C) Trade Winds
 D) Jet Streams
 ANS: C
-Q: The permanent winds that blow between **30° and 60° latitude** in both hemispheres (from west to east) are called:
+Q: The permanent winds that blow between 30° and 60° latitude in both hemispheres (from west to east) are called:
 A) Trade Winds
 B) Polar Easterlies
 C) Westerlies
@@ -2476,7 +2476,7 @@ B) Doldrums
 C) Inter-Tropical Convergence Zone (ITCZ)
 D) Sub-Tropical High
 ANS: C
-Q: The **ITCZ** is also known as the **Thermal Equator** because its position shifts seasonally, following the sun's maximum heating, moving:
+Q: The ITCZ is also known as the Thermal Equator because its position shifts seasonally, following the sun's maximum heating, moving:
 A) North in the Southern Hemisphere winter.
 B) South in the Northern Hemisphere summer.
 C) North in the Northern Hemisphere summer.
@@ -2488,43 +2488,43 @@ B) Doldrums
 C) Polar Front
 D) Sub-Polar Low
 ANS: B
-Q: The belt of high pressure and calm conditions around the **30° latitude** in both hemispheres is called:
+Q: The belt of high pressure and calm conditions around the 30° latitude in both hemispheres is called:
 A) Doldrums
 B) Polar Front
 C) Sub-Polar Low
 D) Horse Latitudes
 ANS: D
-Q: The strong, continuous **Westerlies** in the Southern Hemisphere are named the **"Roaring Forties," "Furious Fifties,"** and **"Shrieking Sixties"** because:
+Q: The strong, continuous Westerlies in the Southern Hemisphere are named the Roaring Forties, Furious Fifties, and Shrieking Sixties because:
 A) They are warmer in the Southern Hemisphere.
 B) They are deflected more significantly by the Coriolis Force.
 C) They are stronger due to the lack of landmass/friction.
 D) They frequently cause tropical cyclones.
 ANS: C
-Q: **Jet Streams** are characterized as:
+Q: Jet Streams are characterized as:
 A) Narrow bands of weak winds in the lower troposphere.
 B) Broad areas of high-speed winds in the upper atmosphere.
 C) Narrow bands of high-speed winds in the upper troposphere/lower stratosphere.
 D) Vertical air currents over the ITCZ.
 ANS: C
-Q: The wind known as the **"Snow Eater"** that descends the slopes of the Rocky Mountains in North America and causes rapid warming is:
+Q: The wind known as the Snow Eater that descends the slopes of the Rocky Mountains in North America and causes rapid warming is:
 A) Foehn
 B) Chinook
 C) Mistral
 D) Sirocco
 ANS: B
-Q: The strong, dry, and often dusty **local wind** that blows across the Sahara Desert into the Gulf of Guinea, often called the **"Doctor Wind"**, is:
+Q: The strong, dry, and often dusty local wind that blows across the Sahara Desert into the Gulf of Guinea, often called the Doctor Wind, is:
 A) Sirocco
 B) Foehn
 C) Harmattan
 D) Pampero
 ANS: C
-Q: Which local wind is known for picking up red dust from the Sahara Desert and causing **"Blood Rain"** over Southern Europe and the Mediterranean?
+Q: Which local wind is known for picking up red dust from the Sahara Desert and causing Blood Rain over Southern Europe and the Mediterranean?
 A) Chinook
 B) Bora
 C) Mistral
 D) Sirocco
 ANS: D
-Q: The **Sirocco** and **Chinook** are classified as **Warm** local winds, while **Mistral** and **Bora** are classified as:
+Q: The Sirocco and Chinook are classified as Warm local winds, while Mistral and Bora are classified as:
 A) Warm winds
 B) Hot winds
 C) Cold winds
@@ -2536,37 +2536,37 @@ B) Foehn
 C) Mistral
 D) Bora
 ANS: B
-Q: What is the primary reason why large **Deserts** are often located on the **Western** sides of continents?
+Q: What is the primary reason why large Deserts are often located on the Western sides of continents?
 A) The Coriolis Force pushes all moisture to the east.
 B) Cold ocean currents flow along the western coasts.
 C) Offshore prevailing winds (Trade Winds) shed moisture on the east and are dry on the west.
 D) High pressure systems are static over the west.
 ANS: C
-Q: A **Sea Breeze** occurs during the **Day** because:
+Q: A Sea Breeze occurs during the Day because:
 A) Land cools faster than the sea, creating high pressure over land.
 B) Land heats faster than the sea, creating low pressure over land.
 C) The sea is warmer than the land.
 D) The Coriolis force is stronger over the sea.
 ANS: B
-Q: A **Land Breeze** occurs during the **Night** because:
+Q: A Land Breeze occurs during the Night because:
 A) Land cools faster than the sea, creating high pressure over land.
 B) Sea cools faster than the land, creating low pressure over the sea.
 C) The Coriolis force reverses direction.
 D) The land is warmer than the sea.
 ANS: A
-Q: The lines on a weather map connecting places with **equal atmospheric pressure** are called:
+Q: The lines on a weather map connecting places with equal atmospheric pressure are called:
 A) Isotherms
 B) Isobars
 C) Isohylines
 D) Isonephs
 ANS: B
-Q: **Geostrophic Wind** is a theoretical wind that blows when which two forces are in balance?
+Q: Geostrophic Wind is a theoretical wind that blows when which two forces are in balance?
 A) Gravitational Force and Centrifugal Force
 B) Coriolis Force and Foehn Wind
-C) **Pressure Gradient Force (PGF) and Coriolis Force**
+C) Pressure Gradient Force (PGF) and Coriolis Force
 D) Trade Winds and Westerlies
 ANS: C
-Q: At high altitudes and high latitudes, the wind tends to blow **parallel** to the **Isobars** and **perpendicular** to the PGF. This is known as:
+Q: At high altitudes and high latitudes, the wind tends to blow parallel to the Isobars and perpendicular to the PGF. This is known as:
 A) Trade Winds
 B) Jet Streams
 C) Polar Easterlies
@@ -2590,9 +2590,9 @@ B) Roaring Forties
 C) Furious Fifties
 D) Polar Westerlies
 ANS: C
-Q: The **Doldrums** are also known for being a region of:
+Q: The Doldrums are also known for being a region of:
 A) High turbulence and high wind speeds.
-B) **Calm seas and vertical air currents.**
+B) Calm seas and vertical air currents.
 C) Severe winter storms.
 D) Strong Coriolis effect.
 ANS: B
@@ -2608,19 +2608,19 @@ B) Mid-latitudes (45°)
 C) Tropics (23.5°)
 D) Equator (0°)
 ANS: D
-Q: A long, elongated area of **Low Pressure** is referred to as a:
+Q: A long, elongated area of Low Pressure is referred to as a:
 A) Ridge
 B) Trough
 C) Front
 D) Cyclone
 ANS: B
-Q: A long, elongated area of **High Pressure** is referred to as a:
+Q: A long, elongated area of High Pressure is referred to as a:
 A) Trough
 B) Ridge
 C) Cyclone
 D) Front
 ANS: B
-Q: Jet Streams are generally stronger and located at a **lower altitude** during the:
+Q: Jet Streams are generally stronger and located at a lower altitude during the:
 A) Summer (because of weaker temperature contrast)
 B) Winter (because of stronger temperature contrast)
 C) Spring
@@ -2632,59 +2632,59 @@ B) Polar Easterlies
 C) Westerlies
 D) Jet Streams
 ANS: C
-Q: What is the primary characteristic of the **Horse Latitudes**?
+Q: What is the primary characteristic of the Horse Latitudes?
 A) Strong surface winds
 B) Convergence and ascending air
-C) **Calm and descending air**
+C) Calm and descending air
 D) Formation of the ITCZ
 ANS: C
-Q: The term used to denote a wind that blows in a **narrow band** with great speed in the upper atmosphere is:
+Q: The term used to denote a wind that blows in a narrow band with great speed in the upper atmosphere is:
 A) Trade Wind
 B) Doldrums
 C) Jet Stream
 D) Geostrophic Wind
 ANS: C
-Q: The wind in North America that is the counterpart to the European **Foehn** wind is the:
+Q: The wind in North America that is the counterpart to the European Foehn wind is the:
 A) Santa Ana
 B) Mistral
 C) Chinook
 D) Zonda
 ANS: C
-Q: The wind that is known for being extremely **cold** and **heavy**, often found in the Mediterranean/French coast, is the:
+Q: The wind that is known for being extremely cold and heavy, often found in the Mediterranean/French coast, is the:
 A) Foehn
 B) Mistral
 C) Sirocco
 D) Chinook
 ANS: B
-Q: The two main forces acting on wind that is **not** at the Earth's surface (free air) are the Pressure Gradient Force and the:
+Q: The two main forces acting on wind that is not at the Earth's surface (free air) are the Pressure Gradient Force and the:
 A) Friction Force
 B) Gravitational Force
 C) Coriolis Force
 D) Centrifugal Force
 ANS: C
-Q: At the **Equator**, the wind blows almost entirely perpendicular to the isobars because:
+Q: At the Equator, the wind blows almost entirely perpendicular to the isobars because:
 A) The Coriolis Force is maximum.
 B) The Pressure Gradient Force is negligible.
-C) The **Coriolis Force is zero.**
+C) The Coriolis Force is zero.
 D) There is no PGF at the Equator.
 ANS: C
 Q: The reason for the high speed of Jet Streams is the steep pressure gradient force due to the strong temperature contrast between:
 A) Land and Sea
 B) Tropics and Sub-Tropics
-C) **Polar and Sub-Tropical air masses**
+C) Polar and Sub-Tropical air masses
 D) Upper and Lower Mesosphere
 ANS: C
-Q: The **Sirocco** wind originates over the:
+Q: The Sirocco wind originates over the:
 A) North Atlantic Ocean
 B) European Alps
 C) Northern African Deserts (Sahara)
 D) Rocky Mountains
 ANS: C
-Q: The effect of **Friction** on wind is generally confined to the:
+Q: The effect of Friction on wind is generally confined to the:
 A) Upper Stratosphere
 B) Higher latitudes
 C) Lower Mesosphere
-D) **Lower 1-3 km of the atmosphere**
+D) Lower 1-3 km of the atmosphere
 ANS: D
 Q: The winds that cause the least deflection due to the Coriolis Force are located near the:
 A) Poles (90°)
@@ -2695,37 +2695,37 @@ ANS: D
 
 [SUBJECT: Geography]
 [CHAPTER: Cyclone and Ocean Current]
-Q: Cyclones are always formed around a **low pressure** system, which allows the **cold, dense air** to:
+Q: Cyclones are always formed around a low pressure system, which allows the cold, dense air to:
 A) Rise and condense rapidly
 B) Rush towards the center and ascend
 C) Move horizontally outwards
 D) Descend and create calm conditions
 ANS: B
-Q: Which condition is **NOT** favorable for the formation and intensification of a **Tropical Cyclone**?
+Q: Which condition is NOT favorable for the formation and intensification of a Tropical Cyclone?
 A) Sea Surface Temperature (SST) above 27°C
 B) Presence of the Coriolis Force
 C) Strong vertical wind shear
 D) Pre-existing weak low pressure area
 ANS: C
-Q: The air movement at the **low level** (near the sea surface) of a forming tropical cyclone is characterized by:
+Q: The air movement at the low level (near the sea surface) of a forming tropical cyclone is characterized by:
 A) Divergence (air moving out)
 B) Subsidence (air sinking)
-C) **Convergence (air moving in)**
+C) Convergence (air moving in)
 D) Horizontal advection only
 ANS: C
-Q: The air movement at the **upper level** (top of the Troposphere) of a forming tropical cyclone is characterized by:
+Q: The air movement at the upper level (top of the Troposphere) of a forming tropical cyclone is characterized by:
 A) Convergence
 B) Subsidence
-C) **Divergence (air moving out)**
+C) Divergence (air moving out)
 D) Frictional turbulence
 ANS: C
-Q: In the **Northern Hemisphere**, the circulation of wind in a cyclone is:
+Q: In the Northern Hemisphere, the circulation of wind in a cyclone is:
 A) Clockwise
 B) Anti-clockwise
 C) Random
 D) North-to-South
 ANS: B
-Q: In the **Southern Hemisphere**, the circulation of wind in a cyclone is:
+Q: In the Southern Hemisphere, the circulation of wind in a cyclone is:
 A) Anti-clockwise
 B) Clockwise
 C) Random
@@ -2743,27 +2743,27 @@ B) Eye
 C) Eye Wall
 D) Central Core
 ANS: C
-Q: Why do tropical cyclones **not** form directly at the Equator (0° latitude)?
+Q: Why do tropical cyclones not form directly at the Equator (0° latitude)?
 A) Due to very high sea surface temperature.
 B) Due to the absence of a strong Pressure Gradient Force.
-C) Due to the **zero Coriolis Force** at the Equator.
+C) Due to the zero Coriolis Force at the Equator.
 D) Due to excessive atmospheric instability.
 ANS: C
-Q: Tropical cyclones that form in the **Atlantic Ocean** (near the Americas) are named:
+Q: Tropical cyclones that form in the Atlantic Ocean (near the Americas) are named:
 A) Typhoons
 B) Hurricanes
 C) Willy-willies
 D) Cyclones
 ANS: B
-Q: Tropical cyclones that form in the **Western Pacific Ocean** (near China, Japan, Philippines) are named:
+Q: Tropical cyclones that form in the Western Pacific Ocean (near China, Japan, Philippines) are named:
 A) Hurricanes
 B) Willy-willies
 C) Cyclones
 D) Typhoons
 ANS: D
-Q: The primary difference between a **Tropical Cyclone** and a **Temperate Cyclone** (Extra-Tropical) is that Temperate Cyclones:
+Q: The primary difference between a Tropical Cyclone and a Temperate Cyclone (Extra-Tropical) is that Temperate Cyclones:
 A) Always form over water.
-B) Are formed due to **Frontogenesis** (meeting of warm/cold air masses).
+B) Are formed due to Frontogenesis (meeting of warm/cold air masses).
 C) Have a small area of influence.
 D) Move from East to West.
 ANS: B
@@ -2773,109 +2773,109 @@ B) Front (Vaatagra)
 C) Ridge
 D) Sub-Tropical High
 ANS: B
-Q: Which type of cyclone generally covers a **larger area** but causes **less destruction**?
+Q: Which type of cyclone generally covers a larger area but causes less destruction?
 A) Tropical Cyclones
 B) Temperate Cyclones
 C) Anticyclones
 D) Tornadoes
 ANS: B
-Q: The general direction of movement for **Tropical Cyclones** in the Northern Hemisphere is:
+Q: The general direction of movement for Tropical Cyclones in the Northern Hemisphere is:
 A) West to East (due to Westerlies)
-B) **East to West (due to Easterlies/Trade Winds)**
+B) East to West (due to Easterlies/Trade Winds)
 C) North to South
 D) Random
 ANS: B
-Q: The general direction of movement for **Temperate Cyclones** in the mid-latitudes is:
-A) **West to East (due to Westerlies)**
+Q: The general direction of movement for Temperate Cyclones in the mid-latitudes is:
+A) West to East (due to Westerlies)
 B) East to West (due to Easterlies)
 C) North to South
 D) Random
 ANS: A
-Q: A weather system characterized by a **High Pressure** center, **clear skies**, and **descending (sinking) air** is called an:
+Q: A weather system characterized by a High Pressure center, clear skies, and descending (sinking) air is called an:
 A) Cyclone
 B) Hurricane
 C) Monsoon
 D) Anticyclone
 ANS: D
-Q: In the Northern Hemisphere, the wind circulation in an **Anticyclone** is:
+Q: In the Northern Hemisphere, the wind circulation in an Anticyclone is:
 A) Anti-clockwise
 B) Clockwise
 C) Random
 D) Convergent
 ANS: B
-Q: Which factor is **NOT** a major contributor to the **Bay of Bengal** receiving more cyclones than the Arabian Sea?
+Q: Which factor is NOT a major contributor to the Bay of Bengal receiving more cyclones than the Arabian Sea?
 A) Higher Sea Surface Temperature (SST).
 B) Funnel shape of the Bay of Bengal coastline.
 C) High influx of fresh river water, which lowers salinity.
 D) Absence of the Coriolis Force.
 ANS: D
-Q: The movement of ocean water in a **specific direction** (horizontally) is called:
+Q: The movement of ocean water in a specific direction (horizontally) is called:
 A) Tide
 B) Tsunami
 C) Ocean Current
 D) Ocean Gyre
 ANS: C
-Q: Which of the following is **NOT** a primary cause of **Ocean Currents**?
+Q: Which of the following is NOT a primary cause of Ocean Currents?
 A) Wind (Friction)
 B) Difference in Water Density
 C) Gravitational Pull (Tides)
 D) Earthquakes
 ANS: D
-Q: The global, deep-ocean circulation system driven by differences in **temperature** and **salinity** is known as the:
+Q: The global, deep-ocean circulation system driven by differences in temperature and salinity is known as the:
 A) Coriolis System
 B) Thermohaline Circulation (Ocean Conveyor Belt)
 C) Equatorial Drift
 D) Geostrophic Flow
 ANS: B
-Q: In general, **Warm Ocean Currents** flow from:
+Q: In general, Warm Ocean Currents flow from:
 A) Poles to the Equator
-B) **Equator to the Poles**
+B) Equator to the Poles
 C) West to East
 D) North to South only
 ANS: B
-Q: In general, **Cold Ocean Currents** flow from:
-A) **Poles to the Equator**
+Q: In general, Cold Ocean Currents flow from:
+A) Poles to the Equator
 B) Equator to the Poles
 C) West to East
 D) South to North only
 ANS: A
-Q: The meeting of **warm and cold ocean currents** creates:
+Q: The meeting of warm and cold ocean currents creates:
 A) Deserts and high-pressure zones
-B) **Dense fog and excellent fishing grounds**
+B) Dense fog and excellent fishing grounds
 C) Tropical rainforests
 D) Strong Coriolis effect
 ANS: B
-Q: The ocean current that flows along the **Western Coast of South America** and is a **Cold Current** is:
+Q: The ocean current that flows along the Western Coast of South America and is a Cold Current is:
 A) Gulf Stream
 B) Kuroshio Current
 C) Peru (Humboldt) Current
 D) Agulhas Current
 ANS: C
-Q: The cold ocean current that contributes significantly to the formation of the **Atacama Desert** (world's driest) is the:
+Q: The cold ocean current that contributes significantly to the formation of the Atacama Desert (world's driest) is the:
 A) Canary Current
 B) Labrador Current
 C) Benguela Current
 D) Peru (Humboldt) Current
 ANS: D
-Q: The warm ocean current that flows along the **East Coast of North America** and brings warm water up to Europe is the:
+Q: The warm ocean current that flows along the East Coast of North America and brings warm water up to Europe is the:
 A) Labrador Current
 B) California Current
 C) Gulf Stream
 D) Oyashio Current
 ANS: C
-Q: Which current is a **Cold Current** flowing from the Arctic southwards along the coast of North America?
+Q: Which current is a Cold Current flowing from the Arctic southwards along the coast of North America?
 A) Gulf Stream
 B) Canary Current
 C) Labrador Current
 D) Kuroshio Current
 ANS: C
-Q: The cold current that flows along the **West Coast of Africa** and contributes to the formation of the Namib Desert is the:
+Q: The cold current that flows along the West Coast of Africa and contributes to the formation of the Namib Desert is the:
 A) Benguela Current
 B) Agulhas Current
 C) Brazil Current
 D) Falkland Current
 ANS: A
-Q: The warm current that flows along the **East Coast of Africa** (Indian Ocean) is the:
+Q: The warm current that flows along the East Coast of Africa (Indian Ocean) is the:
 A) Benguela Current
 B) Agulhas Current
 C) West Australian Current
@@ -2905,37 +2905,37 @@ B) Halocline
 C) Pycnocline
 D) Bathythermograph
 ANS: B
-Q: Which pair of currents meets near the **Newfoundland** coast (Canada), creating one of the world's best fishing grounds?
+Q: Which pair of currents meets near the Newfoundland coast (Canada), creating one of the world's best fishing grounds?
 A) Benguela and Brazil
 B) Kuroshio and Oyashio
-C) **Labrador and Gulf Stream**
+C) Labrador and Gulf Stream
 D) California and North Pacific
 ANS: C
-Q: Ocean currents tend to flow **clockwise** in the **Northern Hemisphere** and **anti-clockwise** in the **Southern Hemisphere** due to the influence of the:
+Q: Ocean currents tend to flow clockwise in the Northern Hemisphere and anti-clockwise in the Southern Hemisphere due to the influence of the:
 A) Gravitational Pull
 B) Continental Shelves
-C) **Coriolis Force**
+C) Coriolis Force
 D) Land Breeze Effect
 ANS: C
 Q: The most frequent and destructive cyclones in the Indian Ocean region typically originate in the:
 A) Arabian Sea
 B) Red Sea
-C) **Bay of Bengal**
+C) Bay of Bengal
 D) Persian Gulf
 ANS: C
-Q: The term used to describe a **warm current** that is simply an extension of the Gulf Stream moving across the North Atlantic is the:
+Q: The term used to describe a warm current that is simply an extension of the Gulf Stream moving across the North Atlantic is the:
 A) Canary Current
 B) Norwegian Current
-C) **North Atlantic Drift**
+C) North Atlantic Drift
 D) Irminger Current
 ANS: C
-Q: **Oceanic Trenches** are often found adjacent to areas of subduction, where one tectonic plate is being forced beneath another, making them significant for the study of:
+Q: Oceanic Trenches are often found adjacent to areas of subduction, where one tectonic plate is being forced beneath another, making them significant for the study of:
 A) Thermohaline Circulation
 B) The Solar System
-C) **Plate Tectonics**
+C) Plate Tectonics
 D) Weathering Processes
 ANS: C
-Q: The reason that the **Benguela Current** is a cold current is primarily because it originates from the:
+Q: The reason that the Benguela Current is a cold current is primarily because it originates from the:
 A) Antarctic Circumpolar Current
 B) Equatorial Upwelling
 C) Sub-Tropical High
@@ -2944,19 +2944,19 @@ ANS: A
 Q: Which feature marks the end of the Temperate Cyclone's life cycle, where the cold front has completely overtaken the warm air mass?
 A) Warm Front
 B) Cold Front
-C) **Occluded Front**
+C) Occluded Front
 D) Stationary Front
 ANS: C
-Q: The formation of **Cold Ocean Currents** along the western coasts of continents in the tropics is often linked to **Upwelling**, where:
+Q: The formation of Cold Ocean Currents along the western coasts of continents in the tropics is often linked to Upwelling, where:
 A) Warm water sinks to the bottom.
 B) Cold, nutrient-rich water rises from the bottom.
 C) High pressure is created over the sea.
 D) The sea level rises rapidly.
 ANS: B
-Q: The **Agulhas Current** is a warm current found in the:
+Q: The Agulhas Current is a warm current found in the:
 A) North Atlantic Ocean
 B) South Pacific Ocean
-C) **Indian Ocean**
+C) Indian Ocean
 D) North Pacific Ocean
 ANS: C
 Q: The temperate cyclones are also known as:
@@ -2965,34 +2965,34 @@ B) Extra-Tropical Cyclones
 C) Anticyclones
 D) Heat Lows
 ANS: B
-Q: The main factor that differentiates **Tropical Cyclones** from **Temperate Cyclones** in terms of energy is:
+Q: The main factor that differentiates Tropical Cyclones from Temperate Cyclones in terms of energy is:
 A) Land/Sea contrast
-B) **Latent heat released by condensation (in Tropical)**
+B) Latent heat released by condensation (in Tropical)
 C) Earth's rotation speed
 D) Frontogenesis
 ANS: B
-Q: The **Counter Equatorial Current** is an eastward-flowing current found near the Equator, flowing between the:
+Q: The Counter Equatorial Current is an eastward-flowing current found near the Equator, flowing between the:
 A) Westerlies
-B) **North and South Equatorial Currents**
+B) North and South Equatorial Currents
 C) Poles
 D) Deep Ocean Trenches
 ANS: B
-Q: The current that flows southward along the coast of **Japan** and is a **Warm Current** is the:
+Q: The current that flows southward along the coast of Japan and is a Warm Current is the:
 A) Oyashio Current
 B) Labrador Current
-C) **Kuroshio Current**
+C) Kuroshio Current
 D) Benguela Current
 ANS: C
 
 [SUBJECT: Geography]
 [CHAPTER: India and its Location]
-Q: In terms of **area** (geographical size), India is the:
+Q: In terms of area (geographical size), India is the:
 A) 2nd largest country in the world
 B) 5th largest country in the world
 C) 7th largest country in the world
 D) 9th largest country in the world
 ANS: C
-Q: Which of the following countries is **larger** than India in terms of geographical area?
+Q: Which of the following countries is larger than India in terms of geographical area?
 A) Brazil
 B) China
 C) Australia
@@ -3004,62 +3004,62 @@ B) 2.4%
 C) 3.2%
 D) 5.1%
 ANS: B
-Q: In terms of **population**, India ranks as the:
+Q: In terms of population, India ranks as the:
 A) Second largest country in the world.
 B) Third largest country in the world.
-C) **Largest country in the world (presently).**
+C) Largest country in the world (presently).
 D) Seventh largest country in the world.
 ANS: C
-Q: Which Union Territory (UT) of India has the **largest area**?
+Q: Which Union Territory (UT) of India has the largest area?
 A) Jammu and Kashmir
 B) Andaman and Nicobar Islands
 C) Delhi
-D) **Ladakh**
+D) Ladakh
 ANS: D
-Q: Which State of India has the **smallest area**?
+Q: Which State of India has the smallest area?
 A) Sikkim
 B) Tripura
-C) **Goa**
+C) Goa
 D) Meghalaya
 ANS: C
-Q: The **Northernmost point** of the Indian Union is:
+Q: The Northernmost point of the Indian Union is:
 A) Kanyakumari
-B) **Indira Col** (located in Siachen, Ladakh)
+B) Indira Col (located in Siachen, Ladakh)
 C) Guhar Moti
 D) Kibithu
 ANS: B
-Q: The **Southernmost point** of the Indian **mainland** is:
+Q: The Southernmost point of the Indian mainland is:
 A) Indira Point
-B) **Kanyakumari (Cape Comorin)**
+B) Kanyakumari (Cape Comorin)
 C) Andaman Islands
 D) Great Nicobar
 ANS: B
-Q: The **Southernmost point** of the entire Indian Union (including islands) is:
+Q: The Southernmost point of the entire Indian Union (including islands) is:
 A) Kanyakumari
-B) **Indira Point** (located in Great Nicobar)
+B) Indira Point (located in Great Nicobar)
 C) Sri Lanka
 D) Rameswaram
 ANS: B
-Q: The **Easternmost point** of India is located at:
+Q: The Easternmost point of India is located at:
 A) Dawki, Meghalaya
 B) The border of Nagaland and Myanmar
-C) **Kibithu, Arunachal Pradesh**
+C) Kibithu, Arunachal Pradesh
 D) Rann of Kutch, Gujarat
 ANS: C
-Q: The **Westernmost point** of India is located at:
+Q: The Westernmost point of India is located at:
 A) Sir Creek, Gujarat
-B) **Guhar Moti, Gujarat**
+B) Guhar Moti, Gujarat
 C) Western Rajasthan border
 D) Mumbai Coast
 ANS: B
-Q: What is the approximate length of India's **North-South extent** (from Indira Col to Kanyakumari)?
+Q: What is the approximate length of India's North-South extent (from Indira Col to Kanyakumari)?
 A) 2933 km
-B) **3214 km**
+B) 3214 km
 C) 4000 km
 D) 2500 km
 ANS: B
-Q: What is the approximate length of India's **East-West extent** (from Gujarat to Arunachal Pradesh)?
-A) **2933 km**
+Q: What is the approximate length of India's East-West extent (from Gujarat to Arunachal Pradesh)?
+A) 2933 km
 B) 3214 km
 C) 2500 km
 D) 3500 km
@@ -3067,198 +3067,198 @@ ANS: A
 Q: The difference between the local time of India's easternmost and westernmost points is approximately:
 A) 30 minutes
 B) 1 hour
-C) **2 hours**
+C) 2 hours
 D) 3 hours
 ANS: C
-Q: The **Tropic of Cancer** (23° 30' N) passes through how many states of India?
+Q: The Tropic of Cancer (23° 30' N) passes through how many states of India?
 A) Six
 B) Seven
-C) **Eight**
+C) Eight
 D) Nine
 ANS: C
-Q: Which of the following states is **NOT** passed by the Tropic of Cancer?
+Q: Which of the following states is NOT passed by the Tropic of Cancer?
 A) Chhattisgarh
 B) Tripura
-C) **Odisha**
+C) Odisha
 D) Rajasthan
 ANS: C
-Q: India's **Standard Meridian** (IST) is based on which longitude?
+Q: India's Standard Meridian (IST) is based on which longitude?
 A) 78° 30' E
 B) 80° 00' E
-C) **82° 30' E**
+C) 82° 30' E
 D) 90° 00' E
 ANS: C
 Q: The Indian Standard Time (IST) is ahead of the Greenwich Mean Time (GMT) by:
 A) 4 hours 30 minutes
 B) 5 hours 00 minutes
-C) **5 hours 30 minutes**
+C) 5 hours 30 minutes
 D) 6 hours 00 minutes
 ANS: C
 Q: The Indian Standard Meridian (82° 30' E) passes through which of the following states?
 A) Bihar, Odisha, Andhra Pradesh, Tamil Nadu
-B) **Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, Andhra Pradesh**
+B) Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, Andhra Pradesh
 C) Madhya Pradesh, Maharashtra, Karnataka, Andhra Pradesh
 D) Uttar Pradesh, Jharkhand, West Bengal
 ANS: B
-Q: The place where the **Tropic of Cancer** and the **Indian Standard Meridian** intersect (or meet closely) is in the state of:
+Q: The place where the Tropic of Cancer and the Indian Standard Meridian intersect (or meet closely) is in the state of:
 A) Uttar Pradesh
 B) Madhya Pradesh
-C) **Chhattisgarh**
+C) Chhattisgarh
 D) Odisha
 ANS: C
-Q: Which of the following countries shares the **longest land border** with India?
+Q: Which of the following countries shares the longest land border with India?
 A) China
 B) Pakistan
 C) Nepal
-D) **Bangladesh**
+D) Bangladesh
 ANS: D
-Q: What is the approximate length of India's total **land frontier** (international border)?
+Q: What is the approximate length of India's total land frontier (international border)?
 A) 7516 km
 B) 6100 km
-C) **15106 km**
+C) 15106 km
 D) 22000 km
 ANS: C
-Q: The length of India's land boundary with **Afghanistan** is:
+Q: The length of India's land boundary with Afghanistan is:
 A) 3323 km
 B) 1060 km
-C) **106 km**
+C) 106 km
 D) 3488 km
 ANS: C
-Q: The border line between India and **Pakistan** is known as the:
+Q: The border line between India and Pakistan is known as the:
 A) Durand Line
 B) Line of Actual Control (LAC)
-C) **Radcliffe Line**
+C) Radcliffe Line
 D) MacMahon Line
 ANS: C
-Q: The border line between India and **China** is primarily known as the:
+Q: The border line between India and China is primarily known as the:
 A) Radcliffe Line
 B) Line of Control (LoC)
-C) **MacMahon Line**
+C) MacMahon Line
 D) Durand Line
 ANS: C
-Q: The disputed boundary line between India and **Pakistan** in Jammu and Kashmir is the:
+Q: The disputed boundary line between India and Pakistan in Jammu and Kashmir is the:
 A) MacMahon Line
 B) Line of Actual Control (LAC)
-C) **Line of Control (LoC)**
+C) Line of Control (LoC)
 D) International Border (IB)
 ANS: C
-Q: The border between India and **China** in the Western Sector (Ladakh/Aksai Chin area) is referred to as the:
+Q: The border between India and China in the Western Sector (Ladakh/Aksai Chin area) is referred to as the:
 A) Line of Control (LoC)
-B) **Line of Actual Control (LAC)**
+B) Line of Actual Control (LAC)
 C) Radcliffe Line
 D) Johnson Line
 ANS: B
 Q: Which organization primarily guards the India-China border (Sino-Indian border)?
 A) Border Security Force (BSF)
 B) Sashastra Seema Bal (SSB)
-C) **Indo-Tibetan Border Police (ITBP)**
+C) Indo-Tibetan Border Police (ITBP)
 D) Central Reserve Police Force (CRPF)
 ANS: C
 Q: Which organization primarily guards the India-Pakistan and India-Bangladesh borders during peacetime?
 A) ITBP
 B) SSB
-C) **Border Security Force (BSF)**
+C) Border Security Force (BSF)
 D) Assam Rifles
 ANS: C
-Q: Which country is separated from India by the **Palk Strait** and the **Gulf of Mannar**?
+Q: Which country is separated from India by the Palk Strait and the Gulf of Mannar?
 A) Maldives
 B) Indonesia
-C) **Sri Lanka**
+C) Sri Lanka
 D) Myanmar
 ANS: C
-Q: The **open border** shared by India with a neighboring country is primarily with:
+Q: The open border shared by India with a neighboring country is primarily with:
 A) China and Pakistan
-B) **Nepal and Bhutan**
+B) Nepal and Bhutan
 C) Bangladesh and Myanmar
 D) Sri Lanka and Maldives
 ANS: B
 Q: Which force is responsible for guarding the India-Nepal and India-Bhutan borders?
 A) BSF
 B) CRPF
-C) **Sashastra Seema Bal (SSB)**
+C) Sashastra Seema Bal (SSB)
 D) Border Guard Nepal (BGN)
 ANS: C
-Q: Which of the following is the **Southernmost Union Territory** of India in terms of area and population?
+Q: Which of the following is the Southernmost Union Territory of India in terms of area and population?
 A) Puducherry
 B) Andaman and Nicobar Islands
-C) **Lakshadweep**
+C) Lakshadweep
 D) Delhi
 ANS: C
-Q: The **smallest state** of India in terms of **population** is:
+Q: The smallest state of India in terms of population is:
 A) Goa
 B) Mizoram
-C) **Sikkim**
+C) Sikkim
 D) Arunachal Pradesh
 ANS: C
 Q: Which state shares a border with the maximum number of other states in India?
 A) Madhya Pradesh
 B) Maharashtra
-C) **Uttar Pradesh** (shares border with 8 states + 1 UT)
+C) Uttar Pradesh (shares border with 8 states + 1 UT)
 D) Andhra Pradesh
 ANS: C
-Q: The **Coastal boundary** of India's **mainland** is approximately:
+Q: The Coastal boundary of India's mainland is approximately:
 A) 7516 km
-B) **6100 km**
+B) 6100 km
 C) 15106 km
 D) 5000 km
 ANS: B
-Q: Which state has the **longest coastline** in India (excluding Union Territories)?
+Q: Which state has the longest coastline in India (excluding Union Territories)?
 A) Maharashtra
 B) Kerala
 C) Tamil Nadu
-D) **Gujarat**
+D) Gujarat
 ANS: D
 Q: The total length of India's coastline (including mainland and islands) is approximately:
 A) 6100 km
 B) 7200 km
-C) **7516 km**
+C) 7516 km
 D) 8000 km
 ANS: C
-Q: The country that shares the **shortest land border** with India is:
+Q: The country that shares the shortest land border with India is:
 A) Nepal
 B) Bhutan
 C) Myanmar
-D) **Afghanistan**
+D) Afghanistan
 ANS: D
-Q: The three territories of Uttarakhand—**Kalapani, Limpiyadhura, and Lipulekh**—which are disputed with India, are claimed by which neighboring country?
+Q: The three territories of Uttarakhand—Kalapani, Limpiyadhura, and Lipulekh—which are disputed with India, are claimed by which neighboring country?
 A) China
 B) Pakistan
-C) **Nepal**
+C) Nepal
 D) Bhutan
 ANS: C
-Q: The **8° Channel** separates which two geographical entities?
+Q: The 8° Channel separates which two geographical entities?
 A) India and Sri Lanka
-B) **Lakshadweep and Maldives**
+B) Lakshadweep and Maldives
 C) Andaman and Nicobar
 D) Mainland India and Lakshadweep
 ANS: B
 Q: The Indian Standard Meridian passes through a specific clock tower in:
 A) Prayagraj (Allahabad)
 B) Bhopal
-C) **Mirzapur**
+C) Mirzapur
 D) Hyderabad
 ANS: C
-Q: The states of **Sikkim**, **West Bengal**, and **Arunachal Pradesh** share borders with how many international countries each?
+Q: The states of Sikkim, West Bengal, and Arunachal Pradesh share borders with how many international countries each?
 A) Two
-B) **Three**
+B) Three
 C) Four
 D) One
 ANS: B
-Q: The concept of the **Exclusive Economic Zone (EEZ)** allows a country sovereign rights over natural resources up to what distance from its coast?
+Q: The concept of the Exclusive Economic Zone (EEZ) allows a country sovereign rights over natural resources up to what distance from its coast?
 A) 12 Nautical Miles (NM)
 B) 24 Nautical Miles (NM)
-C) **200 Nautical Miles (NM)**
+C) 200 Nautical Miles (NM)
 D) 350 Nautical Miles (NM)
 ANS: C
-Q: The **Territorial Sea** of a country extends up to:
-A) **12 Nautical Miles (NM)**
+Q: The Territorial Sea of a country extends up to:
+A) 12 Nautical Miles (NM)
 B) 24 Nautical Miles (NM)
 C) 200 Nautical Miles (NM)
 D) 500 Nautical Miles (NM)
 ANS: A
-Q: The four components of **Puducherry UT** are spread across how many states?
+Q: The four components of Puducherry UT are spread across how many states?
 A) Two
-B) **Three** (Andhra Pradesh, Tamil Nadu, Kerala)
+B) Three (Andhra Pradesh, Tamil Nadu, Kerala)
 C) Four
 D) One
 ANS: B
@@ -3268,1101 +3268,1101 @@ ANS: B
 Q: The Himalayas are classified as which type of mountain, formed by the compression and uplift of the Earth's crust?
 A) Block Mountain
 B) Volcanic Mountain
-C) **Fold Mountain**
+C) Fold Mountain
 D) Residual Mountain
 ANS: C
-Q: The Himalayas are considered **Young Fold Mountains**, indicating that:
+Q: The Himalayas are considered Young Fold Mountains, indicating that:
 A) Their erosion rate is higher than their uplift rate.
 B) They formed from volcanic activity.
-C) **They are still actively being uplifted (Endogenic forces dominate).**
+C) They are still actively being uplifted (Endogenic forces dominate).
 D) They are the oldest mountains on Earth.
 ANS: C
-Q: The **Old Fold Mountains** like the Aravallis are also referred to as **Residual Mountains** because:
+Q: The Old Fold Mountains like the Aravallis are also referred to as Residual Mountains because:
 A) They contain volcanic magma residue.
-B) **Their remaining structures are mere residues (relics) of ancient mountains.**
+B) Their remaining structures are mere residues (relics) of ancient mountains.
 C) They were once part of the Pacific Ring of Fire.
 D) They were formed by block faulting.
 ANS: B
 Q: The Himalayas were formed due to the collision between which two tectonic plates?
 A) Pacific Plate and North American Plate
 B) Nazca Plate and South American Plate
-C) **Indian Plate and Eurasian Plate**
+C) Indian Plate and Eurasian Plate
 D) African Plate and Antarctic Plate
 ANS: C
 Q: The geosyncline (large depression) that existed before the formation of the Himalayas, whose sediments were uplifted during the collision, was the:
 A) Pacific Ocean
 B) Arabian Sea
-C) **Tethys Sea (Tethys Geosyncline)**
+C) Tethys Sea (Tethys Geosyncline)
 D) Bering Strait
 ANS: C
-Q: Which of the following is the **Innermost and Highest** of the three parallel ranges of the Himalayas?
+Q: Which of the following is the Innermost and Highest of the three parallel ranges of the Himalayas?
 A) Lesser Himalayas (Himachal)
 B) Outer Himalayas (Shiwalik)
-C) **Great Himalayas (Himadri)**
+C) Great Himalayas (Himadri)
 D) Trans Himalayas
 ANS: C
-Q: The average height of the peaks in the **Great Himalayas (Himadri)** is approximately:
+Q: The average height of the peaks in the Great Himalayas (Himadri) is approximately:
 A) 3000 meters
 B) 4500 meters
-C) **6000 meters**
+C) 6000 meters
 D) 7500 meters
 ANS: C
 Q: The core of the Great Himalayas is composed primarily of which type of rock?
 A) Basaltic Rock
 B) Limestone and Sandstone
-C) **Granitic Rock**
+C) Granitic Rock
 D) Volcanic Ash
 ANS: C
-Q: The highest mountain peak in the world, **Mount Everest** (8848 m), is located in the:
+Q: The highest mountain peak in the world, Mount Everest (8848 m), is located in the:
 A) Trans Himalayas
 B) Shiwalik Range
-C) **Great Himalayas**
+C) Great Himalayas
 D) Lesser Himalayas
 ANS: C
-Q: The **Kanchenjunga Peak** (8586 m), recognized as the highest peak fully within India (disputing K2), is located in the:
+Q: The Kanchenjunga Peak (8586 m), recognized as the highest peak fully within India (disputing K2), is located in the:
 A) Kashmir Himalayas
 B) Arunachal Himalayas
-C) **Sikkim Himalayas (part of Great Himalayas)**
+C) Sikkim Himalayas (part of Great Himalayas)
 D) Nepal Himalayas
 ANS: C
-Q: Mount Everest is known as **Sagarmatha** in:
+Q: Mount Everest is known as Sagarmatha in:
 A) China (Tibet)
-B) **Nepal**
+B) Nepal
 C) India
 D) Bhutan
 ANS: B
-Q: The **Westernmost limit** of the Great Himalayas is marked by the peak:
+Q: The Westernmost limit of the Great Himalayas is marked by the peak:
 A) Mount Everest
 B) K2 (Godwin Austen)
-C) **Nanga Parbat**
+C) Nanga Parbat
 D) Namcha Barwa
 ANS: C
-Q: The **Easternmost limit** of the Great Himalayas is marked by the peak:
+Q: The Easternmost limit of the Great Himalayas is marked by the peak:
 A) Kanchenjunga
 B) Mount Kangto
-C) **Namcha Barwa**
+C) Namcha Barwa
 D) Dhaula Giri
 ANS: C
-Q: The **Lesser Himalayas** are also known as the:
+Q: The Lesser Himalayas are also known as the:
 A) Himadri
 B) Trans Himalayas
-C) **Himachal**
+C) Himachal
 D) Outer Himalayas
 ANS: C
-Q: The average height of the peaks in the **Lesser Himalayas** (Himachal) is approximately:
-A) **3800 - 4500 meters**
+Q: The average height of the peaks in the Lesser Himalayas (Himachal) is approximately:
+A) 3800 - 4500 meters
 B) 6000 meters
 C) 1000 meters
 D) 8000 meters
 ANS: A
-Q: In the state of **Jammu and Kashmir**, the Lesser Himalayas are locally known as the:
+Q: In the state of Jammu and Kashmir, the Lesser Himalayas are locally known as the:
 A) Dhaula Dhar Range
 B) Nag Tibba Range
-C) **Pir Panjal Range**
+C) Pir Panjal Range
 D) Mahabharat Range
 ANS: C
-Q: In the state of **Himachal Pradesh**, the Lesser Himalayas are locally known as the:
+Q: In the state of Himachal Pradesh, the Lesser Himalayas are locally known as the:
 A) Pir Panjal Range
-B) **Dhaula Dhar Range**
+B) Dhaula Dhar Range
 C) Nag Tibba Range
 D) Mahabharat Range
 ANS: B
-Q: The **Outer Himalayas** are also known as the:
+Q: The Outer Himalayas are also known as the:
 A) Great Himalayas
 B) Lesser Himalayas
-C) **Shiwalik Range**
+C) Shiwalik Range
 D) Trans Himalayas
 ANS: C
-Q: The average height of the **Shiwalik Range** (Outer Himalayas) is the lowest among the three ranges, standing at approximately:
+Q: The average height of the Shiwalik Range (Outer Himalayas) is the lowest among the three ranges, standing at approximately:
 A) 3000 meters
 B) 2000 meters
-C) **1000 meters**
+C) 1000 meters
 D) 500 meters
 ANS: C
-Q: The **Duns** are **longitudinal valleys** lying between which two Himalayan ranges?
+Q: The Duns are longitudinal valleys lying between which two Himalayan ranges?
 A) Great Himalayas and Lesser Himalayas
-B) **Lesser Himalayas and Shiwaliks**
+B) Lesser Himalayas and Shiwaliks
 C) Trans Himalayas and Great Himalayas
 D) Shiwaliks and North Indian Plains
 ANS: B
-Q: Which of the following is the **largest** and most famous Duns valley?
+Q: Which of the following is the largest and most famous Duns valley?
 A) Patli Dun
 B) Kotli Dun
-C) **Dehradun**
+C) Dehradun
 D) Kali Dun
 ANS: C
 Q: In the Eastern Himalayas (e.g., Sikkim and West Bengal), the soft unconsolidated deposits of the Shiwalik region are known as:
 A) Duns
-B) **Duars**
+B) Duars
 C) Bhabhar
 D) Terai
 ANS: B
-Q: The **Kashmir Valley** (famous for saffron cultivation) lies between which two major Himalayan ranges?
+Q: The Kashmir Valley (famous for saffron cultivation) lies between which two major Himalayan ranges?
 A) Lesser Himalayas and Shiwalik
 B) Shiwalik and Northern Plains
-C) **Great Himalayas and Lesser Himalayas**
+C) Great Himalayas and Lesser Himalayas
 D) Trans Himalayas and Great Himalayas
 ANS: C
 Q: The division of the Himalayas into sections like Punjab, Kumaon, Nepal, and Assam Himalayas is based on:
 A) Altitude and height variation
-B) **Rivers (demarcation by river valleys)**
+B) Rivers (demarcation by river valleys)
 C) Political boundaries (states)
 D) Rock composition
 ANS: B
-Q: The section of the Himalayas located between the **Indus** and **Satluj** rivers is known as the:
+Q: The section of the Himalayas located between the Indus and Satluj rivers is known as the:
 A) Kumaon Himalayas
 B) Nepal Himalayas
-C) **Punjab Himalayas** (also Kashmir Himalayas)
+C) Punjab Himalayas (also Kashmir Himalayas)
 D) Assam Himalayas
 ANS: C
-Q: The section of the Himalayas located between the **Satluj** and **Kail** rivers is known as the:
+Q: The section of the Himalayas located between the Satluj and Kail rivers is known as the:
 A) Punjab Himalayas
-B) **Kumaon Himalayas** (largely Uttarakhand)
+B) Kumaon Himalayas (largely Uttarakhand)
 C) Nepal Himalayas
 D) Assam Himalayas
 ANS: B
-Q: The section of the Himalayas located between the **Kall** and **Tista** rivers is known as the:
+Q: The section of the Himalayas located between the Kall and Tista rivers is known as the:
 A) Kumaon Himalayas
-B) **Nepal Himalayas** (largest section)
+B) Nepal Himalayas (largest section)
 C) Assam Himalayas
 D) Arunachal Himalayas
 ANS: B
-Q: The section of the Himalayas located between the **Tista** and **Dihang (Brahmaputra)** rivers is known as the:
+Q: The section of the Himalayas located between the Tista and Dihang (Brahmaputra) rivers is known as the:
 A) Nepal Himalayas
 B) Darjeeling Himalayas
-C) **Assam Himalayas**
+C) Assam Himalayas
 D) Arunachal Himalayas
 ANS: C
-Q: The local term **"Bugyals"** refers to the:
+Q: The local term Bugyals refers to the:
 A) Glacial moraines in Kashmir.
-B) **Summer grasslands/alpine meadows in the higher reaches of Uttarakhand.**
+B) Summer grasslands/alpine meadows in the higher reaches of Uttarakhand.
 C) Soft deposits in the Shiwalik region.
 D) Coniferous forests of the Greater Himalayas.
 ANS: B
-Q: Which of the following is an example of a **Residual Mountain** (Old Fold Mountain)?
+Q: Which of the following is an example of a Residual Mountain (Old Fold Mountain)?
 A) Himalayas
 B) Andes
-C) **Aravallis**
+C) Aravallis
 D) Alps
 ANS: C
-Q: The **Aravallis** were mentioned as one of the world's **Oldest** Fold Mountains, comparable to the:
+Q: The Aravallis were mentioned as one of the world's Oldest Fold Mountains, comparable to the:
 A) Himalayas
 B) Andes
-C) **Appalachians (USA)** and **Urals (Russia)**
+C) Appalachians (USA) and Urals (Russia)
 D) Alps
 ANS: C
-Q: The formation of **Block Mountains** is associated with:
+Q: The formation of Block Mountains is associated with:
 A) Convergence of tectonic plates
 B) Volcanic eruptions
-C) **Faulting (vertical slippage) of the Earth's crust**
+C) Faulting (vertical slippage) of the Earth's crust
 D) Sedimentary deposition
 ANS: C
-Q: In block mountain formation, the uplifted block is called a **Horst**, and the down-faulted valley is called a:
+Q: In block mountain formation, the uplifted block is called a Horst, and the down-faulted valley is called a:
 A) Dun
-B) **Graben (Rift Valley)**
+B) Graben (Rift Valley)
 C) Pass
 D) Delta
 ANS: B
-Q: The mountain range known as **Himachal** that runs through India and has an average height of approximately 4000m is the:
+Q: The mountain range known as Himachal that runs through India and has an average height of approximately 4000m is the:
 A) Great Himalayas
 B) Trans Himalayas
-C) **Lesser Himalayas**
+C) Lesser Himalayas
 D) Shiwalik
 ANS: C
-Q: **Karewa** formations, which are lacustrine (lake bed) deposits, are known to be highly suitable for the cultivation of:
+Q: Karewa formations, which are lacustrine (lake bed) deposits, are known to be highly suitable for the cultivation of:
 A) Tea
 B) Rice
 C) Cotton
-D) **Saffron (Kesar)**
+D) Saffron (Kesar)
 ANS: D
-Q: The **Easternmost extension** of the Himalayas, marked by the Patkai, Naga, Manipur, and Mizo hills, is known as the:
+Q: The Easternmost extension of the Himalayas, marked by the Patkai, Naga, Manipur, and Mizo hills, is known as the:
 A) Eastern Ghats
 B) Shivaliks
-C) **Purvanchal Himalayas**
+C) Purvanchal Himalayas
 D) Arakan Yoma
 ANS: C
-Q: Which of the following hills is **NOT** a part of the Purvanchal Himalayas?
+Q: Which of the following hills is NOT a part of the Purvanchal Himalayas?
 A) Naga Hills
 B) Patkai Bum
 C) Mizo Hills (Lushai Hills)
-D) **Garo Hills** (Part of the Peninsular Plateau in Meghalaya)
+D) Garo Hills (Part of the Peninsular Plateau in Meghalaya)
 ANS: D
-Q: The **Di-hang** (or Dihang) river in Arunachal Pradesh is another name for the:
+Q: The Di-hang (or Dihang) river in Arunachal Pradesh is another name for the:
 A) Ganga
 B) Yamuna
-C) **Brahmaputra**
+C) Brahmaputra
 D) Mahanadi
 ANS: C
-Q: The mountain pass that connects **Jammu** to **Srinagar** is the:
+Q: The mountain pass that connects Jammu to Srinagar is the:
 A) Zoji La
 B) Burzil Pass
-C) **BanihaI Pass**
+C) BanihaI Pass
 D) Fotu La
 ANS: C
-Q: The mountain pass that connects **Srinagar** to **Leh** (Ladakh) is the:
+Q: The mountain pass that connects Srinagar to Leh (Ladakh) is the:
 A) Pir Panjal Pass
-B) **Zoji La**
+B) Zoji La
 C) Shipki La
 D) Khardung La
 ANS: B
-Q: The **Satluj River** enters India through which mountain pass in Himachal Pradesh?
+Q: The Satluj River enters India through which mountain pass in Himachal Pradesh?
 A) Rohtang Pass
 B) Bara Lacha La
-C) **Shipki La**
+C) Shipki La
 D) Lipulekh Pass
 ANS: C
-Q: The world's **longest single-tube high-altitude highway tunnel**, the **Atal Tunnel** (formerly Rohtang Tunnel), is located in which pass?
+Q: The world's longest single-tube high-altitude highway tunnel, the Atal Tunnel (formerly Rohtang Tunnel), is located in which pass?
 A) Shipki La Pass
-B) **Rohtang Pass**
+B) Rohtang Pass
 C) Bara Lacha La Pass
 D) Nathu La Pass
 ANS: B
-Q: The **Lipulekh Pass** is a critical trilateral border point contested by India, China, and:
+Q: The Lipulekh Pass is a critical trilateral border point contested by India, China, and:
 A) Bhutan
 B) Pakistan
-C) **Nepal**
+C) Nepal
 D) Myanmar
 ANS: C
-Q: The **Khardung La Pass**, located in the Ladakh Range, was once considered the **highest motorable pass** in the world, until surpassed by which pass?
+Q: The Khardung La Pass, located in the Ladakh Range, was once considered the highest motorable pass in the world, until surpassed by which pass?
 A) Nathu La
 B) Rohtang
-C) **Umling La** (also in Ladakh)
+C) Umling La (also in Ladakh)
 D) Bara Lacha La
 ANS: C
-Q: The **Nathula Pass** (an important trading post with China) and **Jelep La Pass** are located in which state?
+Q: The Nathula Pass (an important trading post with China) and Jelep La Pass are located in which state?
 A) Uttarakhand
 B) Arunachal Pradesh
-C) **Sikkim**
+C) Sikkim
 D) Himachal Pradesh
 ANS: C
-Q: The mountain peak locally known as the **'Blue Mountain'** is:
-A) **Phawngpui (Phangpui) in Mizoram**
+Q: The mountain peak locally known as the 'Blue Mountain' is:
+A) Phawngpui (Phangpui) in Mizoram
 B) Dhaula Giri in Nepal
 C) Kangto in Arunachal Pradesh
 D) Saramati in Nagaland
 ANS: A
-Q: The general direction of the Himalayan ranges in **Jammu and Kashmir** is:
+Q: The general direction of the Himalayan ranges in Jammu and Kashmir is:
 A) North-South
 B) South-West to North-East
-C) **North-West to South-East**
+C) North-West to South-East
 D) East-West
 ANS: C
-Q: The peak **Nanda Devi** (7816 m), the highest peak in Uttarakhand, is located in the:
+Q: The peak Nanda Devi (7816 m), the highest peak in Uttarakhand, is located in the:
 A) Shiwalik Range
-B) **Great Himalayas (Himadri)**
+B) Great Himalayas (Himadri)
 C) Trans Himalayas
 D) Lesser Himalayas
 ANS: B
-Q: The peak **Lhotse** (8516 m), the world's fourth-highest peak, is located near which peak?
+Q: The peak Lhotse (8516 m), the world's fourth-highest peak, is located near which peak?
 A) K2
-B) **Mount Everest**
+B) Mount Everest
 C) Kanchenjunga
 D) Nanga Parbat
 ANS: B
-Q: The mountain range known as the **"Roof of the World"** is the:
+Q: The mountain range known as the Roof of the World is the:
 A) Himalayan Range
-B) **Pamir Knot** (also Tibeten Plateau)
+B) Pamir Knot (also Tibeten Plateau)
 C) Karakoram Range
 D) Great Himalayan Range
 ANS: B
-QQ: The **widest** portion of the Himalayas is found in:
+QQ: The widest portion of the Himalayas is found in:
 A) Arunachal Pradesh (East)
-B) **Kashmir (West)**
+B) Kashmir (West)
 C) Sikkim
 D) Nepal
 ANS: B
-Q: The width of the Himalayas **decreases** while moving from:
+Q: The width of the Himalayas decreases while moving from:
 A) North to South
 B) East to West
-C) **West to East**
+C) West to East
 D) South to North
 ANS: C
-Q: The **Shivalik Range** disappears in the **Eastern Himalayas** due to:
+Q: The Shivalik Range disappears in the Eastern Himalayas due to:
 A) Excessive elevation.
 B) Increased volcanic activity.
-C) **Merging with the deposits of the North Indian Plains and the dominance of Duars.**
+C) Merging with the deposits of the North Indian Plains and the dominance of Duars.
 D) Glacial erosion.
 ANS: C
-Q: The general orientation of the **Purvanchal Hills** (e.g., Patkai, Naga, Mizo) is:
+Q: The general orientation of the Purvanchal Hills (e.g., Patkai, Naga, Mizo) is:
 A) East-West
-B) **North-South**
+B) North-South
 C) South-West to North-East
 D) Highly fragmented
 ANS: B
-Q: The deepest gorge in the Himalayas, where the Indus River cuts through the Nanga Parbat, is an example of **Antecedent Drainage**, meaning:
+Q: The deepest gorge in the Himalayas, where the Indus River cuts through the Nanga Parbat, is an example of Antecedent Drainage, meaning:
 A) The river existed before the mountain range.
 B) The gorge formed due to glacial melt.
 C) The gorge is prone to landslides.
 D) The river is an offshoot of the Ganga.
 ANS: A
-Q: The movement rate of the Indian Plate (in the Himalayan region) has **decreased** over millions of years, from ~14 cm/year initially to approximately:
+Q: The movement rate of the Indian Plate (in the Himalayan region) has decreased over millions of years, from ~14 cm/year initially to approximately:
 A) 10 cm/year
 B) 5 cm/year
-C) **1-2 cm/year**
+C) 1-2 cm/year
 D) 0.5 cm/year
 ANS: C
-Q: The **BanihaI Pass** and **Pir Panjal Pass** are located in the **Pir Panjal Range**, which is a part of the:
+Q: The BanihaI Pass and Pir Panjal Pass are located in the Pir Panjal Range, which is a part of the:
 A) Great Himalayas
-B) **Lesser Himalayas**
+B) Lesser Himalayas
 C) Shiwalik Range
 D) Trans Himalayas
 ANS: B
-Q: The **Simultaneous Bending (Syntaxial Bend)** of the Himalayan ranges (e.g., near Namcha Barwa) marks the point where the mountains turn:
+Q: The Simultaneous Bending (Syntaxial Bend) of the Himalayan ranges (e.g., near Namcha Barwa) marks the point where the mountains turn:
 A) East-West
-B) **South-West**
+B) South-West
 C) North-East
 D) North-South
 ANS: D
 
 [SUBJECT: Geography]
 [CHAPTER: Peninsular Plateaus]
-Q: The **Peninsular Plateau** of India is bordered by water on three sides, a geographical feature known as a:
+Q: The Peninsular Plateau of India is bordered by water on three sides, a geographical feature known as a:
 A) Isthmus
 B) Gulf
 C) Archipelago
-D) **Peninsula**
+D) Peninsula
 ANS: D
 Q: Geologically, the Peninsular Plateau is considered a:
 A) Young Fold Mountain range
 B) Volcanic arc
-C) **Stable block of ancient landmass**
+C) Stable block of ancient landmass
 D) Recently uplifted plain
 ANS: C
-Q: Which river acts as the natural boundary dividing the Peninsular Plateau into the **Central Highlands** and the **Deccan Plateau**?
+Q: Which river acts as the natural boundary dividing the Peninsular Plateau into the Central Highlands and the Deccan Plateau?
 A) Tapi (Tapti) River
 B) Godavari River
-C) **Narmada River**
+C) Narmada River
 D) Son River
 ANS: C
-Q: The general slope of the **Deccan Plateau** is:
+Q: The general slope of the Deccan Plateau is:
 A) North to South
 B) South to North
 C) West to North-East
-D) **West to East**
+D) West to East
 ANS: D
-Q: The general slope of the **Central Highlands** (North of the Narmada) is:
+Q: The general slope of the Central Highlands (North of the Narmada) is:
 A) South to North-West
-B) **South-West to North-East**
+B) South-West to North-East
 C) East to West
 D) North to South
 ANS: B
-Q: The Central Highlands are drained by rivers like ChambaI, Sind, Betwa, and Ken, which flow towards the **Ganga/Yamuna** river system, indicating their slope is towards the:
+Q: The Central Highlands are drained by rivers like ChambaI, Sind, Betwa, and Ken, which flow towards the Ganga/Yamuna river system, indicating their slope is towards the:
 A) South
 B) West
-C) **North-East**
+C) North-East
 D) South-West
 ANS: C
-Q: Which of the following is the **oldest mountain range** in India and one of the oldest in the world?
+Q: Which of the following is the oldest mountain range in India and one of the oldest in the world?
 A) Satpura Range
 B) Vindhya Range
 C) Western Ghats
-D) **Aravalli Range**
+D) Aravalli Range
 ANS: D
-Q: The highest peak of the **Aravalli Range** is:
+Q: The highest peak of the Aravalli Range is:
 A) Mahendragiri
 B) Guru Dattatreya
-C) **Guru Shikhar** (located in Mount Abu)
+C) Guru Shikhar (located in Mount Abu)
 D) Doddabetta
 ANS: C
-Q: The Aravalli Range runs approximately **800 km** from the Gujarat-Delhi border in the North-East to which state in the South-West?
+Q: The Aravalli Range runs approximately 800 km from the Gujarat-Delhi border in the North-East to which state in the South-West?
 A) Maharashtra
 B) Madhya Pradesh
-C) **Gujarat**
+C) Gujarat
 D) Rajasthan
 ANS: C
-Q: The **Raisina Hills** in Delhi, where the Rashtrapati Bhavan is located, are an extension of the:
+Q: The Raisina Hills in Delhi, where the Rashtrapati Bhavan is located, are an extension of the:
 A) Satpura Range
 B) Himalayan Range
-C) **Aravalli Range**
+C) Aravalli Range
 D) Eastern Ghats
 ANS: C
-Q: The famous **Dilwara Jain Temples** are located on the hills of:
+Q: The famous Dilwara Jain Temples are located on the hills of:
 A) Girnar Hills
 B) Shevaroy Hills
-C) **Mount Abu**
+C) Mount Abu
 D) Gir Hills
 ANS: C
-Q: The **Malwa Plateau** (a part of the Central Highlands) is primarily composed of:
+Q: The Malwa Plateau (a part of the Central Highlands) is primarily composed of:
 A) Metamorphic rocks
 B) Granitic rocks
-C) **Volcanic lava (Deccan Traps)**
+C) Volcanic lava (Deccan Traps)
 D) Sedimentary rocks
 ANS: C
 Q: The Central Highlands region is comprised of several smaller plateaus, including the Malwa, Bundelkhand, and:
 A) Telengana Plateau
-B) **Chota Nagpur Plateau**
+B) Chota Nagpur Plateau
 C) Karnataka Plateau
 D) Shillong Plateau
 ANS: B
-Q: The **Chota Nagpur Plateau** is often called the **"Ruhr of India"** because of its richness in:
+Q: The Chota Nagpur Plateau is often called the Ruhr of India because of its richness in:
 A) Timber and forests
-B) **Mineral resources (coal, iron ore, mica)**
+B) Mineral resources (coal, iron ore, mica)
 C) Fertile black soil
 D) Hydroelectric power potential
 ANS: B
-Q: The highest peak of the **Chota Nagpur Plateau** (and in the state of Jharkhand) is:
+Q: The highest peak of the Chota Nagpur Plateau (and in the state of Jharkhand) is:
 A) Rajmahal Hills
 B) Netarhat Hill
-C) **Parasnath Hill**
+C) Parasnath Hill
 D) Girnar Hill
 ANS: C
-Q: The **Deccan Plateau** is bounded on the North by the:
+Q: The Deccan Plateau is bounded on the North by the:
 A) Aravalli Range
 B) Western Ghats
-C) **Satpura Range**
+C) Satpura Range
 D) Eastern Ghats
 ANS: C
-Q: The highest peak of the **Satpura Range** is:
+Q: The highest peak of the Satpura Range is:
 A) Amarkantak
-B) **Dhupgarh**
+B) Dhupgarh
 C) Mahabaleshwar
 D) Guru Shikhar
 ANS: B
-Q: The **Queen of Satpura** (a hill station where Dhupgarh is located) is:
+Q: The Queen of Satpura (a hill station where Dhupgarh is located) is:
 A) Bhor Ghat
 B) Saputara
-C) **Pachmarhi**
+C) Pachmarhi
 D) Khandala
 ANS: C
-Q: The Eastward extensions of the Satpura Range include the Mahadeo Hils, the **Maikal Range**, and the:
+Q: The Eastward extensions of the Satpura Range include the Mahadeo Hils, the Maikal Range, and the:
 A) Anaimalai Hills
 B) Nilgiri Hills
-C) **Kaimur Hils**
+C) Kaimur Hils
 D) Palani Hils
 ANS: C
-Q: The rivers **Narmada** and **Son** both originate from the:
+Q: The rivers Narmada and Son both originate from the:
 A) Chota Nagpur Plateau
 B) Vindhya Range
-C) **Amarkantak Plateau**
+C) Amarkantak Plateau
 D) Maikal Range
 ANS: C
-Q: The **Western Ghats** are **Continuous** and can only be crossed through passes, while the **Eastern Ghats** are:
+Q: The Western Ghats are Continuous and can only be crossed through passes, while the Eastern Ghats are:
 A) Also continuous
 B) Higher in elevation
-C) **Discontinuous (broken by eastward flowing rivers)**
+C) Discontinuous (broken by eastward flowing rivers)
 D) Older in formation
 ANS: C
-Q: The **Western Ghats** are **Higher** than the Eastern Ghats, with an average elevation of approximately:
+Q: The Western Ghats are Higher than the Eastern Ghats, with an average elevation of approximately:
 A) 600 meters
 B) 900 meters
-C) **1200 meters**
+C) 1200 meters
 D) 1500 meters
 ANS: C
-Q: The general height of the **Western Ghats** is observed to:
+Q: The general height of the Western Ghats is observed to:
 A) Decrease from North to South
 B) Remain uniform throughout
-C) **Increase progressively from North to South**
+C) Increase progressively from North to South
 D) Increase only in Maharashtra
 ANS: C
-Q: The highest peak in **South India** (and the highest peak of the Western Ghats) is:
+Q: The highest peak in South India (and the highest peak of the Western Ghats) is:
 A) Doddabetta
 B) Guru Shikhar
-C) **Anaimudi**
+C) Anaimudi
 D) Kalsubai
 ANS: C
-Q: The second highest peak in **South India** is:
+Q: The second highest peak in South India is:
 A) Anaimudi
-B) **Doddabetta**
+B) Doddabetta
 C) Kalsubai
 D) Mulayanagiri
 ANS: B
-Q: The **Western Ghats** and the **Eastern Ghats** meet at the:
+Q: The Western Ghats and the Eastern Ghats meet at the:
 A) Anaimalai Hills
 B) Cardamom Hills
-C) **Nilgiri Hills**
+C) Nilgiri Hills
 D) Palani Hils
 ANS: C
-Q: The famous hill station **Ooty (Udhagamandalam)** is located in the:
+Q: The famous hill station Ooty (Udhagamandalam) is located in the:
 A) Anaimalai Hills
 B) Cardamom Hills
-C) **Nilgiri Hills**
+C) Nilgiri Hills
 D) Palani Hils
 ANS: C
-Q: The pass that connects **Mumbai to Nashik** across the Western Ghats is the:
+Q: The pass that connects Mumbai to Nashik across the Western Ghats is the:
 A) Bhor Ghat
 B) Pal Ghat (Palakkad Gap)
-C) **Thal Ghat**
+C) Thal Ghat
 D) Godavari Gap
 ANS: C
-Q: The pass that connects **Mumbai to Pune** across the Western Ghats is the:
+Q: The pass that connects Mumbai to Pune across the Western Ghats is the:
 A) Thal Ghat
 B) Pal Ghat (Palakkad Gap)
-C) **Bhor Ghat**
+C) Bhor Ghat
 D) Lonawala Gap
 ANS: C
-Q: The pass that connects the **Nilgiri Hills** to the **Anaimalai Hills** (Palakkad Gap) is the:
+Q: The pass that connects the Nilgiri Hills to the Anaimalai Hills (Palakkad Gap) is the:
 A) Thal Ghat
 B) Bhor Ghat
-C) **Pal Ghat**
+C) Pal Ghat
 D) Shenkottah Pass
 ANS: C
-Q: The **highest peak of the Eastern Ghats** is traditionally considered to be:
-A) **Mahendragiri** (1501 m, in Odisha)
+Q: The highest peak of the Eastern Ghats is traditionally considered to be:
+A) Mahendragiri (1501 m, in Odisha)
 B) Arma Konda
 C) Jindhagada
 D) Shevaroy Peak
 ANS: A
-Q: The major reason for the **discontinuous nature** of the Eastern Ghats is:
+Q: The major reason for the discontinuous nature of the Eastern Ghats is:
 A) Block faulting
 B) Volcanic activity
-C) **Erosion by large Eastward flowing rivers**
+C) Erosion by large Eastward flowing rivers
 D) High density of human settlements
 ANS: C
-Q: Which mountain range (now considered a residual mountain) forms the boundary of the Central Highlands in the **North-West**?
+Q: Which mountain range (now considered a residual mountain) forms the boundary of the Central Highlands in the North-West?
 A) Vindhya Range
 B) Satpura Range
-C) **Aravalli Range**
+C) Aravalli Range
 D) Rajmahal Hills
 ANS: C
 Q: The largest single stretch of the Peninsular Plateau is the:
 A) Malwa Plateau
 B) Central Highlands
-C) **Deccan Plateau**
+C) Deccan Plateau
 D) Chota Nagpur Plateau
 ANS: C
-Q: Which of the following hills is located in the state of **Tamil Nadu** and is part of the Eastern Ghats?
+Q: Which of the following hills is located in the state of Tamil Nadu and is part of the Eastern Ghats?
 A) Patkai Hills
 B) Cardamom Hills
-C) **Shevaroy Hills**
+C) Shevaroy Hills
 D) Nallamala Hills
 ANS: C
-Q: The **Meghalaya Plateau** (Karbi-Anglong Plateau) is a detached extension of the Peninsular Plateau, separated from the main block by the:
+Q: The Meghalaya Plateau (Karbi-Anglong Plateau) is a detached extension of the Peninsular Plateau, separated from the main block by the:
 A) Godavari River Valley
 B) Narmada River Valley
-C) **Malda Gap (Garo-Rajmahal Gap)**
+C) Malda Gap (Garo-Rajmahal Gap)
 D) Mahanadi Valley
 ANS: C
-Q: The **Rajmahal Hills** are located in the state of:
+Q: The Rajmahal Hills are located in the state of:
 A) Bihar
-B) **Jharkhand**
+B) Jharkhand
 C) West Bengal
 D) Odisha
 ANS: B
-Q: The **Bore Caves** (limestone caves) are a significant tourist attraction located in the **Ananthagiri Hills** of:
+Q: The Bore Caves (limestone caves) are a significant tourist attraction located in the Ananthagiri Hills of:
 A) Odisha
 B) Tamil Nadu
 C) Kerala
-D) **Andhra Pradesh**
+D) Andhra Pradesh
 ANS: D
-Q: The three prominent hill ranges of the **Meghalaya Plateau** running from West to East are:
+Q: The three prominent hill ranges of the Meghalaya Plateau running from West to East are:
 A) Patkai, Naga, Mizo
-B) **Garo, Khasi, Jaintia**
+B) Garo, Khasi, Jaintia
 C) Abor, Miri, Mishmi
 D) Rajmahal, Kaimur, Maikal
 ANS: B
-Q: The **highest peak of the Vindhya Range** is:
+Q: The highest peak of the Vindhya Range is:
 A) Dhupgarh
 B) Amarkantak
-C) **Sadbhavna Peak (Kalumar Peak)**
+C) Sadbhavna Peak (Kalumar Peak)
 D) Parasnath
 ANS: C
-Q: The **Bundelkhand** region, known for its water scarcity and presence of badlands, primarily covers parts of:
+Q: The Bundelkhand region, known for its water scarcity and presence of badlands, primarily covers parts of:
 A) Jharkhand and West Bengal
-B) **Uttar Pradesh and Madhya Pradesh**
+B) Uttar Pradesh and Madhya Pradesh
 C) Gujarat and Rajasthan
 D) Maharashtra and Karnataka
 ANS: B
-Q: The **Baghelkhand** region lies to the East of the Bundelkhand region and covers parts of:
+Q: The Baghelkhand region lies to the East of the Bundelkhand region and covers parts of:
 A) Gujarat and Rajasthan
-B) **Madhya Pradesh and Uttar Pradesh**
+B) Madhya Pradesh and Uttar Pradesh
 C) Odisha and Jharkhand
 D) Maharashtra and Karnataka
 ANS: B
-Q: The **Anaimudi Peak** is located in the:
-A) **Anamala Hills**
+Q: The Anaimudi Peak is located in the:
+A) Anamala Hills
 B) Nilgiri Hills
 C) Cardamom Hills
 D) Palani Hils
 ANS: A
-Q: The **Doddabetta Peak** is located in the:
+Q: The Doddabetta Peak is located in the:
 A) Anamala Hills
-B) **Nilgiri Hills**
+B) Nilgiri Hills
 C) Cardamom Hills
 D) Palani Hils
 ANS: B
-Q: The hill ranges known as the **Cardamom Hills** are the southernmost extension of the Western Ghats, famous for the cultivation of:
+Q: The hill ranges known as the Cardamom Hills are the southernmost extension of the Western Ghats, famous for the cultivation of:
 A) Tea and coffee
 B) Rubber
-C) **Spices (Cardamom, Pepper)**
+C) Spices (Cardamom, Pepper)
 D) Cotton
 ANS: C
-Q: The **Satpura Range** (and the Western Ghats) is an example of a **Block Mountain** because:
+Q: The Satpura Range (and the Western Ghats) is an example of a Block Mountain because:
 A) It was formed by subduction.
 B) It is a residual mass.
-C) **It was formed between two rift valleys (Narmada and Tapi).**
+C) It was formed between two rift valleys (Narmada and Tapi).
 D) It is an old fold mountain.
 ANS: C
-Q: The **High-level Laterite Plateau** in the Peninsular region is predominantly found in:
+Q: The High-level Laterite Plateau in the Peninsular region is predominantly found in:
 A) The Coromandel Coast
 B) The Black Soil Region
-C) **The West Coast (Malabar)**
+C) The West Coast (Malabar)
 D) The East Coast (Utkal)
 ANS: C
-Q: The **Girnar Hills**, famous for Jain and Hindu temples, are located in which state?
+Q: The Girnar Hills, famous for Jain and Hindu temples, are located in which state?
 A) Maharashtra
-B) **Gujarat**
+B) Gujarat
 C) Rajasthan
 D) Madhya Pradesh
 ANS: B
 
 [SUBJECT: Geography]
 [CHAPTER: Islands]
-Q: The **Lakshadweep** island group, located in the Arabian Sea, is primarily an example of which type of island?
+Q: The Lakshadweep island group, located in the Arabian Sea, is primarily an example of which type of island?
 A) Volcanic islands
-B) **Coral islands (Atolls)**
+B) Coral islands (Atolls)
 C) Continental islands
 D) Riverine islands
 ANS: B
-Q: The **Andaman and Nicobar** island group, located in the Bay of Bengal, is primarily an elevated portion of:
+Q: The Andaman and Nicobar island group, located in the Bay of Bengal, is primarily an elevated portion of:
 A) Coral reefs and atolls
-B) **Submerged mountains (extension of Arakan Yoma)**
+B) Submerged mountains (extension of Arakan Yoma)
 C) Ancient landmass uplifted by block faulting
 D) Sedimentary deposits
 ANS: B
-Q: The **Arakan Yoma Range**, an extension of the Himalayas into Myanmar, is directly associated with the origin of the:
+Q: The Arakan Yoma Range, an extension of the Himalayas into Myanmar, is directly associated with the origin of the:
 A) Lakshadweep Islands
 B) Sri Lanka
-C) **Andaman and Nicobar Islands**
+C) Andaman and Nicobar Islands
 D) Maldives
 ANS: C
-Q: Which **Channel** separates the **Andaman Group** of islands from the **Nicobar Group** of islands?
+Q: Which Channel separates the Andaman Group of islands from the Nicobar Group of islands?
 A) 8-Degree Channel
 B) 9-Degree Channel
-C) **10-Degree Channel**
+C) 10-Degree Channel
 D) Duncan Passage
 ANS: C
-Q: Which **Channel** separates the **Lakshadweep Group** of islands from the **Maldives**?
+Q: Which Channel separates the Lakshadweep Group of islands from the Maldives?
 A) 9-Degree Channel
-B) **8-Degree Channel**
+B) 8-Degree Channel
 C) 10-Degree Channel
 D) Great Channel
 ANS: B
-Q: Which **Channel** separates **Minicoy Island** (part of Lakshadweep) from the rest of the **Lakshadweep Islands**?
+Q: Which Channel separates Minicoy Island (part of Lakshadweep) from the rest of the Lakshadweep Islands?
 A) 8-Degree Channel
-B) **9-Degree Channel**
+B) 9-Degree Channel
 C) 10-Degree Channel
 D) Palk Strait
 ANS: B
-Q: **Minicoy Island** is separated from the **Maldives** by the:
-A) **8-Degree Channel**
+Q: Minicoy Island is separated from the Maldives by the:
+A) 8-Degree Channel
 B) 9-Degree Channel
 C) 11-Degree Channel
 D) Duncan Passage
 ANS: A
-Q: The only active volcano in India, **Barren Island**, is located in the:
+Q: The only active volcano in India, Barren Island, is located in the:
 A) Lakshadweep Islands
-B) **Andaman Islands** (East of Middle Andaman)
+B) Andaman Islands (East of Middle Andaman)
 C) Nicobar Islands
 D) Coastal areas of Gujarat
 ANS: B
-Q: The **Narcondam Island** is an example of a:
-A) **Dormant Volcano**
+Q: The Narcondam Island is an example of a:
+A) Dormant Volcano
 B) Active Volcano
 C) Extinct Volcano
 D) Coral Atoll
 ANS: A
-Q: The highest peak of the **entire Andaman and Nicobar Islands** is:
+Q: The highest peak of the entire Andaman and Nicobar Islands is:
 A) Mount Thuilier
 B) Mount Diya Volo
-C) **Saddle Peak (located in North Andaman)**
+C) Saddle Peak (located in North Andaman)
 D) Mount Koya
 ANS: C
-Q: The highest peak of the **Nicobar Group** of islands is:
+Q: The highest peak of the Nicobar Group of islands is:
 A) Saddle Peak
-B) **Mount Thuilier** (located in Great Nicobar)
+B) Mount Thuilier (located in Great Nicobar)
 C) Mount Diya Volo
 D) Mount Koya
 ANS: B
-Q: The **Southernmost point** of the Indian Union, **Indira Point**, is located on which island?
+Q: The Southernmost point of the Indian Union, Indira Point, is located on which island?
 A) Little Andaman
 B) Car Nicobar
-C) **Great Nicobar**
+C) Great Nicobar
 D) South Andaman
 ANS: C
-Q: The **Duncan Passage** separates:
+Q: The Duncan Passage separates:
 A) Little Andaman and Car Nicobar
-B) **South Andaman and Little Andaman**
+B) South Andaman and Little Andaman
 C) North Andaman and Middle Andaman
 D) Great Nicobar and Little Nicobar
 ANS: B
 Q: The capital of the Andaman and Nicobar Islands, formerly Port Blair, has been renamed:
 A) Havelock Island
 B) Neil Island
-C) **Shri Vijaypuram**
+C) Shri Vijaypuram
 D) Ross Island
 ANS: C
-Q: The **Great Nicobar Island** is separated from the **Sumatra Island of Indonesia** by the:
+Q: The Great Nicobar Island is separated from the Sumatra Island of Indonesia by the:
 A) 8-Degree Channel
 B) 9-Degree Channel
-C) **Great Channel (or Grand Channel)**
+C) Great Channel (or Grand Channel)
 D) Coco Channel
 ANS: C
-Q: The **Coco Channel** separates the **North Andaman Island** from:
+Q: The Coco Channel separates the North Andaman Island from:
 A) Sri Lanka
-B) **Coco Islands (Myanmar)**
+B) Coco Islands (Myanmar)
 C) Sumatra Island
 D) Maldives
 ANS: B
-Q: The **Lakshadweep Islands** are comprised of approximately how many islands?
+Q: The Lakshadweep Islands are comprised of approximately how many islands?
 A) 572
-B) **36**
+B) 36
 C) 100
 D) 205
 ANS: B
 Q: The capital of the Lakshadweep Islands is:
 A) Minicoy
 B) Andrott
-C) **Kavaratti**
+C) Kavaratti
 D) Amini
 ANS: C
-Q: Which island is the **largest island** in the Lakshadweep group?
+Q: Which island is the largest island in the Lakshadweep group?
 A) Kavaratti
-B) **Minicoy**
+B) Minicoy
 C) Andrott
 D) Agatti
 ANS: B
-Q: The **Cellular Jail (Kala Pani)**, a famous site from India's freedom struggle, is located in which island of the Andaman Group?
+Q: The Cellular Jail (Kala Pani), a famous site from India's freedom struggle, is located in which island of the Andaman Group?
 A) North Andaman
 B) Middle Andaman
-C) **South Andaman**
+C) South Andaman
 D) Little Andaman
 ANS: C
-Q: The **Highest Peak** of the **Andaman Group** of islands is:
+Q: The Highest Peak of the Andaman Group of islands is:
 A) Mount Thuilier
 B) Mount Diya Volo
-C) **Saddle Peak**
+C) Saddle Peak
 D) Mount Koya
 ANS: C
-Q: **Ross Island**, famous for its connection to Netaji Subhash Chandra Bose and the Indian National Army (INA), is now known as:
+Q: Ross Island, famous for its connection to Netaji Subhash Chandra Bose and the Indian National Army (INA), is now known as:
 A) Shahid Dweep
 B) Swaraj Dweep
-C) **Netaji Subhas Chandra Bose Dweep**
+C) Netaji Subhas Chandra Bose Dweep
 D) Mount Harriet
 ANS: C
-Q: The **Lakshadweep Islands** are predominantly formed by:
+Q: The Lakshadweep Islands are predominantly formed by:
 A) Volcanic lava
 B) Ancient continental rocks
-C) **Coral polyps and deposits**
+C) Coral polyps and deposits
 D) Glacial deposits
 ANS: C
-Q: The term **"Kayal"** in Kerala refers to:
+Q: The term Kayal in Kerala refers to:
 A) Volcanic craters
 B) Deep sea trenches
-C) **Backwaters (coastal lakes)**
+C) Backwaters (coastal lakes)
 D) Glacial valleys
 ANS: C
-Q: The famous **Vembanad Lake** and **Ashtamudi Lake** are examples of:
+Q: The famous Vembanad Lake and Ashtamudi Lake are examples of:
 A) Oxbow lakes
 B) Artificial reservoirs
-C) **Kayals (Backwaters)**
+C) Kayals (Backwaters)
 D) Freshwater lakes
 ANS: C
-Q: The **Nehru Trophy Vallamkali Boat Race** is held annually in the backwaters (Kayals) of:
+Q: The Nehru Trophy Vallamkali Boat Race is held annually in the backwaters (Kayals) of:
 A) Vembanad Lake
 B) Ashtamudi Lake
-C) **Punnamada Kayal**
+C) Punnamada Kayal
 D) Kolleru Lake
 ANS: C
-Q: The **Kachatheevu Island**, a small, disputed island, is claimed by both India and:
+Q: The Kachatheevu Island, a small, disputed island, is claimed by both India and:
 A) Maldives
-B) **Sri Lanka**
+B) Sri Lanka
 C) Myanmar
 D) Pakistan
 ANS: B
-Q: The **Pamban Island** (Rameswaram Island) is located in the **Gulf of Mannar**, near the coast of:
+Q: The Pamban Island (Rameswaram Island) is located in the Gulf of Mannar, near the coast of:
 A) Andhra Pradesh
 B) Kerala
-C) **Tamil Nadu**
+C) Tamil Nadu
 D) Karnataka
 ANS: C
-Q: The **Wheeler Island** (now **Dr. Abdul Kalam Island**), used as India's main missile testing site (ITR), is located off the coast of:
+Q: The Wheeler Island (now Dr. Abdul Kalam Island), used as India's main missile testing site (ITR), is located off the coast of:
 A) Andhra Pradesh
-B) **Odisha**
+B) Odisha
 C) West Bengal
 D) Gujarat
 ANS: B
-Q: The **Sriharikota Island** is located off the coast of **Andhra Pradesh** and is famous for:
+Q: The Sriharikota Island is located off the coast of Andhra Pradesh and is famous for:
 A) Major port facilities
 B) Oil and natural gas exploration
-C) **ISRO's Satish Dhawan Space Centre (SDSC)**
+C) ISRO's Satish Dhawan Space Centre (SDSC)
 D) Fishing industry
 ANS: C
-Q: The **Alia Bet Island** is located near the mouth of the **Narmada and Tapi rivers** off the coast of:
+Q: The Alia Bet Island is located near the mouth of the Narmada and Tapi rivers off the coast of:
 A) Maharashtra
-B) **Gujarat**
+B) Gujarat
 C) Goa
 D) West Bengal
 ANS: B
-Q: The highest altitude of the **Saddle Peak** in the Andaman Islands is approximately:
+Q: The highest altitude of the Saddle Peak in the Andaman Islands is approximately:
 A) 500 meters
 B) 650 meters
-C) **732 meters**
+C) 732 meters
 D) 880 meters
 ANS: C
-Q: The **Grand Channel** is also known as the **Six Degree Channel** because it is crossed by the 6° N Parallel of Latitude (close to Indira Point). This channel separates Great Nicobar from:
+Q: The Grand Channel is also known as the Six Degree Channel because it is crossed by the 6° N Parallel of Latitude (close to Indira Point). This channel separates Great Nicobar from:
 A) Thailand
-B) **Sumatra (Indonesia)**
+B) Sumatra (Indonesia)
 C) Java (Indonesia)
 D) Malaysia
 ANS: B
-Q: The **Pamban Island** (Rameswaram) separates the Palk Strait from the:
+Q: The Pamban Island (Rameswaram) separates the Palk Strait from the:
 A) Arabian Sea
-B) **Gulf of Mannar**
+B) Gulf of Mannar
 C) Bay of Bengal
 D) Andaman Sea
 ANS: B
-Q: The **Lakshadweep** island chain is located in the:
+Q: The Lakshadweep island chain is located in the:
 A) Bay of Bengal
 B) Gulf of Mannar
-C) **Arabian Sea**
+C) Arabian Sea
 D) Andaman Sea
 ANS: C
-Q: The **Palk Strait** connects which two water bodies?
+Q: The Palk Strait connects which two water bodies?
 A) Arabian Sea and Indian Ocean
-B) **Bay of Bengal and Arabian Sea/Indian Ocean** (via Palk Bay)
+B) Bay of Bengal and Arabian Sea/Indian Ocean (via Palk Bay)
 C) Andaman Sea and Bay of Bengal
 D) Gulf of Mannar and Indian Ocean
 ANS: B
-Q: The **Indira Point** was submerged during the devastating Tsunami of:
+Q: The Indira Point was submerged during the devastating Tsunami of:
 A) 1999
-B) **2004**
+B) 2004
 C) 2011
 D) 2016
 ANS: B
 Q: Which two islands are home to the only active and dormant volcanoes of India?
 A) Havelock and Neil
-B) **Barren and Narcondam**
+B) Barren and Narcondam
 C) Ross and Smith
 D) Little Andaman and Car Nicobar
 ANS: B
-Q: The **highest peak of the Andaman Group** of islands is:
+Q: The highest peak of the Andaman Group of islands is:
 A) Mount Diya Volo (Middle Andaman)
 B) Mount Koya (South Andaman)
-C) **Saddle Peak (North Andaman)**
+C) Saddle Peak (North Andaman)
 D) Mount Thuilier (Great Nicobar)
 ANS: C
-Q: Which of the following is **not** a traditional name given to an island in the Andaman and Nicobar group after the INA's presence in 1943-44?
+Q: Which of the following is not a traditional name given to an island in the Andaman and Nicobar group after the INA's presence in 1943-44?
 A) Shaheed Dweep (Neil Island)
 B) Swaraj Dweep (Havelock Island)
-C) **Netaji Dweep (Ross Island)**
-D) **Mahatma Dweep (No such official name)**
+C) Netaji Dweep (Ross Island)
+D) Mahatma Dweep (No such official name)
 ANS: D
-Q: The **Diu Island**, which is now part of the UT of Dadra and Nagar Haveli and Daman and Diu, is located off the coast of:
+Q: The Diu Island, which is now part of the UT of Dadra and Nagar Haveli and Daman and Diu, is located off the coast of:
 A) Mumbai
 B) Goa
-C) **Gujarat**
+C) Gujarat
 D) Maharashtra
 ANS: C
-Q: The **Shompen** tribe, a particularly vulnerable tribal group (PVTG), is found in which island of India?
+Q: The Shompen tribe, a particularly vulnerable tribal group (PVTG), is found in which island of India?
 A) Sentinel Island
-B) **Great Nicobar**
+B) Great Nicobar
 C) Little Andaman
 D) Little Nicobar
 ANS: B
-Q: The **Jarawa** tribe, known for maintaining isolation, is found in which island chain?
+Q: The Jarawa tribe, known for maintaining isolation, is found in which island chain?
 A) Lakshadweep
 B) Nicobar Islands
-C) **Andaman Islands**
+C) Andaman Islands
 D) New Guinea
 ANS: C
 Q: The largest island in the Andaman Group of islands is:
 A) North Andaman
-B) **Middle Andaman**
+B) Middle Andaman
 C) South Andaman
 D) Great Andaman
 ANS: B
 Q: Which one of the following is the smallest Union Territory (UT) of India in terms of geographical area?
 A) Daman and Diu
 B) Chandigarh
-C) **Lakshadweep**
+C) Lakshadweep
 D) Puducherry
 ANS: C
-Q: The **Port of Vizinjam**, which recently gained significance as India's first transshipment hub, is located off the coast of which state?
+Q: The Port of Vizinjam, which recently gained significance as India's first transshipment hub, is located off the coast of which state?
 A) Tamil Nadu
-B) **Kerala**
+B) Kerala
 C) Andhra Pradesh
 D) Karnataka
 ANS: B
-Q: The **11-Degree Channel** separates the **Amini Island** from the **Cannanore Island** in which group of islands?
+Q: The 11-Degree Channel separates the Amini Island from the Cannanore Island in which group of islands?
 A) Andaman and Nicobar
-B) **Lakshadweep**
+B) Lakshadweep
 C) Maldives
 D) Mauritius
 ANS: B
-Q: The **Gulf of Mannar** is located to the **West** of Sri Lanka. The **Palk Bay** is located to the:
+Q: The Gulf of Mannar is located to the West of Sri Lanka. The Palk Bay is located to the:
 A) South of Sri Lanka
 B) West of Sri Lanka
-C) **North-East of Sri Lanka**
+C) North-East of Sri Lanka
 D) South-West of Sri Lanka
 ANS: C
 
 [SUBJECT: Geography]
 [CHAPTER: Himalayan River System]
-Q: The **Himalayan Rivers** are **Perennial** in nature, meaning they have water throughout the year. This is due to their primary source being:
+Q: The Himalayan Rivers are Perennial in nature, meaning they have water throughout the year. This is due to their primary source being:
 A) Monsoon rainfall only
 B) Underground aquifers
-C) **Glaciers and continuous melting snow**
+C) Glaciers and continuous melting snow
 D) Tropical rainfall
 ANS: C
-Q: The **Peninsular Rivers** are largely **Ephemeral**, meaning they are:
+Q: The Peninsular Rivers are largely Ephemeral, meaning they are:
 A) Older in formation than Himalayan rivers
 B) Longer in course than Himalayan rivers
-C) **Seasonal, dependent mainly on monsoon rainfall**
+C) Seasonal, dependent mainly on monsoon rainfall
 D) Deeper in their river beds
 ANS: C
-Q: The **Indus River** is also known by its Tibetan name, **Singe Khamban**, which means:
+Q: The Indus River is also known by its Tibetan name, Singe Khamban, which means:
 A) Great River
 B) Blue Water
-C) **Lion's Mouth (Simha-ka-muh)**
+C) Lion's Mouth (Simha-ka-muh)
 D) Western Flow
 ANS: C
-Q: The **Indus River** (and its major Himalayan tributaries) originates near the:
+Q: The Indus River (and its major Himalayan tributaries) originates near the:
 A) Nanda Devi Peak
-B) **Kailash Mansarovar (Tibet)**
+B) Kailash Mansarovar (Tibet)
 C) Nanga Parbat
 D) Amarkantak Plateau
 ANS: B
 Q: The five major tributaries of the Indus River (Jhelum, Chenab, Ravi, Beas, Satluj) are collectively known as the:
 A) Doab
 B) Sapt Sindhu
-C) **Punch Nad (Five Rivers)**
+C) Punch Nad (Five Rivers)
 D) Inter-State Rivers
 ANS: C
-Q: The **Indus River** and its five tributaries merge at **Mithankot** (Pakistan) before flowing into the:
+Q: The Indus River and its five tributaries merge at Mithankot (Pakistan) before flowing into the:
 A) Bay of Bengal
 B) Gulf of Khambhat
-C) **Arabian Sea**
+C) Arabian Sea
 D) Rann of Kutch
 ANS: C
-Q: The **Chenab River** is the **Largest** tributary of the Indus, and is formed by the confluence of two rivers near the Bara Lacha La Pass:
+Q: The Chenab River is the Largest tributary of the Indus, and is formed by the confluence of two rivers near the Bara Lacha La Pass:
 A) Chandra and Bhaga
 B) Ravi and Beas
 C) Tawa and Son
 D) Alaknanda and Bhagirathi
 ANS: A
-Q: The **Satluj River** is the **Longest** tributary of the Indus, originating from **Rakas Lake (Rakshastal)** in Tibet and entering India through the:
+Q: The Satluj River is the Longest tributary of the Indus, originating from Rakas Lake (Rakshastal) in Tibet and entering India through the:
 A) Rohtang Pass
 B) Nathu La Pass
-C) **Shipki La Pass**
+C) Shipki La Pass
 D) Zoji La Pass
 ANS: C
-Q: Which of the following Indus tributaries **does NOT flow into Pakistan** and meets the Satluj River in Harike, Punjab?
+Q: Which of the following Indus tributaries does NOT flow into Pakistan and meets the Satluj River in Harike, Punjab?
 A) Ravi
 B) Jhelum
 C) Chenab
-D) **Beas**
+D) Beas
 ANS: D
-Q: The **Jhelum River** is known for forming **meanders** in its **youthful stage** (unusual for Himalayan rivers), and it is the main feeder river for which largest freshwater lake in India?
+Q: The Jhelum River is known for forming meanders in its youthful stage (unusual for Himalayan rivers), and it is the main feeder river for which largest freshwater lake in India?
 A) Loktak Lake
 B) Sambhar Lake
 C) Chilika Lake
-D) **Wular Lake**
+D) Wular Lake
 ANS: D
-Q: The **Ravi River** originates from the **Rohtang Pass** and is known as the **Trans-Boundary River** between:
+Q: The Ravi River originates from the Rohtang Pass and is known as the Trans-Boundary River between:
 A) India and China
-B) **India and Pakistan**
+B) India and Pakistan
 C) India and Nepal
 D) India and Bangladesh
 ANS: B
-Q: The **Indus Water Treaty (1960)**, mediated by the **World Bank**, allocated the waters of the Eastern Rivers (Ravi, Beas, Satluj) primarily to:
+Q: The Indus Water Treaty (1960), mediated by the World Bank, allocated the waters of the Eastern Rivers (Ravi, Beas, Satluj) primarily to:
 A) Pakistan (80%)
 B) Both countries equally (50%)
-C) **India (80%)**
+C) India (80%)
 D) Nepal (20%)
 ANS: C
-Q: The **Panch Prayag** refers to the five holy confluences of the **Alaknanda River** with other rivers in Uttarakhand. Which river joins the Alaknanda at **Rudraprayag**?
+Q: The Panch Prayag refers to the five holy confluences of the Alaknanda River with other rivers in Uttarakhand. Which river joins the Alaknanda at Rudraprayag?
 A) Bhagirathi
 B) Dhauliganga
 C) Pindar
-D) **Mandakini**
+D) Mandakini
 ANS: D
-Q: The **Devprayag** is the confluence where the **Alaknanda** River meets the **Bhagirathi River**, after which the river is officially named:
+Q: The Devprayag is the confluence where the Alaknanda River meets the Bhagirathi River, after which the river is officially named:
 A) Yamuna
 B) Hooghly
-C) **Ganga**
+C) Ganga
 D) Karnali
 ANS: C
-Q: The **Ganga River** has a total length of approximately:
+Q: The Ganga River has a total length of approximately:
 A) 2200 km
-B) **2525 km**
+B) 2525 km
 C) 2880 km
 D) 3200 km
 ANS: B
-Q: The largest tributary of the Ganga River by **Volume (water flow)** is the:
+Q: The largest tributary of the Ganga River by Volume (water flow) is the:
 A) Yamuna River
 B) Gandak River
-C) **Ghaghara (Karnali) River**
+C) Ghaghara (Karnali) River
 D) Kosi River
 ANS: C
-Q: The largest tributary of the Ganga River by **Length** is the:
+Q: The largest tributary of the Ganga River by Length is the:
 A) Ghaghara River
 B) Son River
-C) **Yamuna River**
+C) Yamuna River
 D) Kosi River
 ANS: C
-Q: The **Yamuna River** originates from the **Yamunotri Glacier** in the:
+Q: The Yamuna River originates from the Yamunotri Glacier in the:
 A) Kumaon Himalayas
 B) Great Himalayas
-C) **Banderpunch Range**
+C) Banderpunch Range
 D) Pir Panjal Range
 ANS: C
-Q: Which of the following is **NOT** a left-bank tributary of the Ganga River?
+Q: Which of the following is NOT a left-bank tributary of the Ganga River?
 A) Ramganga
 B) Gomti
 C) Kosi
-D) **Sone (Son)**
+D) Sone (Son)
 ANS: D
-Q: The **Sone River** is a major **Right-bank tributary** of the Ganga, and it originates from the:
+Q: The Sone River is a major Right-bank tributary of the Ganga, and it originates from the:
 A) Malwa Plateau
-B) **Amarkantak Plateau**
+B) Amarkantak Plateau
 C) Chota Nagpur Plateau
 D) Satpura Range
 ANS: B
-Q: The **Kosi River** is famously known as the **"Sorrow of Bihar"** because of its history of devastating floods caused by:
+Q: The Kosi River is famously known as the Sorrow of Bihar because of its history of devastating floods caused by:
 A) Melting glaciers
 B) Tectonic activity
-C) **Frequent shifts in its course**
+C) Frequent shifts in its course
 D) Deforestation
 ANS: C
-Q: The **Ghaghara River** is known as the **Karnali River** in:
+Q: The Ghaghara River is known as the Karnali River in:
 A) China
 B) Bhutan
-C) **Nepal**
+C) Nepal
 D) Bangladesh
 ANS: C
-Q: The **Sutlej River** (Satluj) is known by its ancient name:
+Q: The Sutlej River (Satluj) is known by its ancient name:
 A) Vitasta
 B) Asikni
 C) Parushni
-D) **Sutudri (Shatadru)**
+D) Sutudri (Shatadru)
 ANS: D
-Q: The **Sarda River**, a tributary of the Ghaghara, is known as the **Sarayu River** in the city of:
+Q: The Sarda River, a tributary of the Ghaghara, is known as the Sarayu River in the city of:
 A) Prayagraj
 B) Varanasi
 C) Lucknow
-D) **Ayodhya**
+D) Ayodhya
 ANS: D
-Q: Which river flows between the Vindhya and Satpura ranges in a **Rift Valley** before draining into the Arabian Sea?
+Q: Which river flows between the Vindhya and Satpura ranges in a Rift Valley before draining into the Arabian Sea?
 A) Godavari
 B) Krishna
-C) **Narmada**
+C) Narmada
 D) Mahanadi
 ANS: C
-Q: The **Brahmaputra River** has a total length of approximately:
+Q: The Brahmaputra River has a total length of approximately:
 A) 2525 km
-B) **2900 km**
+B) 2900 km
 C) 3200 km
 D) 3500 km
 ANS: B
-Q: The **Brahmaputra River** originates from the **Chemuyungdung Glacier (Angsi Glacier)** near:
+Q: The Brahmaputra River originates from the Chemuyungdung Glacier (Angsi Glacier) near:
 A) Gangotri
 B) Nanda Devi
-C) **Kailash Mansarovar**
+C) Kailash Mansarovar
 D) Yamunotri
 ANS: C
-Q: The Brahmaputra River is known as **Yarlung Tsangpo** in:
+Q: The Brahmaputra River is known as Yarlung Tsangpo in:
 A) India (Arunachal Pradesh)
-B) **Tibet (China)**
+B) Tibet (China)
 C) Bangladesh
 D) Nepal
 ANS: B
@@ -4370,41 +4370,41 @@ Q: The Brahmaputra River enters India after making a famous U-turn around which 
 A) Kanchenjunga
 B) Mount Everest
 C) Nanga Parbat
-D) **Namcha Barwa**
+D) Namcha Barwa
 ANS: D
-Q: The Brahmaputra River is known by which local name upon entering **Arunachal Pradesh**?
+Q: The Brahmaputra River is known by which local name upon entering Arunachal Pradesh?
 A) Tsangpo
 B) Jamuna
-C) **Siang (or Dihang)**
+C) Siang (or Dihang)
 D) Lohit
 ANS: C
-Q: The **world's largest riverine island**, **Majuli Island**, is formed by the Brahmaputra River in which state?
+Q: The world's largest riverine island, Majuli Island, is formed by the Brahmaputra River in which state?
 A) Arunachal Pradesh
 B) West Bengal
-C) **Assam**
+C) Assam
 D) Meghalaya
 ANS: C
-Q: The **Brahmaputra River** is known as the **Jamuna River** upon entering:
+Q: The Brahmaputra River is known as the Jamuna River upon entering:
 A) Myanmar
-B) **Bangladesh**
+B) Bangladesh
 C) Nepal
 D) Bhutan
 ANS: B
 Q: The Brahmaputra (Jamuna) and the Ganga (Padma) rivers eventually combine and flow into the Bay of Bengal as the:
 A) Hooghly River
 B) Sunderban River
-C) **Meghna River**
+C) Meghna River
 D) Barak River
 ANS: C
-Q: The Ganga River is home to the **Ganges River Dolphin**, which is India's:
+Q: The Ganga River is home to the Ganges River Dolphin, which is India's:
 A) National Bird
-B) **National Aquatic Animal**
+B) National Aquatic Animal
 C) National Heritage Animal
 D) National River
 ANS: B
 Q: The property of the Ganga River water that inhibits bacterial growth and keeps the water relatively pure is due to the presence of:
 A) High mineral content
-B) **Bacteriophage virus**
+B) Bacteriophage virus
 C) Low oxygen levels
 D) Glacial meltwater purity
 ANS: B
@@ -4412,11 +4412,11 @@ Q: The largest right-bank tributary of the Yamuna River is the:
 A) Sone River
 B) Ken River
 C) Betwa River
-D) **Chambal River**
+D) Chambal River
 ANS: D
-Q: The **Chambal River** is famous for creating deep gorges and ravines, leading to:
+Q: The Chambal River is famous for creating deep gorges and ravines, leading to:
 A) Fertile plains
-B) **Badland Topography (Ravines/Gully Erosion)**
+B) Badland Topography (Ravines/Gully Erosion)
 C) Natural lakes
 D) Coastal deltas
 ANS: B
@@ -4424,1287 +4424,1287 @@ Q: The major right-bank tributary of the Ganga (Padma in Bangladesh) that branch
 A) Yamuna
 B) Sone
 C) Gandak
-D) **Hooghly (Bhagirathi-Hooghly)**
+D) Hooghly (Bhagirathi-Hooghly)
 ANS: D
-Q: The **Farakka Barrage** (dam) was constructed on the Ganga River primarily to:
+Q: The Farakka Barrage (dam) was constructed on the Ganga River primarily to:
 A) Control flooding in Bihar
 B) Generate hydroelectric power
-C) **Divert water into the Hooghly for Calcutta Port maintenance**
+C) Divert water into the Hooghly for Calcutta Port maintenance
 D) Facilitate irrigation in Uttar Pradesh
 ANS: C
-Q: The **longest stretch** of the Ganga River's flow within India is in the state of:
+Q: The longest stretch of the Ganga River's flow within India is in the state of:
 A) Uttarakhand
 B) Bihar
 C) West Bengal
-D) **Uttar Pradesh**
+D) Uttar Pradesh
 ANS: D
-Q: The **shortest stretch** of the Ganga River's flow within India is in the state of:
+Q: The shortest stretch of the Ganga River's flow within India is in the state of:
 A) Bihar
-B) **Jharkhand**
+B) Jharkhand
 C) West Bengal
 D) Uttarakhand
 ANS: B
-Q: The **Indus River** is also known by its ancient name **Sindhu**, which is believed to be the origin of the name:
+Q: The Indus River is also known by its ancient name Sindhu, which is believed to be the origin of the name:
 A) Asia
 B) Babylon
-C) **India**
+C) India
 D) Persia
 ANS: C
-Q: The **Brahmaputra River** is one of the few major rivers in the world named after a **male deity** (Brahma's Son), reflecting its:
+Q: The Brahmaputra River is one of the few major rivers in the world named after a male deity (Brahma's Son), reflecting its:
 A) Short length
-B) **Massive size and volume**
+B) Massive size and volume
 C) Holy status
 D) Turbulent nature
 ANS: B
-Q: The **National Waterway 1 (NW-1)**, the longest waterway in India, runs on the:
+Q: The National Waterway 1 (NW-1), the longest waterway in India, runs on the:
 A) Brahmaputra River (Sadiya-Dhubri)
-B) **Ganga-Bhagirathi-Hooghly River System (Prayagraj-Haldia)**
+B) Ganga-Bhagirathi-Hooghly River System (Prayagraj-Haldia)
 C) West Coast Canal (Kottapuram-Kollam)
 D) Godavari River System
 ANS: B
-Q: The **Yamuna River** meets the Ganga River at:
+Q: The Yamuna River meets the Ganga River at:
 A) Varanasi
 B) Patna
 C) Kanpur
-D) **Prayagraj (Allahabad)**
+D) Prayagraj (Allahabad)
 ANS: D
-Q: The **Gomti River**, a tributary of the Ganga, is known for originating not from a mountain but from a lake in the plains of Uttar Pradesh called:
+Q: The Gomti River, a tributary of the Ganga, is known for originating not from a mountain but from a lake in the plains of Uttar Pradesh called:
 A) Govind Ballabh Pant Sagar
-B) **Fulhar Lake (Pilibhit)**
+B) Fulhar Lake (Pilibhit)
 C) Wular Lake
 D) Dal Lake
 ANS: B
-Q: The city of **Kanpur** is primarily located on the banks of which river?
+Q: The city of Kanpur is primarily located on the banks of which river?
 A) Yamuna
 B) Gomti
-C) **Ganga**
+C) Ganga
 D) Sone
 ANS: C
-Q: The **Teesta River**, a tributary of the Brahmaputra, is a significant transboundary river between India and:
+Q: The Teesta River, a tributary of the Brahmaputra, is a significant transboundary river between India and:
 A) Bhutan
-B) **Bangladesh**
+B) Bangladesh
 C) Nepal
 D) Myanmar
 ANS: B
-Q: The **right-bank tributary** of the Brahmaputra that originates in the **Tibet region** is the:
+Q: The right-bank tributary of the Brahmaputra that originates in the Tibet region is the:
 A) Dibang
 B) Lohit
-C) **Subansiri**
+C) Subansiri
 D) Dhansiri
 ANS: C
-Q: The **Barak River**, which joins the combined stream of the Ganga and Brahmaputra, originates from the **Manipur Hills** and is the primary river of the:
+Q: The Barak River, which joins the combined stream of the Ganga and Brahmaputra, originates from the Manipur Hills and is the primary river of the:
 A) Nagaland Plateau
-B) **Cachar Plains (Assam)**
+B) Cachar Plains (Assam)
 C) Tripura Basin
 D) Mizo Hills
 ANS: B
-Q: The **Dhudhtoli Ranges**, where the **Ramganga River** (a tributary of the Ganga) originates, are located in:
+Q: The Dhudhtoli Ranges, where the Ramganga River (a tributary of the Ganga) originates, are located in:
 A) Himachal Pradesh
-B) **Uttarakhand (Pauri Garhwal)**
+B) Uttarakhand (Pauri Garhwal)
 C) Nepal
 D) Sikkim
 ANS: B
-Q: The **Ganges River Dolphin** (Susu) is functionally:
+Q: The Ganges River Dolphin (Susu) is functionally:
 A) Fully sighted
 B) Nocturnal
-C) **Blind** (relying on echo-location)
+C) Blind (relying on echo-location)
 D) Migratory
 ANS: C
 Q: The confluence of the Alaknanda and Pindar rivers is known as:
 A) Devprayag
 B) Rudraprayag
 C) Nandaprayag
-D) **Karnaprayag**
+D) Karnaprayag
 ANS: D
-Q: The **Yamuna River** is one of India's most polluted rivers, especially around the capital city of:
+Q: The Yamuna River is one of India's most polluted rivers, especially around the capital city of:
 A) Prayagraj
 B) Kanpur
-C) **Delhi**
+C) Delhi
 D) Varanasi
 ANS: C
-Q: The **Indus River** makes its entry into India near the town of:
+Q: The Indus River makes its entry into India near the town of:
 A) Kargil
 B) Gilgit
-C) **Demchok (Ladakh)**
+C) Demchok (Ladakh)
 D) Leh
 ANS: C
-Q: The **Dibang** and **Lohit** rivers are major left-bank tributaries of the Brahmaputra, and the **Lohit River** is often referred to as the:
+Q: The Dibang and Lohit rivers are major left-bank tributaries of the Brahmaputra, and the Lohit River is often referred to as the:
 A) Blue River
-B) **River of Blood (due to reddish/turbulent flow)**
+B) River of Blood (due to reddish/turbulent flow)
 C) Quiet River
 D) Sorrow of Assam
 ANS: B
 
 [SUBJECT: Geography]
 [CHAPTER: Peninsular Rivers]
-Q: The **Peninsular Rivers** are largely **Seasonal** (Ephemeral) because their primary water source is:
+Q: The Peninsular Rivers are largely Seasonal (Ephemeral) because their primary water source is:
 A) Glaciers in the Western Ghats
 B) High-altitude snowmelt
-C) **Monsoon rainfall**
+C) Monsoon rainfall
 D) Underground springs only
 ANS: C
-Q: Most of the Peninsular Rivers flow towards the **East** and drain into the **Bay of Bengal**. This phenomenon is primarily due to:
+Q: Most of the Peninsular Rivers flow towards the East and drain into the Bay of Bengal. This phenomenon is primarily due to:
 A) The Coriolis Effect
 B) High water volume
-C) **The West-to-East slope of the Deccan Plateau**
+C) The West-to-East slope of the Deccan Plateau
 D) Low silt load
 ANS: C
-Q: Which of the following is **NOT** a river that flows into a **Rift Valley**?
+Q: Which of the following is NOT a river that flows into a Rift Valley?
 A) Narmada
 B) Tapi (Tapti)
 C) Damodar
-D) **Mahanadi**
+D) Mahanadi
 ANS: D
-Q: The **Narmada River**, the longest westward flowing river, originates from the:
+Q: The Narmada River, the longest westward flowing river, originates from the:
 A) Mahabaleshwar Hills
 B) Trimbakeshwar Plateau
 C) Satpura Range
-D) **Amarkantak Plateau**
+D) Amarkantak Plateau
 ANS: D
-Q: The **Narmada River** flows between the **Vindhya Range** and the **Satpura Range**, making it a prime example of a:
+Q: The Narmada River flows between the Vindhya Range and the Satpura Range, making it a prime example of a:
 A) Perennial river
 B) Delta-forming river
-C) **Rift valley river**
+C) Rift valley river
 D) Tidal river
 ANS: C
-Q: The **Tapi (Tapti) River** flows parallel to the Narmada and originates from the:
-A) **Betul Plateau (Mulai Hills)**
+Q: The Tapi (Tapti) River flows parallel to the Narmada and originates from the:
+A) Betul Plateau (Mulai Hills)
 B) Amarkantak Plateau
 C) Western Ghats
 D) Chota Nagpur Plateau
 ANS: A
-Q: The **Godavari River**, the largest river of Peninsular India, originates from:
-A) **Trimbakeshwar (Nashik, Maharashtra)**
+Q: The Godavari River, the largest river of Peninsular India, originates from:
+A) Trimbakeshwar (Nashik, Maharashtra)
 B) Mahabaleshwar
 C) Amarkantak
 D) Coorg (Kodagu) Hills
 ANS: A
-Q: The **Godavari River** is also known as the **Vriddha Ganga (Old Ganga)** or **Dakshin Ganga (Ganga of the South)** due to its:
+Q: The Godavari River is also known as the Vriddha Ganga (Old Ganga) or Dakshin Ganga (Ganga of the South) due to its:
 A) Holy status
-B) **Large size and length**
+B) Large size and length
 C) Course similarity to the Ganga
 D) Origin in the Himalayan region
 ANS: B
-Q: The **Krishna River** originates from:
+Q: The Krishna River originates from:
 A) Trimbakeshwar
-B) **Mahabaleshwar (Maharashtra)**
+B) Mahabaleshwar (Maharashtra)
 C) Amarkantak
 D) Coorg (Kodagu) Hills
 ANS: B
-Q: Which river is the **second longest** river of Peninsular India?
+Q: Which river is the second longest river of Peninsular India?
 A) Godavari
-B) **Krishna**
+B) Krishna
 C) Mahanadi
 D) Narmada
 ANS: B
 Q: Which major river is known for draining the largest area in Maharashtra (80% of its basin)?
 A) Krishna
-B) **Godavari**
+B) Godavari
 C) Narmada
 D) Tapi
 ANS: B
-Q: The **Damodar River** is a tributary of the **Hooghly River** and is known as the **"Sorrow of Bengal"**. It flows through the:
-A) **Chota Nagpur Plateau**
+Q: The Damodar River is a tributary of the Hooghly River and is known as the Sorrow of Bengal. It flows through the:
+A) Chota Nagpur Plateau
 B) Malwa Plateau
 C) Deccan Plateau
 D) Bundelkhand Plateau
 ANS: A
-Q: Which river is known for its **Black Soil Region** (Deccan Traps) in Maharashtra and Gujarat, famous for cotton cultivation?
+Q: Which river is known for its Black Soil Region (Deccan Traps) in Maharashtra and Gujarat, famous for cotton cultivation?
 A) Narmada
-B) **Tapi**
+B) Tapi
 C) Godavari
 D) Krishna
 ANS: B
-Q: The **Ponnani River**, also known as the **Bharathappuzha**, is the longest river of:
+Q: The Ponnani River, also known as the Bharathappuzha, is the longest river of:
 A) Karnataka
 B) Tamil Nadu
-C) **Kerala**
+C) Kerala
 D) Goa
 ANS: C
-Q: The rivers that flow Westward into the Arabian Sea generally **do not form deltas** because they:
+Q: The rivers that flow Westward into the Arabian Sea generally do not form deltas because they:
 A) Carry too much silt
-B) **Flow through steep slopes/rift valleys and have short courses**
+B) Flow through steep slopes/rift valleys and have short courses
 C) Are perennial in nature
 D) Are blocked by the Western Ghats
 ANS: B
-Q: The **Eastward flowing rivers** (Mahanadi, Godavari, Krishna, Kaveri) generally form large:
+Q: The Eastward flowing rivers (Mahanadi, Godavari, Krishna, Kaveri) generally form large:
 A) Estuaries
 B) Lagoons
-C) **Deltas**
+C) Deltas
 D) Canyons
 ANS: C
-Q: Which Peninsular river is considered **Perennial** (water throughout the year) due to rainfall from both the Southwest and North-East Monsoons?
+Q: Which Peninsular river is considered Perennial (water throughout the year) due to rainfall from both the Southwest and North-East Monsoons?
 A) Godavari
 B) Krishna
-C) **Kaveri**
+C) Kaveri
 D) Mahanadi
 ANS: C
-Q: The **Kaveri River** originates from the **Brahmagiri Hills** in the state of:
+Q: The Kaveri River originates from the Brahmagiri Hills in the state of:
 A) Tamil Nadu
-B) **Karnataka** (Coorg/Kodagu district)
+B) Karnataka (Coorg/Kodagu district)
 C) Kerala
 D) Andhra Pradesh
 ANS: B
-Q: The **Penner River** (Pinakani) originates in the state of **Karnataka** but primarily flows through and is the main river of:
+Q: The Penner River (Pinakani) originates in the state of Karnataka but primarily flows through and is the main river of:
 A) Tamil Nadu
-B) **Andhra Pradesh**
+B) Andhra Pradesh
 C) Telangana
 D) Odisha
 ANS: B
-Q: The **Bhakra Dam** is located on which river, which is a major transboundary river between India and Pakistan?
+Q: The Bhakra Dam is located on which river, which is a major transboundary river between India and Pakistan?
 A) Ravi
 B) Beas
 C) Chenab
-D) **Satluj**
+D) Satluj
 ANS: D
-Q: The **Chambal River** is known for creating **Ravines** and **Badland Topography**. It is a tributary of the:
+Q: The Chambal River is known for creating Ravines and Badland Topography. It is a tributary of the:
 A) Ganga River
-B) **Yamuna River**
+B) Yamuna River
 C) Sone River
 D) Narmada River
 ANS: B
-Q: The **Kali Sindh, Parvati, and Banas** rivers are tributaries of the:
+Q: The Kali Sindh, Parvati, and Banas rivers are tributaries of the:
 A) Narmada River
-B) **Chambal River**
+B) Chambal River
 C) Tapi River
 D) Betwa River
 ANS: B
-Q: The **Hirakud Dam**, the longest dam in India, is built on the river:
+Q: The Hirakud Dam, the longest dam in India, is built on the river:
 A) Godavari
-B) **Mahanadi**
+B) Mahanadi
 C) Krishna
 D) Kaveri
 ANS: B
-Q: The **Indravati River** and **Sabari River** are major tributaries of the:
+Q: The Indravati River and Sabari River are major tributaries of the:
 A) Krishna River
-B) **Godavari River**
+B) Godavari River
 C) Kaveri River
 D) Mahanadi River
 ANS: B
-Q: The **Tungabhadra, Bhima, and Musi** rivers are major tributaries of the:
+Q: The Tungabhadra, Bhima, and Musi rivers are major tributaries of the:
 A) Mahanadi River
-B) **Krishna River**
+B) Krishna River
 C) Godavari River
 D) Kaveri River
 ANS: B
-Q: Which river is known as the **"Dakshin Ganga" (Ganga of the South)** and is the longest river flowing entirely within India?
+Q: Which river is known as the Dakshin Ganga (Ganga of the South) and is the longest river flowing entirely within India?
 A) Krishna
-B) **Godavari**
+B) Godavari
 C) Kaveri
 D) Narmada
 ANS: B
-Q: The **Dudhganga** and **Koyna** rivers are tributaries of the:
+Q: The Dudhganga and Koyna rivers are tributaries of the:
 A) Godavari
-B) **Krishna**
+B) Krishna
 C) Kaveri
 D) Bhima
 ANS: B
-Q: The **Mandovi River**, the lifeline of Goa, flows through the state and forms which famous waterfall?
+Q: The Mandovi River, the lifeline of Goa, flows through the state and forms which famous waterfall?
 A) Jog Falls
 B) Shivanasamudra Falls
-C) **Dudhsagar Falls**
+C) Dudhsagar Falls
 D) Kunchikal Falls
 ANS: C
-Q: The **Jog Falls (Gersoppa Falls)**, one of the highest plunge waterfalls in India, is located on the:
+Q: The Jog Falls (Gersoppa Falls), one of the highest plunge waterfalls in India, is located on the:
 A) Kali River
-B) **Sharavathi River**
+B) Sharavathi River
 C) Vairahi River
 D) Mandovi River
 ANS: B
-Q: The **Sankh River** and the **South Koel River** combine to form the:
+Q: The Sankh River and the South Koel River combine to form the:
 A) Mahanadi River
-B) **Brahmani River**
+B) Brahmani River
 C) Baitarani River
 D) Subarnarekha River
 ANS: B
-Q: The **Subarnarekha River** (Swarnarekha) is known for its gold-bearing silt and originates from the:
+Q: The Subarnarekha River (Swarnarekha) is known for its gold-bearing silt and originates from the:
 A) Amarkantak Plateau
-B) **Ranchi Plateau (Chota Nagpur)**
+B) Ranchi Plateau (Chota Nagpur)
 C) Satpura Hills
 D) Bastar Plateau
 ANS: B
-Q: The **Pamban River** (Pamba) is an important river in **Kerala** that drains into which famous longest lake/backwater in India?
+Q: The Pamban River (Pamba) is an important river in Kerala that drains into which famous longest lake/backwater in India?
 A) Ashtamudi Lake
 B) Punnamada Lake
-C) **Vembanad Lake**
+C) Vembanad Lake
 D) Sasthamkotta Lake
 ANS: C
-Q: The city of **Jabalpur** is located on the banks of which major river?
+Q: The city of Jabalpur is located on the banks of which major river?
 A) Tapi
 B) Betwa
 C) Sone
-D) **Narmada**
+D) Narmada
 ANS: D
-Q: The **Musi River**, a tributary of the Krishna, has which major city located on its banks?
+Q: The Musi River, a tributary of the Krishna, has which major city located on its banks?
 A) Bangalore
-B) **Hyderabad**
+B) Hyderabad
 C) Vijayawada
 D) Pune
 ANS: B
-Q: The **Alaknanda and Bhagirathi** rivers meet at Devprayag to form the Ganga. The **Bhagirathi** originates from:
+Q: The Alaknanda and Bhagirathi rivers meet at Devprayag to form the Ganga. The Bhagirathi originates from:
 A) Yamunotri Glacier
 B) Satopanth Glacier
-C) **Gaumukh Glacier**
+C) Gaumukh Glacier
 D) Chorabari Glacier
 ANS: C
-Q: The **Alaknanda River** originates from the:
+Q: The Alaknanda River originates from the:
 A) Gaumukh Glacier
-B) **Satopanth Glacier**
+B) Satopanth Glacier
 C) Chorabari Glacier
 D) Pindari Glacier
 ANS: B
-Q: The famous **Dhuandhar Falls** (Smoke Cascade) are formed by the Narmada River near:
+Q: The famous Dhuandhar Falls (Smoke Cascade) are formed by the Narmada River near:
 A) Bhopal
 B) Indore
-C) **Jabalpur**
+C) Jabalpur
 D) Surat
 ANS: C
-Q: The river **Indravati** flows through which famous national park/region known for the Chitrakoot Falls (India's Niagara)?
+Q: The river Indravati flows through which famous national park/region known for the Chitrakoot Falls (India's Niagara)?
 A) Kanha Tiger Reserve
 B) Bandhavgarh
-C) **Bastar Region (Chhattisgarh)**
+C) Bastar Region (Chhattisgarh)
 D) Ranthambore
 ANS: C
-Q: The **Godavari River** creates an enclave known as **Yanam**, which is an administrative part of:
+Q: The Godavari River creates an enclave known as Yanam, which is an administrative part of:
 A) Andhra Pradesh
 B) Odisha
-C) **Puducherry (Pondicherry)**
+C) Puducherry (Pondicherry)
 D) Telangana
 ANS: C
-Q: The **Gahirmatha Marine Sanctuary**, a famous breeding ground for the Olive Ridley sea turtle, is located near the mouth of the **Brahmani and Baitarani** rivers in:
+Q: The Gahirmatha Marine Sanctuary, a famous breeding ground for the Olive Ridley sea turtle, is located near the mouth of the Brahmani and Baitarani rivers in:
 A) West Bengal
-B) **Odisha**
+B) Odisha
 C) Andhra Pradesh
 D) Tamil Nadu
 ANS: B
-Q: The **Krishna River** flows through how many states in India?
+Q: The Krishna River flows through how many states in India?
 A) 3
-B) **4** (Maharashtra, Karnataka, Telangana, Andhra Pradesh)
+B) 4 (Maharashtra, Karnataka, Telangana, Andhra Pradesh)
 C) 5
 D) 6
 ANS: B
-Q: The **Mandakini River** joins the Alaknanda River at:
+Q: The Mandakini River joins the Alaknanda River at:
 A) Devprayag
 B) Karnaprayag
 C) Nandaprayag
-D) **Rudraprayag**
+D) Rudraprayag
 ANS: D
-Q: The **Pindar River** joins the Alaknanda River at:
+Q: The Pindar River joins the Alaknanda River at:
 A) Devprayag
 B) Rudraprayag
-C) **Karnaprayag**
+C) Karnaprayag
 D) Nandaprayag
 ANS: C
-Q: The **Tapi River** flows through how many states in India?
+Q: The Tapi River flows through how many states in India?
 A) 2
-B) **3** (Madhya Pradesh, Maharashtra, Gujarat)
+B) 3 (Madhya Pradesh, Maharashtra, Gujarat)
 C) 4
 D) 5
 ANS: B
-Q: The city of **Ujjain**, famous for the Kumbh Mela and Mahakaleshwar Temple, is located on the banks of the:
+Q: The city of Ujjain, famous for the Kumbh Mela and Mahakaleshwar Temple, is located on the banks of the:
 A) Narmada River
-B) **Shipra River** (Chambal tributary)
+B) Shipra River (Chambal tributary)
 C) Chambal River
 D) Betwa River
 ANS: B
-Q: The **largest volume of water flow** in the Ganga River system is contributed by which Himalayan river?
+Q: The largest volume of water flow in the Ganga River system is contributed by which Himalayan river?
 A) Ganga
 B) Yamuna
-C) **Ghaghara (Karnali)**
+C) Ghaghara (Karnali)
 D) Brahmaputra
 ANS: C
-Q: The **highest peak** of the **Satpura Range** is:
+Q: The highest peak of the Satpura Range is:
 A) Amarkantak
-B) **Dhupgarh**
+B) Dhupgarh
 C) Mahabaleshwar
 D) Guru Shikhar
 ANS: B
 
 [SUBJECT: Geography]
 [CHAPTER: Dams, Lakes and Waterfalls]
-Q: The **Bhakra Dam** is the **Largest Dam in India by Area** and the **Highest Gravity Dam**. It is constructed on which river?
+Q: The Bhakra Dam is the Largest Dam in India by Area and the Highest Gravity Dam. It is constructed on which river?
 A) Beas
-B) **Satluj**
+B) Satluj
 C) Ravi
 D) Chenab
 ANS: B
-Q: The **Hirakud Dam** in Odisha is famous for being the **Longest Dam in the World**. It is built on the:
+Q: The Hirakud Dam in Odisha is famous for being the Longest Dam in the World. It is built on the:
 A) Godavari River
-B) **Mahanadi River**
+B) Mahanadi River
 C) Krishna River
 D) Baitarani River
 ANS: B
-Q: The **Tehri Dam** is the **Highest Dam in India** (Earth and Rockfill type) and is built on the:
+Q: The Tehri Dam is the Highest Dam in India (Earth and Rockfill type) and is built on the:
 A) Alaknanda River
-B) **Bhagirathi River**
+B) Bhagirathi River
 C) Ganga River
 D) Mandakini River
 ANS: B
-Q: The reservoir created behind the **Rihand Dam** in Uttar Pradesh is known as the **Govind Ballabh Pant Sagar**. This lake is famous for being the:
+Q: The reservoir created behind the Rihand Dam in Uttar Pradesh is known as the Govind Ballabh Pant Sagar. This lake is famous for being the:
 A) Largest natural lake in India
-B) **Largest artificial lake in India**
+B) Largest artificial lake in India
 C) Deepest lake in India
 D) Highest lake in India
 ANS: B
-Q: The **Wular Lake** in Jammu & Kashmir is the **Largest Freshwater Lake in India**. It is an example of which type of lake formation?
+Q: The Wular Lake in Jammu & Kashmir is the Largest Freshwater Lake in India. It is an example of which type of lake formation?
 A) Oxbow lake
 B) Glacial lake
 C) Volcanic crater lake
-D) **Tectonic lake**
+D) Tectonic lake
 ANS: D
-Q: The **Loktak Lake**, famous for its **Phumdis (floating islands)** and the only floating national park (Keibul Lamjao), is located in:
+Q: The Loktak Lake, famous for its Phumdis (floating islands) and the only floating national park (Keibul Lamjao), is located in:
 A) Assam
 B) Tripura
-C) **Manipur**
+C) Manipur
 D) Nagaland
 ANS: C
-Q: The **Lonar Lake** in Maharashtra is unique because it is a:
+Q: The Lonar Lake in Maharashtra is unique because it is a:
 A) Lagoon lake
 B) Oxbow lake
-C) **Crater lake (formed by meteorite impact)**
+C) Crater lake (formed by meteorite impact)
 D) Artificial lake
 ANS: C
-Q: The **Chilika Lake** in Odisha is the **Largest Lake in India** and the largest **Brackish Water Lagoon** in Asia. It is formed by:
+Q: The Chilika Lake in Odisha is the Largest Lake in India and the largest Brackish Water Lagoon in Asia. It is formed by:
 A) Glacial erosion
 B) Tectonic activity
-C) **Coastal processes (backwaters)**
+C) Coastal processes (backwaters)
 D) River meanders
 ANS: C
-Q: The **highest waterfall in India**, the **Kunchikal Falls** (455m), is located on the:
+Q: The highest waterfall in India, the Kunchikal Falls (455m), is located on the:
 A) Sharavathi River
 B) Narmada River
-C) **Varahi River**
+C) Varahi River
 D) Mandovi River
 ANS: C
-Q: The **Jog Falls (Gersoppa Falls)**, one of the highest plunge waterfalls, is formed by the:
+Q: The Jog Falls (Gersoppa Falls), one of the highest plunge waterfalls, is formed by the:
 A) Mandovi River
 B) Kali River
-C) **Sharavathi River**
+C) Sharavathi River
 D) Krishna River
 ANS: C
-Q: The famous **Dudhsagar Falls** (Sea of Milk) are located on the:
+Q: The famous Dudhsagar Falls (Sea of Milk) are located on the:
 A) Kali River
-B) **Mandovi River**
+B) Mandovi River
 C) Juari River
 D) Tapti River
 ANS: B
-Q: The **Husain Sagar Lake** is a crucial connecting feature between the twin cities of:
+Q: The Husain Sagar Lake is a crucial connecting feature between the twin cities of:
 A) Chennai and Madurai
 B) Bangalore and Mysuru
-C) **Hyderabad and Secunderabad**
+C) Hyderabad and Secunderabad
 D) Mumbai and Pune
 ANS: C
-Q: The term **'Kayal'** is locally used in **Kerala** to refer to:
+Q: The term 'Kayal' is locally used in Kerala to refer to:
 A) River deltas
 B) High mountain passes
-C) **Backwaters (coastal lagoons)**
+C) Backwaters (coastal lagoons)
 D) Volcanic plateaus
 ANS: C
-Q: The **Dokan Khowa Pass** is an important historical mountain pass located in the:
+Q: The Dokan Khowa Pass is an important historical mountain pass located in the:
 A) Western Ghats
 B) Eastern Ghats
-C) **Himalayas (Arunachal Pradesh)**
+C) Himalayas (Arunachal Pradesh)
 D) Satpura Range
 ANS: C
-Q: The **oldest operating port** in India, established in 1870, is the:
+Q: The oldest operating port in India, established in 1870, is the:
 A) Mumbai Port
 B) Chennai Port
-C) **Kolkata Port (Haldia Dock Complex)**
+C) Kolkata Port (Haldia Dock Complex)
 D) Visakhapatnam Port
 ANS: C
-Q: The **longest highway single-tube tunnel** at an altitude above 3,000 meters is the **Atal Tunnel**, built across the:
+Q: The longest highway single-tube tunnel at an altitude above 3,000 meters is the Atal Tunnel, built across the:
 A) Pir Panjal Pass
 B) Zoji La Pass
-C) **Rohtang Pass**
+C) Rohtang Pass
 D) Shipki La Pass
 ANS: C
-Q: The **Dimani Falls** are located on the:
+Q: The Dimani Falls are located on the:
 A) Narmada River
 B) Chambal River
-C) **Shipra River**
+C) Shipra River
 D) Tapi River
 ANS: C
-Q: The **Idukki Dam** is an arch dam constructed across the **Periyar River** in which state?
+Q: The Idukki Dam is an arch dam constructed across the Periyar River in which state?
 A) Tamil Nadu
-B) **Kerala**
+B) Kerala
 C) Karnataka
 D) Andhra Pradesh
 ANS: B
-Q: The **Nagarjuna Sagar Dam** is built on which river, known for its deep gorge near Srisailam?
+Q: The Nagarjuna Sagar Dam is built on which river, known for its deep gorge near Srisailam?
 A) Godavari
 B) Kaveri
-C) **Krishna**
+C) Krishna
 D) Mahanadi
 ANS: C
-Q: The **Ujani Dam** in Maharashtra is located on the **Bhima River**, which is a major tributary of the:
+Q: The Ujani Dam in Maharashtra is located on the Bhima River, which is a major tributary of the:
 A) Godavari
-B) **Krishna**
+B) Krishna
 C) Tapi
 D) Narmada
 ANS: B
-Q: The **Pangong Tso Lake** in Ladakh, famous for its unique colour and being a site for high-altitude ice marathon, is a:
+Q: The Pangong Tso Lake in Ladakh, famous for its unique colour and being a site for high-altitude ice marathon, is a:
 A) Freshwater lake
-B) **Brackish/Saltwater lake**
+B) Brackish/Saltwater lake
 C) Artificial reservoir
 D) Glacial lake formed by moraine damming
 ANS: B
-Q: The **Sardar Sarovar Dam**, one of the largest and most controversial dam projects in India, is built on the:
+Q: The Sardar Sarovar Dam, one of the largest and most controversial dam projects in India, is built on the:
 A) Tapti River
 B) Chambal River
-C) **Narmada River**
+C) Narmada River
 D) Mahi River
 ANS: C
-Q: The **Krishna Raja Sagara (KRS) Dam** is a major dam built on the:
+Q: The Krishna Raja Sagara (KRS) Dam is a major dam built on the:
 A) Krishna River
 B) Tungabhadra River
-C) **Kaveri River**
+C) Kaveri River
 D) Godavari River
 ANS: C
-Q: The **Mettur Dam**, built in the year 1934, is one of the oldest and largest dams in India, located on the:
+Q: The Mettur Dam, built in the year 1934, is one of the oldest and largest dams in India, located on the:
 A) Penner River
-B) **Kaveri River**
+B) Kaveri River
 C) Krishna River
 D) Palar River
 ANS: B
-Q: The **largest artificial lake in the world**, the **Lake Volta**, is located in which country?
+Q: The largest artificial lake in the world, the Lake Volta, is located in which country?
 A) Canada
 B) Russia
-C) **Ghana**
+C) Ghana
 D) USA
 ANS: C
-Q: The **Krishnarajapet Dam** is built on the **Hemavati River**, a major tributary of the:
+Q: The Krishnarajapet Dam is built on the Hemavati River, a major tributary of the:
 A) Godavari
-B) **Kaveri**
+B) Kaveri
 C) Krishna
 D) Penner
 ANS: B
-Q: The **Malaprabha Dam** is built on the Malaprabha River, which is a tributary of the:
+Q: The Malaprabha Dam is built on the Malaprabha River, which is a tributary of the:
 A) Godavari
-B) **Krishna**
+B) Krishna
 C) Kaveri
 D) Tapti
 ANS: B
-Q: The **Jayamangali Dam** is built on the Jayamangali River, which is a tributary of the:
-A) **Penner**
+Q: The Jayamangali Dam is built on the Jayamangali River, which is a tributary of the:
+A) Penner
 B) Krishna
 C) Godavari
 D) Kaveri
 ANS: A
-Q: The **Bhakra Dam** is located in **Himachal Pradesh**, while the **Nangal Dam** is located in:
+Q: The Bhakra Dam is located in Himachal Pradesh, while the Nangal Dam is located in:
 A) Uttarakhand
-B) **Punjab**
+B) Punjab
 C) Haryana
 D) Jammu & Kashmir
 ANS: B
-Q: The highest single-drop waterfall in India is the **Nohkalikai Falls**, located in:
+Q: The highest single-drop waterfall in India is the Nohkalikai Falls, located in:
 A) Karnataka
-B) **Meghalaya**
+B) Meghalaya
 C) Uttarakhand
 D) Himachal Pradesh
 ANS: B
-Q: The **largest container port in India** is the **Jawaharlal Nehru Port Trust (JNPT)**, which acts as a satellite port for:
+Q: The largest container port in India is the Jawaharlal Nehru Port Trust (JNPT), which acts as a satellite port for:
 A) Kolkata Port
 B) Chennai Port
-C) **Mumbai Port**
+C) Mumbai Port
 D) Kandla Port
 ANS: C
-Q: The **oldest port in India** still in use is the **Kolkata Port**, situated on the river:
+Q: The oldest port in India still in use is the Kolkata Port, situated on the river:
 A) Ganga
 B) Damodar
-C) **Hooghly**
+C) Hooghly
 D) Brahmaputra
 ANS: C
-Q: The **Kandla Port** (now Deendayal Port) is a major port on the western coast known for being a:
+Q: The Kandla Port (now Deendayal Port) is a major port on the western coast known for being a:
 A) Container Port
-B) **Tidal Port**
+B) Tidal Port
 C) Deepest Port
 D) Naval Base
 ANS: B
-Q: The **Visakhapatnam Port** is famous for being the:
+Q: The Visakhapatnam Port is famous for being the:
 A) Largest man-made port
-B) **Deepest land-locked and well-protected port**
+B) Deepest land-locked and well-protected port
 C) Largest port by cargo handling
 D) Only port with a dedicated naval dockyard
 ANS: B
-Q: The **Palamau Dam** is built on the Palamau River, which is a tributary of the:
+Q: The Palamau Dam is built on the Palamau River, which is a tributary of the:
 A) Son River
-B) **Damodar River**
+B) Damodar River
 C) Brahmani River
 D) Mahanadi River
 ANS: B
-Q: The **Tilaiya Dam** is built on the **Barakar River**, a tributary of the Damodar, in which state?
+Q: The Tilaiya Dam is built on the Barakar River, a tributary of the Damodar, in which state?
 A) Bihar
-B) **Jharkhand**
+B) Jharkhand
 C) West Bengal
 D) Odisha
 ANS: B
-Q: The **Jawahar Sagar** and **Rana Pratap Sagar** dams are built on the **Chambal River** and are located in:
+Q: The Jawahar Sagar and Rana Pratap Sagar dams are built on the Chambal River and are located in:
 A) Madhya Pradesh
-B) **Rajasthan**
+B) Rajasthan
 C) Uttar Pradesh
 D) Gujarat
 ANS: B
-Q: The **Indira Sagar Dam** and **Omkareshwar Dam** are major dams located on the **Narmada River** in:
+Q: The Indira Sagar Dam and Omkareshwar Dam are major dams located on the Narmada River in:
 A) Gujarat
 B) Maharashtra
-C) **Madhya Pradesh**
+C) Madhya Pradesh
 D) Rajasthan
 ANS: C
-Q: The **Teesta River** flows through **Sikkim** and **West Bengal** before joining the:
+Q: The Teesta River flows through Sikkim and West Bengal before joining the:
 A) Ganga River
-B) **Brahmaputra River (in Bangladesh)**
+B) Brahmaputra River (in Bangladesh)
 C) Mahanadi River
 D) Yamuna River
 ANS: B
-Q: The **largest freshwater lake in Asia** (by surface area) is **Lake Baikal**, located in:
+Q: The largest freshwater lake in Asia (by surface area) is Lake Baikal, located in:
 A) India
 B) China
-C) **Russia**
+C) Russia
 D) Canada
 ANS: C
-Q: The **Wular Lake** is fed by which major river?
+Q: The Wular Lake is fed by which major river?
 A) Indus
 B) Chenab
-C) **Jhelum**
+C) Jhelum
 D) Ravi
 ANS: C
-Q: The **Gobind Sagar Lake** is a reservoir formed by the **Bhakra Dam**. This lake is located in:
+Q: The Gobind Sagar Lake is a reservoir formed by the Bhakra Dam. This lake is located in:
 A) Punjab
 B) Haryana
-C) **Himachal Pradesh**
+C) Himachal Pradesh
 D) Uttarakhand
 ANS: C
-Q: The **highest gravity dam in India** is the:
+Q: The highest gravity dam in India is the:
 A) Tehri Dam
 B) Sardar Sarovar Dam
-C) **Bhakra Dam**
+C) Bhakra Dam
 D) Hirakud Dam
 ANS: C
-Q: The **Deepor Beel**, a large freshwater lake and a Ramsar site, is located in:
+Q: The Deepor Beel, a large freshwater lake and a Ramsar site, is located in:
 A) Bihar
-B) **Assam**
+B) Assam
 C) Manipur
 D) Meghalaya
 ANS: B
-Q: The **Sukhna Lake**, an artificial reservoir and a famous tourist spot, is located in:
+Q: The Sukhna Lake, an artificial reservoir and a famous tourist spot, is located in:
 A) Himachal Pradesh
-B) **Chandigarh**
+B) Chandigarh
 C) Haryana
 D) Punjab
 ANS: B
-Q: The **largest salt water lake in India by surface area** is the:
+Q: The largest salt water lake in India by surface area is the:
 A) Sambhar Lake
 B) Wular Lake
-C) **Chilika Lake**
+C) Chilika Lake
 D) Vembanad Lake
 ANS: C
-Q: The **Sambhar Salt Lake** is India's largest **inland** salt water lake, located in:
+Q: The Sambhar Salt Lake is India's largest inland salt water lake, located in:
 A) Gujarat
-B) **Rajasthan**
+B) Rajasthan
 C) Odisha
 D) Tamil Nadu
 ANS: B
-Q: The **largest lake in the world by surface area** (overall) is the:
+Q: The largest lake in the world by surface area (overall) is the:
 A) Lake Superior
 B) Lake Victoria
-C) **Caspian Sea**
+C) Caspian Sea
 D) Great Salt Lake
 ANS: C
 
 [SUBJECT: Geography]
 [CHAPTER: Climate of India]
-Q: **Weather** refers to the state of the atmosphere over an area at **any point of time**, while **Climate** refers to the sum total of weather conditions and variations over a large area for a long period of time (more than:
+Q: Weather refers to the state of the atmosphere over an area at any point of time, while Climate refers to the sum total of weather conditions and variations over a large area for a long period of time (more than:
 A) 10 years
-B) **30 years**
+B) 30 years
 C) 50 years
 D) 100 years
 ANS: B
-Q: The **Tropic of Cancer** passes through the middle of India, dividing the country's climate into **Tropical** (South) and **Subtropical** (North). This illustrates the influence of which climatic factor?
+Q: The Tropic of Cancer passes through the middle of India, dividing the country's climate into Tropical (South) and Subtropical (North). This illustrates the influence of which climatic factor?
 A) Altitude
 B) Relief
-C) **Latitude**
+C) Latitude
 D) Ocean Currents
 ANS: C
-Q: The **Western Disturbances**, which bring rainfall to Northwestern India during the **Winter Season**, originate in the:
+Q: The Western Disturbances, which bring rainfall to Northwestern India during the Winter Season, originate in the:
 A) Arabian Sea
 B) Bay of Bengal
-C) **Mediterranean Sea**
+C) Mediterranean Sea
 D) Caspian Sea
 ANS: C
-Q: The **Southwest Monsoon** that strikes India is divided into two major branches:
+Q: The Southwest Monsoon that strikes India is divided into two major branches:
 A) North-East and South-East branches
 B) Arabian Sea and Indian Ocean branches
-C) **Arabian Sea and Bay of Bengal branches**
+C) Arabian Sea and Bay of Bengal branches
 D) Western Ghats and Eastern Ghats branches
 ANS: C
-Q: The local name for the **pre-monsoon showers** in **West Bengal** that help in jute cultivation is:
+Q: The local name for the pre-monsoon showers in West Bengal that help in jute cultivation is:
 A) Blossom Showers
 B) Mango Showers
 C) Bardoli Chira
-D) **Kal Baisakhi**
+D) Kal Baisakhi
 ANS: D
-Q: The local name for the **pre-monsoon showers** in **Karnataka and Kerala** that help in the early ripening of mangoes is:
+Q: The local name for the pre-monsoon showers in Karnataka and Kerala that help in the early ripening of mangoes is:
 A) Kal Baisakhi
 B) Blossom Showers
 C) Bardoli Chira
-D) **Mango Showers**
+D) Mango Showers
 ANS: D
-Q: The **onset (arrival) of the Southwest Monsoon** in India typically occurs in the state of **Kerala** during:
+Q: The onset (arrival) of the Southwest Monsoon in India typically occurs in the state of Kerala during:
 A) Mid-April
 B) Mid-May
-C) **First week of June**
+C) First week of June
 D) Mid-July
 ANS: C
-Q: The phenomenon that explains why the annual range of temperature is **lower** in coastal areas like Mumbai and **higher** in interior areas like Delhi is:
+Q: The phenomenon that explains why the annual range of temperature is lower in coastal areas like Mumbai and higher in interior areas like Delhi is:
 A) Altitude
 B) Latitude
-C) **Continentality (Distance from the Sea)**
+C) Continentality (Distance from the Sea)
 D) Relief features
 ANS: C
-Q: The **ITCZ (Inter-Tropical Convergence Zone)** is a low-pressure zone that is referred to as the **Monsoon Trough** in India. Its seasonal shift is crucial because:
+Q: The ITCZ (Inter-Tropical Convergence Zone) is a low-pressure zone that is referred to as the Monsoon Trough in India. Its seasonal shift is crucial because:
 A) It causes the Coriolis Force to reverse
-B) **It dictates the path and intensity of the monsoon winds**
+B) It dictates the path and intensity of the monsoon winds
 C) It stabilizes the atmosphere completely
 D) It only causes rain over the oceans
 ANS: B
-Q: The **highest annual rainfall** in the world, **Mawsynram**, is located in the **Khasi Hills** in:
+Q: The highest annual rainfall in the world, Mawsynram, is located in the Khasi Hills in:
 A) Arunachal Pradesh
 B) Assam
-C) **Meghalaya**
+C) Meghalaya
 D) Sikkim
 ANS: C
-Q: The **Western Ghats** cause heavy rainfall on the western side but very little rain on the eastern side. This is an example of:
+Q: The Western Ghats cause heavy rainfall on the western side but very little rain on the eastern side. This is an example of:
 A) Convectional Rainfall
 B) Cyclonic Rainfall
-C) **Orographic (Relief) Rainfall**
+C) Orographic (Relief) Rainfall
 D) Frontal Rainfall
 ANS: C
-Q: The term used to describe the **cessation or prolonged dry spell** during the monsoon season is:
+Q: The term used to describe the cessation or prolonged dry spell during the monsoon season is:
 A) Monsoon Retreat
 B) Low Pressure Trough
-C) **Break in the Monsoon**
+C) Break in the Monsoon
 D) Pre-Monsoon Dry
 ANS: C
-Q: The **Retreating Monsoon** (or **North-East Monsoon**) is the main source of rainfall for which part of India during the winter months (Oct-Dec)?
+Q: The Retreating Monsoon (or North-East Monsoon) is the main source of rainfall for which part of India during the winter months (Oct-Dec)?
 A) Western Rajasthan
 B) North-Western Himalayas
-C) **Coromandel Coast (Tamil Nadu)**
+C) Coromandel Coast (Tamil Nadu)
 D) North Indian Plains
 ANS: C
-Q: The **North-East Monsoon** is named so because the winds originate from the:
+Q: The North-East Monsoon is named so because the winds originate from the:
 A) South-West direction
 B) West-East direction
-C) **North-East direction**
+C) North-East direction
 D) Polar high-pressure area
 ANS: C
-Q: **El Niño** is a periodic warming of the **Equatorial Pacific Ocean** sea surface temperature, which generally leads to:
-A) **Weaker/delayed monsoon and drought conditions in India**
+Q: El Niño is a periodic warming of the Equatorial Pacific Ocean sea surface temperature, which generally leads to:
+A) Weaker/delayed monsoon and drought conditions in India
 B) Stronger monsoon and heavy floods in India
 C) No effect on Indian monsoon
 D) Increased pre-monsoon showers
 ANS: A
-Q: **La Niña** is a periodic cooling of the **Equatorial Pacific Ocean** sea surface temperature, which generally leads to:
+Q: La Niña is a periodic cooling of the Equatorial Pacific Ocean sea surface temperature, which generally leads to:
 A) Weaker/delayed monsoon
 B) Drought in India
-C) **Stronger monsoon and above-average rainfall in India**
+C) Stronger monsoon and above-average rainfall in India
 D) Unpredictable weather patterns
 ANS: C
-Q: The Indian climate is classified as **Tropical Monsoon** type. The key factor influencing this classification is the seasonal change in:
+Q: The Indian climate is classified as Tropical Monsoon type. The key factor influencing this classification is the seasonal change in:
 A) Ocean temperature
-B) **Wind direction and pressure system**
+B) Wind direction and pressure system
 C) Global circulation cells
 D) Tectonic plate movement
 ANS: B
-Q: The local term **'Maawat'** refers to the precipitation (rain/snow) caused by the **Western Disturbances** in:
+Q: The local term 'Maawat' refers to the precipitation (rain/snow) caused by the Western Disturbances in:
 A) Eastern India (West Bengal/Assam)
 B) Coastal India (Kerala/Karnataka)
-C) **Northwest India (Punjab/Haryana/Rajasthan)**
+C) Northwest India (Punjab/Haryana/Rajasthan)
 D) Southern India (Tamil Nadu)
 ANS: C
-Q: Which factor acts as a **natural climatic barrier**, preventing the extremely cold winds from Central Asia from entering the Indian subcontinent in winter?
+Q: Which factor acts as a natural climatic barrier, preventing the extremely cold winds from Central Asia from entering the Indian subcontinent in winter?
 A) Coastal Plains
 B) Thar Desert
-C) **The Himalayas**
+C) The Himalayas
 D) Western Ghats
 ANS: C
-Q: According to the **Köppen Climate Classification**, the code **'Aw'** represents which major type of climate found in large parts of the Peninsular plateau, south of the Tropic of Cancer?
+Q: According to the Köppen Climate Classification, the code 'Aw' represents which major type of climate found in large parts of the Peninsular plateau, south of the Tropic of Cancer?
 A) Tropical Grassland (Savanna)
 B) Cold Humid Winter
 C) Monsoon with Dry Winter
-D) **Tropical Wet and Dry**
+D) Tropical Wet and Dry
 ANS: D
-Q: The **Arabian Sea branch** of the Southwest Monsoon causes rainfall primarily in the:
+Q: The Arabian Sea branch of the Southwest Monsoon causes rainfall primarily in the:
 A) North Indian Plains
 B) Coromandel Coast
-C) **Western Coast and Central India**
+C) Western Coast and Central India
 D) North-Eastern States
 ANS: C
-Q: The **Bay of Bengal branch** of the Southwest Monsoon is diverted by which group of hills, causing heavy rainfall in the North-Eastern States?
+Q: The Bay of Bengal branch of the Southwest Monsoon is diverted by which group of hills, causing heavy rainfall in the North-Eastern States?
 A) Aravalli Hills
 B) Satpura Hills
 C) Nilgiri Hills
-D) **Garo-Khasi-Jaintia Hills**
+D) Garo-Khasi-Jaintia Hills
 ANS: D
-Q: The state of **Tamil Nadu** receives most of its rainfall during the months of **October to December** due to:
+Q: The state of Tamil Nadu receives most of its rainfall during the months of October to December due to:
 A) Early onset of Southwest Monsoon
-B) **Retreating/North-East Monsoon**
+B) Retreating/North-East Monsoon
 C) Western Disturbances
 D) Local thunderstorms
 ANS: B
-Q: The **hottest season** in India typically occurs from:
+Q: The hottest season in India typically occurs from:
 A) July to September
 B) October to December
-C) **March to May**
+C) March to May
 D) December to February
 ANS: C
-Q: The **coldest season** in India typically occurs from:
+Q: The coldest season in India typically occurs from:
 A) September to November
-B) **December to February**
+B) December to February
 C) March to May
 D) June to August
 ANS: B
-Q: The **annual rainfall** in the **Thar Desert (Western Rajasthan)** is typically:
+Q: The annual rainfall in the Thar Desert (Western Rajasthan) is typically:
 A) Over 200 cm
 B) Between 100 cm and 200 cm
 C) Between 50 cm and 100 cm
-D) **Below 50 cm** (often below 25 cm)
+D) Below 50 cm (often below 25 cm)
 ANS: D
-Q: Which part of the Western Ghats (a barrier to the Southwest Monsoon) receives **very little rainfall**?
-A) **Leeward side (East)**
+Q: Which part of the Western Ghats (a barrier to the Southwest Monsoon) receives very little rainfall?
+A) Leeward side (East)
 B) Windward side (West)
 C) The northern peaks
 D) The Nilgiri section
 ANS: A
-Q: The local term **'Aandhi'** is used in parts of **Northern India** to describe:
+Q: The local term 'Aandhi' is used in parts of Northern India to describe:
 A) Heavy continuous rainfall
-B) **Dust storms (during hot weather)**
+B) Dust storms (during hot weather)
 C) Hailstorms
 D) Frost/Fog
 ANS: B
 Q: The monsoon winds generally arrive in the Bay of Bengal around the same time they hit Kerala, but they enter the North Indian plains much later due to the barrier of:
 A) Eastern Ghats
-B) **The presence of the Myanmar/Arakan Yoma Hills**
+B) The presence of the Myanmar/Arakan Yoma Hills
 C) The high pressure over the plains
 D) The Tibetan Plateau's intense heat
 ANS: B
-Q: The term used for the local showers that help in the early blossoming of **Coffee** flowers in South India is:
+Q: The term used for the local showers that help in the early blossoming of Coffee flowers in South India is:
 A) Mango Showers
-B) **Blossom Showers**
+B) Blossom Showers
 C) Nor'westers
 D) Kal Baisakhi
 ANS: B
-Q: The two major factors that cause a **decrease in temperature** with increasing altitude (Normal Lapse Rate) are:
+Q: The two major factors that cause a decrease in temperature with increasing altitude (Normal Lapse Rate) are:
 A) High wind speed and lack of oxygen
 B) High pressure and increased CO2
-C) **Decrease in air density and absorption of heat by Earth's surface**
+C) Decrease in air density and absorption of heat by Earth's surface
 D) Increased UV radiation and cloud cover
 ANS: C
-Q: The **retreating monsoon** causes cyclonic depressions in the Bay of Bengal during **October and November**, leading to heavy rainfall in the:
+Q: The retreating monsoon causes cyclonic depressions in the Bay of Bengal during October and November, leading to heavy rainfall in the:
 A) North-Eastern states
 B) Konkan Coast
-C) **East Coast (Odisha, Andhra Pradesh, Tamil Nadu)**
+C) East Coast (Odisha, Andhra Pradesh, Tamil Nadu)
 D) Gujarat and Rajasthan
 ANS: C
-Q: According to **Köppen's Classification**, the code **'As'** (Monsoon with **Dry Summer**) is typically found in:
+Q: According to Köppen's Classification, the code 'As' (Monsoon with Dry Summer) is typically found in:
 A) Western Ghats
 B) North-Eastern India
-C) **Coromandel Coast (Tamil Nadu)**
+C) Coromandel Coast (Tamil Nadu)
 D) Northern Plains
 ANS: C
-Q: The **Western Rajasthan** and the **Thar Desert** are predominantly classified under which climate type?
+Q: The Western Rajasthan and the Thar Desert are predominantly classified under which climate type?
 A) Tropical Wet (Amw)
-B) **Desert (BWhw)**
+B) Desert (BWhw)
 C) Cold Humid Winter (Dfc)
 D) Tropical Wet and Dry (Aw)
 ANS: B
-Q: The phenomenon where high humidity causes heavy, oppressive heat in coastal regions during the day is often termed **'October Heat'** when the monsoon retreats because of:
+Q: The phenomenon where high humidity causes heavy, oppressive heat in coastal regions during the day is often termed 'October Heat' when the monsoon retreats because of:
 A) Sudden cloudbursts
-B) **Clear skies allowing maximum insolation**
+B) Clear skies allowing maximum insolation
 C) Cyclonic activity near the coast
 D) Heavy rainfall
 ANS: B
-Q: The **highest daily range of temperature** (difference between day and night temperatures) is found in:
+Q: The highest daily range of temperature (difference between day and night temperatures) is found in:
 A) Coastal plains
 B) Himalayan regions
-C) **Thar Desert**
+C) Thar Desert
 D) North Indian Plains
 ANS: C
-Q: The primary reason the **Arabian Sea branch** of the Southwest Monsoon **fails to cause significant rainfall in Rajasthan** is because the Aravalli hills are:
+Q: The primary reason the Arabian Sea branch of the Southwest Monsoon fails to cause significant rainfall in Rajasthan is because the Aravalli hills are:
 A) Too high
-B) **Parallel to the direction of the wind**
+B) Parallel to the direction of the wind
 C) Covered in dense forest
 D) Blocked by local high pressure
 ANS: B
-Q: The **onset of the Southwest Monsoon** is often preceded by local thunderstorms and high humidity, which increases the average temperature before the rain begins. This is known as:
+Q: The onset of the Southwest Monsoon is often preceded by local thunderstorms and high humidity, which increases the average temperature before the rain begins. This is known as:
 A) Monsoon Trough
-B) **Monsoon Burst**
+B) Monsoon Burst
 C) Pre-Monsoon Advance
 D) Convectional Heat
 ANS: B
 Q: The seasonal reversal of wind direction that causes the Indian Monsoon is primarily driven by:
 A) The change in the Sun's magnetic field
-B) **Differential heating and cooling of land and sea**
+B) Differential heating and cooling of land and sea
 C) Changes in ocean current flow
 D) The rotation of the Earth
 ANS: B
-Q: In the **North-Eastern states**, the heavy rainfall is often concentrated over a short period, leading to flash floods and landslides. This is due to the combined effect of the Bay of Bengal moisture and the region's:
+Q: In the North-Eastern states, the heavy rainfall is often concentrated over a short period, leading to flash floods and landslides. This is due to the combined effect of the Bay of Bengal moisture and the region's:
 A) High humidity
-B) **Hilly topography trapping the winds**
+B) Hilly topography trapping the winds
 C) Proximity to the equator
 D) Lack of vegetation
 ANS: B
-Q: According to **Köppen's Classification**, the code **'Dfc'** (Cold, Humid Winter with Short Summer) is associated with which region?
+Q: According to Köppen's Classification, the code 'Dfc' (Cold, Humid Winter with Short Summer) is associated with which region?
 A) Coromandel Coast
 B) Western Ghats
-C) **North-Eastern Himalayas (Arunachal Pradesh/Sikkim)**
+C) North-Eastern Himalayas (Arunachal Pradesh/Sikkim)
 D) Thar Desert
 ANS: C
-Q: The **retreating monsoon** (North-East Monsoon) is essentially a transition from the **wet season** to the **dry season**, marked by the establishment of a **High-Pressure** system over:
+Q: The retreating monsoon (North-East Monsoon) is essentially a transition from the wet season to the dry season, marked by the establishment of a High-Pressure system over:
 A) The Bay of Bengal
 B) The Arabian Sea
 C) The Deccan Plateau
-D) **The North Indian Landmass**
+D) The North Indian Landmass
 ANS: D
-Q: The average wind direction over the Indian subcontinent during the **Winter Season** is:
+Q: The average wind direction over the Indian subcontinent during the Winter Season is:
 A) South-West to North-East
 B) West to East
-C) **North-East to South-West**
+C) North-East to South-West
 D) East to West
 ANS: C
-Q: The **El Niño Southern Oscillation (ENSO)** phenomenon, which links pressure changes over the Pacific Ocean to climatic events globally, typically occurs every:
+Q: The El Niño Southern Oscillation (ENSO) phenomenon, which links pressure changes over the Pacific Ocean to climatic events globally, typically occurs every:
 A) 1-2 years
-B) **3-7 years**
+B) 3-7 years
 C) 10 years
 D) 20 years
 ANS: B
-Q: The **hottest month** for the interior plains of North India, before the onset of the monsoon, is typically:
+Q: The hottest month for the interior plains of North India, before the onset of the monsoon, is typically:
 A) April
-B) **May**
+B) May
 C) June
 D) July
 ANS: B
-Q: The **Thar Desert** experiences **low rainfall** because the monsoon winds lose most of their moisture by the time they reach it, making them:
-A) **Off-shore winds**
+Q: The Thar Desert experiences low rainfall because the monsoon winds lose most of their moisture by the time they reach it, making them:
+A) Off-shore winds
 B) On-shore winds
 C) Jet Streams
 D) Trade Winds
 ANS: A
-Q: The **Chilling Winds** from Central Asia are blocked by the Himalayas. If these cold winds were to penetrate into the North Indian Plains, the average winter temperature would be:
+Q: The Chilling Winds from Central Asia are blocked by the Himalayas. If these cold winds were to penetrate into the North Indian Plains, the average winter temperature would be:
 A) Slightly warmer
-B) **Significantly lower**
+B) Significantly lower
 C) Unaffected
 D) Only affected in the hills
 ANS: B
-Q: The shift of the **Monsoon Trough (ITCZ)** during summer from its average position near the equator to the North Indian Plains creates an intense:
+Q: The shift of the Monsoon Trough (ITCZ) during summer from its average position near the equator to the North Indian Plains creates an intense:
 A) High-Pressure System
-B) **Low-Pressure System (Vaccum)**
+B) Low-Pressure System (Vaccum)
 C) Mountain Barrier
 D) Cold-Water Current
 ANS: B
 
 [SUBJECT: Geography]
 [CHAPTER: Forest and Grassland]
-Q: **Tropical Evergreen Forests** receive high rainfall, typically **above**:
+Q: Tropical Evergreen Forests receive high rainfall, typically above:
 A) 100 cm
 B) 150 cm
-C) **200 cm**
+C) 200 cm
 D) 300 cm
 ANS: C
-Q: Which type of forest is also known as **Monsoon Forests** because trees shed their leaves for about six to eight weeks in the dry summer?
+Q: Which type of forest is also known as Monsoon Forests because trees shed their leaves for about six to eight weeks in the dry summer?
 A) Tropical Evergreen
-B) **Tropical Deciduous**
+B) Tropical Deciduous
 C) Tropical Thorn
 D) Montane Forests
 ANS: B
-Q: The **Tropical Deciduous Forests** are further divided into **Moist** and **Dry** based on rainfall. The Dry Deciduous range receives rainfall between:
+Q: The Tropical Deciduous Forests are further divided into Moist and Dry based on rainfall. The Dry Deciduous range receives rainfall between:
 A) 200 cm and 100 cm
-B) **70 cm and 100 cm**
+B) 70 cm and 100 cm
 C) 50 cm and 70 cm
 D) Below 50 cm
 ANS: B
-Q: **Rosewood, Mahogany, Aini, and Rubber** are economically valuable species found in which forest type?
+Q: Rosewood, Mahogany, Aini, and Rubber are economically valuable species found in which forest type?
 A) Tropical Deciduous
-B) **Tropical Evergreen**
+B) Tropical Evergreen
 C) Montane Temperate
 D) Mangrove
 ANS: B
-Q: The most dominant and economically important species of the **Moist Deciduous Forests** is:
+Q: The most dominant and economically important species of the Moist Deciduous Forests is:
 A) Sandalwood
 B) Shisham
-C) **Teak**
+C) Teak
 D) Bamboo
 ANS: C
-Q: Which forest type is characterized by trees like **Tendu, Palash, and Amaltas** and is found in regions receiving rainfall between 70 cm and 100 cm?
+Q: Which forest type is characterized by trees like Tendu, Palash, and Amaltas and is found in regions receiving rainfall between 70 cm and 100 cm?
 A) Tropical Evergreen
-B) **Dry Deciduous**
+B) Dry Deciduous
 C) Tropical Thorn
 D) Littoral
 ANS: B
-Q: **Thorn Forests and Scrubs** are found in regions receiving rainfall **below**:
+Q: Thorn Forests and Scrubs are found in regions receiving rainfall below:
 A) 100 cm
-B) **70 cm**
+B) 70 cm
 C) 150 cm
 D) 50 cm
 ANS: B
-Q: The leaves of the **Tendu tree** are commercially used for wrapping:
+Q: The leaves of the Tendu tree are commercially used for wrapping:
 A) Tea leaves
-B) **Bidis (local cigarettes)**
+B) Bidis (local cigarettes)
 C) Spices
 D) Sandalwood
 ANS: B
-Q: The **Montane Forests** in the Himalayas show a distinct succession of vegetation zones due to decreasing temperature with increasing altitude, starting from **Deciduous** at the base, moving to **Coniferous** (Pine, Deodar), and ending with:
+Q: The Montane Forests in the Himalayas show a distinct succession of vegetation zones due to decreasing temperature with increasing altitude, starting from Deciduous at the base, moving to Coniferous (Pine, Deodar), and ending with:
 A) Tropical Evergreen
 B) Shola Forests
-C) **Alpine and Tundra**
+C) Alpine and Tundra
 D) Temperate Deciduous
 ANS: C
-Q: The **Alpine and Tundra** vegetation at high altitudes (above 3,600m) is characterized by low-lying plants like **Mosses and Lichens**, which are part of the:
+Q: The Alpine and Tundra vegetation at high altitudes (above 3,600m) is characterized by low-lying plants like Mosses and Lichens, which are part of the:
 A) Evergreen category
-B) **Tundra Biome**
+B) Tundra Biome
 C) Temperate Deciduous
 D) Savanna Grasslands
 ANS: B
-Q: The **Shola Forests** are the characteristic **temperate forests** found in the higher elevation regions of which Southern Indian hills?
+Q: The Shola Forests are the characteristic temperate forests found in the higher elevation regions of which Southern Indian hills?
 A) Eastern Ghats and Mahendragiri Hills
 B) Satpura and Vindhya Ranges
-C) **Nilgiri, Anaimalai, and Palani Hills**
+C) Nilgiri, Anaimalai, and Palani Hills
 D) Aravalli and Malwa Plateaus
 ANS: C
-Q: The tree species **Sundari** is unique and gives its name to the famous **Sunderbans Delta**. This tree is characteristic of:
+Q: The tree species Sundari is unique and gives its name to the famous Sunderbans Delta. This tree is characteristic of:
 A) Tropical Evergreen Forests
 B) Deciduous Forests
 C) Montane Forests
-D) **Mangrove (Tidal) Forests**
+D) Mangrove (Tidal) Forests
 ANS: D
-Q: The **Mangrove Forests** develop specialized roots called **Pneumatophores**. These roots grow vertically above the water surface primarily for the purpose of:
+Q: The Mangrove Forests develop specialized roots called Pneumatophores. These roots grow vertically above the water surface primarily for the purpose of:
 A) Nutrient absorption
-B) **Respiration (Breathing)**
+B) Respiration (Breathing)
 C) Anchoring the tree in soft mud
 D) Reproducing seeds
 ANS: B
-Q: According to the **India State of Forest Report (ISFR) 2021**, the total forest cover of India is approximately:
+Q: According to the India State of Forest Report (ISFR) 2021, the total forest cover of India is approximately:
 A) 19.5%
-B) **21.7%**
+B) 21.7%
 C) 24.6% (Total Forest + Tree Cover)
 D) 33.0% (Policy Target)
 ANS: B
 Q: As per ISFR 2021, the combined Forest and Tree Cover of India stands at approximately:
 A) 21.7%
 B) 23.9%
-C) **24.6%**
+C) 24.6%
 D) 25.1%
 ANS: C
-Q: Which state in India has the **largest area under forest cover** (in square kilometers)?
+Q: Which state in India has the largest area under forest cover (in square kilometers)?
 A) Arunachal Pradesh
 B) Chhattisgarh
-C) **Madhya Pradesh**
+C) Madhya Pradesh
 D) Odisha
 ANS: C
-Q: Which state has the **highest percentage of forest cover** (forest area as a percentage of total geographical area)?
+Q: Which state has the highest percentage of forest cover (forest area as a percentage of total geographical area)?
 A) Arunachal Pradesh
-B) **Mizoram**
+B) Mizoram
 C) Meghalaya
 D) Tripura
 ANS: B
 Q: The National Forest Policy of India (1952, revised 1988) aims to achieve a national forest cover target of:
 A) 25%
 B) 30%
-C) **33%**
+C) 33%
 D) 40%
 ANS: C
-Q: Which state recorded the **maximum increase in forest cover** during the 2021 assessment compared to the previous report?
+Q: Which state recorded the maximum increase in forest cover during the 2021 assessment compared to the previous report?
 A) Telangana
 B) Odisha
-C) **Andhra Pradesh**
+C) Andhra Pradesh
 D) Karnataka
 ANS: C
-Q: **Alpine Grasslands** and **Pastures** in Uttarakhand are known by the local name:
+Q: Alpine Grasslands and Pastures in Uttarakhand are known by the local name:
 A) Khadar
 B) Terai
-C) **Bugyals**
+C) Bugyals
 D) Bhangar
 ANS: C
-Q: The **Gujjars and Bakarwals** are nomadic tribes in the Himalayan region who undertake seasonal migration, moving to the Alpine meadows (Bugyals) during:
+Q: The Gujjars and Bakarwals are nomadic tribes in the Himalayan region who undertake seasonal migration, moving to the Alpine meadows (Bugyals) during:
 A) Winter
-B) **Summer**
+B) Summer
 C) Monsoon
 D) Autumn
 ANS: B
-Q: The **Tropical Grasslands** in Africa are famously known as:
+Q: The Tropical Grasslands in Africa are famously known as:
 A) Llanos
 B) Pampas
 C) Prairies
-D) **Savanna**
+D) Savanna
 ANS: D
-Q: The **Temperate Grasslands** of North America are known as:
+Q: The Temperate Grasslands of North America are known as:
 A) Steppes
-B) **Prairies**
+B) Prairies
 C) Pampas
 D) Downs
 ANS: B
-Q: The **Prairies** of North America are also known as the **"Wheat Granaries of the World"** due to:
+Q: The Prairies of North America are also known as the Wheat Granaries of the World due to:
 A) High mechanization
 B) Low labor costs
-C) **High yield of wheat**
+C) High yield of wheat
 D) Fertile black soil
 ANS: C
-Q: The **South American Temperate Grasslands**, primarily found in Argentina, are called:
+Q: The South American Temperate Grasslands, primarily found in Argentina, are called:
 A) Campos
-B) **Pampas**
+B) Pampas
 C) Selvas
 D) Llanos
 ANS: B
-Q: The **Steppe Grasslands** are characteristic **Temperate Grasslands** found in the vast areas of:
+Q: The Steppe Grasslands are characteristic Temperate Grasslands found in the vast areas of:
 A) North America
 B) South Africa
-C) **Eurasia**
+C) Eurasia
 D) Australia
 ANS: C
-Q: The **Veld Grasslands** are found in:
+Q: The Veld Grasslands are found in:
 A) Argentina
-B) **South Africa**
+B) South Africa
 C) Brazil
 D) Hungary
 ANS: B
-Q: The **Downs Grasslands** are located in:
+Q: The Downs Grasslands are located in:
 A) South Africa
 B) Eurasia
 C) North America
-D) **Australia**
+D) Australia
 ANS: D
-Q: The **Mangrove (Tidal) Forests** have trees whose seeds germinate while still attached to the parent plant. This is known as:
+Q: The Mangrove (Tidal) Forests have trees whose seeds germinate while still attached to the parent plant. This is known as:
 A) Oviparous
-B) **Viviparous**
+B) Viviparous
 C) Gymnosperm
 D) Angiosperm
 ANS: B
-Q: The **Mangrove Forests** are commercially important because they are a source of **fuelwood, tanning materials, and are excellent breeding grounds** for:
+Q: The Mangrove Forests are commercially important because they are a source of fuelwood, tanning materials, and are excellent breeding grounds for:
 A) Lions and Tigers
 B) Elephants and Rhinos
-C) **Fish and Crustaceans**
+C) Fish and Crustaceans
 D) Deer and Antelope
 ANS: C
-Q: The process of **'Slash and Burn'** agriculture is also locally known as:
+Q: The process of 'Slash and Burn' agriculture is also locally known as:
 A) Terrace farming
 B) Subsistence farming
-C) **Shifting cultivation**
+C) Shifting cultivation
 D) Plantation agriculture
 ANS: C
-Q: The practice of **Shifting Cultivation** is known as **'Jhum'** in which region of India?
+Q: The practice of Shifting Cultivation is known as 'Jhum' in which region of India?
 A) Central Highlands
 B) Western Ghats
-C) **North-Eastern India**
+C) North-Eastern India
 D) Coromandel Coast
 ANS: C
-Q: Shifting cultivation is known as **'Podu' or 'Penda'** in:
+Q: Shifting cultivation is known as 'Podu' or 'Penda' in:
 A) Odisha
-B) **Andhra Pradesh/Telangana**
+B) Andhra Pradesh/Telangana
 C) Madhya Pradesh
 D) Rajasthan
 ANS: B
-Q: Shifting cultivation is known as **'Kumari'** in the:
+Q: Shifting cultivation is known as 'Kumari' in the:
 A) Himalayan region
-B) **Western Ghats**
+B) Western Ghats
 C) Eastern Ghats
 D) North Indian Plains
 ANS: B
-Q: The **leaves of the Tendula tree** are used for bidi making. This tree is a characteristic species of:
+Q: The leaves of the Tendula tree are used for bidi making. This tree is a characteristic species of:
 A) Evergreen Forest
 B) Moist Deciduous Forest
-C) **Dry Deciduous Forest**
+C) Dry Deciduous Forest
 D) Montane Forest
 ANS: C
-Q: Which region of India is known for the **Tusks Grass** which grows to a height of about 2 meters?
+Q: Which region of India is known for the Tusks Grass which grows to a height of about 2 meters?
 A) Coastal Plains
 B) Western Ghats
-C) **Thar Desert/Semi-arid regions**
+C) Thar Desert/Semi-arid regions
 D) Himalayan foothills
 ANS: C
-Q: The **Tropical Thorn Forests** are primarily found in the **semi-arid areas** of:
+Q: The Tropical Thorn Forests are primarily found in the semi-arid areas of:
 A) West Bengal and Odisha
-B) **Gujarat, Rajasthan, Punjab, Uttar Pradesh, Madhya Pradesh**
+B) Gujarat, Rajasthan, Punjab, Uttar Pradesh, Madhya Pradesh
 C) Kerala and Tamil Nadu
 D) North-Eastern States
 ANS: B
-Q: The **'Sal'** tree (Shorea robusta) is a highly valued species and is the second most dominant species of the:
+Q: The 'Sal' tree (Shorea robusta) is a highly valued species and is the second most dominant species of the:
 A) Evergreen Forests
-B) **Deciduous Forests**
+B) Deciduous Forests
 C) Mangrove Forests
 D) Thorn Forests
 ANS: B
-Q: The low-lying vegetation like **Mosses and Lichens** found in the Tundra zone are adapted to the extreme cold and are often called:
+Q: The low-lying vegetation like Mosses and Lichens found in the Tundra zone are adapted to the extreme cold and are often called:
 A) Conifers
 B) Temperate shrubs
-C) **Alpine flora**
+C) Alpine flora
 D) Shola flora
 ANS: C
-Q: The **'Tendu'** and **'Palash'** trees are known for having leaves that are shed completely during the dry season, which is a characteristic of:
+Q: The 'Tendu' and 'Palash' trees are known for having leaves that are shed completely during the dry season, which is a characteristic of:
 A) Evergreen Trees
-B) **Deciduous Trees**
+B) Deciduous Trees
 C) Coniferous Trees
 D) Alpine Trees
 ANS: B
-Q: The **Boreal Forests**, characterized by coniferous trees and long, cold winters, are also widely known by the name:
+Q: The Boreal Forests, characterized by coniferous trees and long, cold winters, are also widely known by the name:
 A) Tundra
-B) **Taiga**
+B) Taiga
 C) Prairie
 D) Temperate Evergreen
 ANS: B
-Q: The **evergreen broad-leaf trees** like **Oak and Chestnut** are typically found in the altitude range of:
+Q: The evergreen broad-leaf trees like Oak and Chestnut are typically found in the altitude range of:
 A) Below 500m
-B) **1000m to 2000m**
+B) 1000m to 2000m
 C) 3000m to 4000m
 D) Above 4500m
 ANS: B
-Q: The **Chaparral biome**, characterized by thorny bushes and woody shrubs, is found in the Mediterranean climate regions, which is a form of:
-A) **Tropical Thorn Forest**
+Q: The Chaparral biome, characterized by thorny bushes and woody shrubs, is found in the Mediterranean climate regions, which is a form of:
+A) Tropical Thorn Forest
 B) Temperate Deciduous Forest
 C) Montane Forest
 D) Taiga Forest
 ANS: A
-Q: The **forests of the Andaman and Nicobar Islands** are classified as:
+Q: The forests of the Andaman and Nicobar Islands are classified as:
 A) Montane Forests
-B) **Tropical Evergreen and Littoral/Swamp Forests**
+B) Tropical Evergreen and Littoral/Swamp Forests
 C) Tropical Deciduous Forests
 D) Tropical Thorn Forests
 ANS: B
-Q: The primary objective of the **Social Forestry** scheme in India is to encourage:
+Q: The primary objective of the Social Forestry scheme in India is to encourage:
 A) Commercial timber production
-B) **Planting trees on barren land for environmental, social, and rural development**
+B) Planting trees on barren land for environmental, social, and rural development
 C) Developing forest research centers
 D) Protecting National Parks
 ANS: B
-Q: The famous **Chhipko Movement** in Uttarakhand was started to resist the commercial felling of trees and is associated with:
+Q: The famous Chhipko Movement in Uttarakhand was started to resist the commercial felling of trees and is associated with:
 A) The Forest Policy of 1952
-B) **Afforestation efforts**
+B) Afforestation efforts
 C) Wildlife Protection Act
 D) Social Forestry
 ANS: B
-Q: The **Mopane Grassland** is a type of **Tropical Grassland** found in the regions of:
+Q: The Mopane Grassland is a type of Tropical Grassland found in the regions of:
 A) Brazil
 B) South Africa
-C) **Southern Africa (e.g., Namibia)**
+C) Southern Africa (e.g., Namibia)
 D) Australia
 ANS: C
-Q: The **Llanos Grasslands** are located in:
+Q: The Llanos Grasslands are located in:
 A) Argentina
-B) **Venezuela and Colombia**
+B) Venezuela and Colombia
 C) Brazil
 D) South Africa
 ANS: B
 Q: The largest amount of forest cover in India is formed by the:
 A) Tropical Evergreen Forests
-B) **Tropical Deciduous Forests**
+B) Tropical Deciduous Forests
 C) Tropical Thorn Forests
 D) Sub-tropical Broad-leaved Forests
 ANS: B
-Q: The state of **Haryana** has the **least percentage of forest cover** in India because of:
+Q: The state of Haryana has the least percentage of forest cover in India because of:
 A) Cold Climate
 B) Arid Soil
-C) **Intensive agriculture and urbanization**
+C) Intensive agriculture and urbanization
 D) Mountainous terrain
 ANS: C
-Q: The **ISFR** (India State of Forest Report) is published by which Ministry of the Government of India?
+Q: The ISFR (India State of Forest Report) is published by which Ministry of the Government of India?
 A) Ministry of Agriculture
 B) Ministry of Tribal Affairs
 C) Ministry of Environment, Forest and Climate Change (MoEFCC)
@@ -5716,311 +5716,311 @@ ANS: C
 Q: The study of soil, including its formation, classification, and mapping, is known as:
 A) Geology
 B) Geomorphology
-C) **Pedology**
+C) Pedology
 D) Agronomy
 ANS: C
-Q: Which horizontal layer of soil is referred to as the **'Topsoil'** and is typically rich in **humus** and minerals?
+Q: Which horizontal layer of soil is referred to as the 'Topsoil' and is typically rich in humus and minerals?
 A) O-horizon
 B) B-horizon
 C) C-horizon
-D) **A-horizon**
+D) A-horizon
 ANS: D
-Q: The **Alluvial Soil (Jalod Marda)** is the most widespread and abundant soil in India, covering approximately what percentage of the total area?
+Q: The Alluvial Soil (Jalod Marda) is the most widespread and abundant soil in India, covering approximately what percentage of the total area?
 A) 25%
 B) 33%
-C) **40%**
+C) 40%
 D) 55%
 ANS: C
 Q: Alluvial Soil is mainly formed by the deposition of sediments from the:
 A) Peninsular Rivers
 B) Glacial action
-C) **Himalayan River Systems (Indus, Ganga, Brahmaputra)**
+C) Himalayan River Systems (Indus, Ganga, Brahmaputra)
 D) Western Ghats runoff
 ANS: C
-Q: According to age, **Old Alluvial Soil** is known as **'Bhangar'**, and the **New Alluvial Soil** is known as **'Khadar'**. Which type is generally **more fertile and suitable for intensive agriculture**?
-A) **Khadar**
+Q: According to age, Old Alluvial Soil is known as 'Bhangar', and the New Alluvial Soil is known as 'Khadar'. Which type is generally more fertile and suitable for intensive agriculture?
+A) Khadar
 B) Bhangar
 C) Both are equally fertile
 D) Neither is fertile
 ANS: A
-Q: Which major nutrient is Alluvial Soil generally **rich in**?
+Q: Which major nutrient is Alluvial Soil generally rich in?
 A) Nitrogen
 B) Phosphorus
 C) Humus
-D) **Potash**
+D) Potash
 ANS: D
 Q: All Indian soils are typically deficient (poor) in which two major components?
 A) Potash and Calcium
 B) Iron and Aluminium
-C) **Humus and Nitrogen**
+C) Humus and Nitrogen
 D) Phosphorus and Potassium
 ANS: C
-Q: **Black Soil** (Regur Soil) is most ideal for the cultivation of:
+Q: Black Soil (Regur Soil) is most ideal for the cultivation of:
 A) Wheat
 B) Rice
-C) **Cotton**
+C) Cotton
 D) Tea
 ANS: C
-Q: Black Soil is typically found in the **Deccan Trap region** and is formed by the weathering of:
+Q: Black Soil is typically found in the Deccan Trap region and is formed by the weathering of:
 A) Metamorphic rock
 B) Alluvial deposits
-C) **Basalt (Lava flows)**
+C) Basalt (Lava flows)
 D) Sedimentary rock
 ANS: C
-Q: The **self-ploughing characteristic** of Black Soil is due to its composition of fine **clayey material** which causes it to develop deep cracks during the dry season, promoting:
+Q: The self-ploughing characteristic of Black Soil is due to its composition of fine clayey material which causes it to develop deep cracks during the dry season, promoting:
 A) Water logging
 B) Salinity
-C) **Aeration**
+C) Aeration
 D) Erosion
 ANS: C
-Q: The **Red and Yellow Soil** develops on **Crystalline Igneous Rocks** in areas of **low rainfall**. The yellow colour is due to:
+Q: The Red and Yellow Soil develops on Crystalline Igneous Rocks in areas of low rainfall. The yellow colour is due to:
 A) High organic content
 B) Presence of Iron Oxide
-C) **Hydrated form of Iron**
+C) Hydrated form of Iron
 D) Presence of Manganese
 ANS: C
-Q: **Laterite Soil** is derived from the Latin word **'Later'**, meaning:
+Q: Laterite Soil is derived from the Latin word 'Later', meaning:
 A) Stone
 B) Clay
-C) **Brick**
+C) Brick
 D) Ash
 ANS: C
-Q: **Laterite Soil** is formed under conditions of **high temperature and heavy rainfall** through a process called:
+Q: Laterite Soil is formed under conditions of high temperature and heavy rainfall through a process called:
 A) Capillary action
 B) Calcareous concentration
-C) **Leaching**
+C) Leaching
 D) Sedimentation
 ANS: C
-Q: Laterite Soil is most suitable for the cultivation of **Tea and Coffee** because it is poor in organic matter but rich in:
+Q: Laterite Soil is most suitable for the cultivation of Tea and Coffee because it is poor in organic matter but rich in:
 A) Potassium
 B) Calcium
-C) **Iron and Aluminium oxides**
+C) Iron and Aluminium oxides
 D) Silica
 ANS: C
-Q: **Arid Soil** (Desert Soil) is characterized by a high content of **salt** due to the process of:
+Q: Arid Soil (Desert Soil) is characterized by a high content of salt due to the process of:
 A) Leaching
 B) High precipitation
-C) **High rate of evaporation**
+C) High rate of evaporation
 D) Monsoonal rainfall
 ANS: C
-Q: The treatment used to neutralize the **salinity (salt content)** in soil is the addition of:
+Q: The treatment used to neutralize the salinity (salt content) in soil is the addition of:
 A) Lime
 B) Urea
 C) Potash
-D) **Gypsum**
+D) Gypsum
 ANS: D
-Q: The process of **'Sheet Erosion'** involves:
+Q: The process of 'Sheet Erosion' involves:
 A) Deep cuts in the soil by river water (Ravines)
-B) **Washing away of the top layer of soil over a large area**
+B) Washing away of the top layer of soil over a large area
 C) Removal of soil by wind action
 D) Landslides due to heavy rain
 ANS: B
-Q: The formation of **Ravines (Bihad)** and **Bad Land Topography** along the banks of the Chambal River is a result of:
+Q: The formation of Ravines (Bihad) and Bad Land Topography along the banks of the Chambal River is a result of:
 A) Sheet erosion
-B) **Gully erosion**
+B) Gully erosion
 C) Wind erosion
 D) Coastal erosion
 ANS: B
-Q: The technique of **'Mulching'** is used in farming to:
+Q: The technique of 'Mulching' is used in farming to:
 A) Introduce organic matter into the soil
-B) **Retain soil moisture by covering the ground with organic material**
+B) Retain soil moisture by covering the ground with organic material
 C) Increase the salinity of the soil
 D) Prevent crop diseases
 ANS: B
-Q: **'Contour Ploughing'** is a soil conservation technique where ploughing is done parallel to the contour lines of a hill slope primarily to:
+Q: 'Contour Ploughing' is a soil conservation technique where ploughing is done parallel to the contour lines of a hill slope primarily to:
 A) Increase water percolation
-B) **Slow down the flow of water and reduce erosion**
+B) Slow down the flow of water and reduce erosion
 C) Increase sunlight exposure
 D) Reduce the labour intensity
 ANS: B
-Q: **'Strip Farming'** is a technique used to control wind erosion where:
+Q: 'Strip Farming' is a technique used to control wind erosion where:
 A) A single crop is grown in a strip
-B) **Strips of grass are grown between strips of crops**
+B) Strips of grass are grown between strips of crops
 C) Crops are grown in vertical layers
 D) Fields are fenced off with strong barriers
 ANS: B
-Q: In India, approximately **two-thirds** of the population is dependent on agriculture. Which type of farming is done primarily for the farmer's own consumption?
+Q: In India, approximately two-thirds of the population is dependent on agriculture. Which type of farming is done primarily for the farmer's own consumption?
 A) Commercial Farming
 B) Plantation Farming
-C) **Subsistence Farming**
+C) Subsistence Farming
 D) Mixed Farming
 ANS: C
-Q: The type of farming involving the simultaneous cultivation of crops along with **livestock rearing** is known as:
+Q: The type of farming involving the simultaneous cultivation of crops along with livestock rearing is known as:
 A) Mixed Cropping
 B) Inter Cropping
-C) **Mixed Farming**
+C) Mixed Farming
 D) Plantation Farming
 ANS: C
 Q: The system where a single commercial crop is grown on a large estate is called:
 A) Intensive Farming
 B) Subsistence Farming
-C) **Plantation**
+C) Plantation
 D) Mixed Cropping
 ANS: C
-Q: Which cropping season's crops are sown in **October-November (Winter)** and harvested in **April-May (Summer)**?
-A) **Rabi**
+Q: Which cropping season's crops are sown in October-November (Winter) and harvested in April-May (Summer)?
+A) Rabi
 B) Kharif
 C) Zaid
 D) Monsoon
 ANS: A
-Q: **Wheat, Barley, Peas, Gram, and Mustard** are examples of crops grown in which season?
+Q: Wheat, Barley, Peas, Gram, and Mustard are examples of crops grown in which season?
 A) Kharif
-B) **Rabi**
+B) Rabi
 C) Zaid
 D) Summer
 ANS: B
-Q: Which cropping season's crops are sown with the onset of **Monsoon (July)** and harvested in **September-October**?
-A) **Kharif**
+Q: Which cropping season's crops are sown with the onset of Monsoon (July) and harvested in September-October?
+A) Kharif
 B) Rabi
 C) Zaid
 D) Winter
 ANS: A
-Q: **Rice (Paddy), Maize, Jowar, Bajra, Tur (Arhar), and Cotton** are examples of crops grown in which season?
-A) **Kharif**
+Q: Rice (Paddy), Maize, Jowar, Bajra, Tur (Arhar), and Cotton are examples of crops grown in which season?
+A) Kharif
 B) Rabi
 C) Zaid
 D) Winter
 ANS: A
-Q: The short growing season between the Rabi and Kharif seasons (May-June) is utilized for crops like **Watermelon, Muskmelon, Cucumber, and Fodder Crops**. This season is called:
+Q: The short growing season between the Rabi and Kharif seasons (May-June) is utilized for crops like Watermelon, Muskmelon, Cucumber, and Fodder Crops. This season is called:
 A) Rabi-Kharif Transition
-B) **Zaid**
+B) Zaid
 C) Early Monsoon
 D) Summer Rabi
 ANS: B
-Q: The most important staple food crop of India is **Rice**, and India is the **second largest producer** in the world after:
+Q: The most important staple food crop of India is Rice, and India is the second largest producer in the world after:
 A) USA
 B) Brazil
-C) **China**
+C) China
 D) Russia
 ANS: C
-Q: **Wheat** cultivation primarily requires a cool growing season and a bright sunshine at the time of ripening. The annual rainfall required is typically:
+Q: Wheat cultivation primarily requires a cool growing season and a bright sunshine at the time of ripening. The annual rainfall required is typically:
 A) Less than 50 cm
-B) **50 to 75 cm**
+B) 50 to 75 cm
 C) 100 to 150 cm
 D) Over 200 cm
 ANS: B
-Q: The **Jowar, Bajra, and Ragi** are known as major **millets** in India. They are often called **'Shree Anna'** and are known for their:
+Q: The Jowar, Bajra, and Ragi are known as major millets in India. They are often called 'Shree Anna' and are known for their:
 A) High water requirement
-B) **High nutritional value and being drought-resistant**
+B) High nutritional value and being drought-resistant
 C) Long growth period
 D) High sugar content
 ANS: B
-Q: India is the **largest producer and consumer** of:
+Q: India is the largest producer and consumer of:
 A) Rice
 B) Wheat
-C) **Pulses (Dals)**
+C) Pulses (Dals)
 D) Oilseeds
 ANS: C
-Q: **Cotton** requires a high temperature, light rainfall (or irrigation), and **210 frost-free days** for growth. It is primarily grown in:
+Q: Cotton requires a high temperature, light rainfall (or irrigation), and 210 frost-free days for growth. It is primarily grown in:
 A) Alluvial Soil
 B) Red Soil
 C) Laterite Soil
-D) **Black Soil**
+D) Black Soil
 ANS: D
 Q: The process of rearing silkworms for the production of raw silk is called:
 A) Apiculture
 B) Pisciculture
 C) Viticulture
-D) **Sericulture**
+D) Sericulture
 ANS: D
-Q: The main commercial plantation crop of South India is **Coffee**. The highest production state is:
+Q: The main commercial plantation crop of South India is Coffee. The highest production state is:
 A) Kerala
 B) Tamil Nadu
-C) **Karnataka**
+C) Karnataka
 D) Andhra Pradesh
 ANS: C
-Q: The fine quality **Arabica** variety of coffee, initially brought from Yemen, is cultivated in India, specifically in the:
+Q: The fine quality Arabica variety of coffee, initially brought from Yemen, is cultivated in India, specifically in the:
 A) Eastern Ghats
 B) Nilgiri and Palani Hills
-C) **Baba Budan Hills**
+C) Baba Budan Hills
 D) Cardamom Hills
 ANS: C
 Q: The production of fruits and vegetables (non-staple crops) is part of:
 A) Commercial Farming
 B) Plantation Farming
-C) **Horticulture**
+C) Horticulture
 D) Mixed Farming
 ANS: C
-Q: The term **'Golden Fibre'** refers to:
+Q: The term 'Golden Fibre' refers to:
 A) Cotton
 B) Hemp
-C) **Jute**
+C) Jute
 D) Silk
 ANS: C
-Q: The term **'Silver Fibre'** refers to:
+Q: The term 'Silver Fibre' refers to:
 A) Jute
 B) Silk
-C) **Cotton**
+C) Cotton
 D) Flax
 ANS: C
-Q: The **'Green Revolution'** in India was primarily aimed at increasing the production of:
+Q: The 'Green Revolution' in India was primarily aimed at increasing the production of:
 A) Pulses and Oilseeds
-B) **Wheat and Rice**
+B) Wheat and Rice
 C) Fruits and Vegetables
 D) Tea and Coffee
 ANS: B
 Q: The Father of the Green Revolution in the World, who introduced High Yielding Variety (HYV) seeds, was awarded the Nobel Peace Prize in 1970. He was:
 A) Dr. Varghese Kurien
-B) **Norman Borlaug**
+B) Norman Borlaug
 C) M.S. Swaminathan
 D) William S. Gaud
 ANS: B
 Q: The Father of the Green Revolution in India, who led the introduction of HYV seeds in the 1960s, was:
 A) C. Subramaniam
 B) Dr. Varghese Kurien
-C) **M.S. Swaminathan**
+C) M.S. Swaminathan
 D) Jawaharlal Nehru
 ANS: C
-Q: Which region of India was primarily targeted during the **First Phase (Mid-1960s to Mid-1970s)** of the Green Revolution due to its existing infrastructure and affordability?
+Q: Which region of India was primarily targeted during the First Phase (Mid-1960s to Mid-1970s) of the Green Revolution due to its existing infrastructure and affordability?
 A) Eastern Uttar Pradesh and Bihar
 B) Southern States
-C) **Punjab, Haryana, and Western Uttar Pradesh**
+C) Punjab, Haryana, and Western Uttar Pradesh
 D) North-Eastern States
 ANS: C
-Q: The adverse impact of the Green Revolution included the **alarming drop in the water table** and the **increase in soil salinity** due to:
+Q: The adverse impact of the Green Revolution included the alarming drop in the water table and the increase in soil salinity due to:
 A) Reduced rainfall
-B) **Overuse of groundwater for irrigation**
+B) Overuse of groundwater for irrigation
 C) Increased deforestation
 D) Less use of fertilizers
 ANS: B
-Q: The **Operation Flood (White Revolution)**, which focused on increasing milk production and creating a national milk grid, was launched in which year?
+Q: The Operation Flood (White Revolution), which focused on increasing milk production and creating a national milk grid, was launched in which year?
 A) 1960
-B) **1970**
+B) 1970
 C) 1980
 D) 1990
 ANS: B
-Q: The **Blue Revolution** is associated with the production of:
+Q: The Blue Revolution is associated with the production of:
 A) Milk
 B) Eggs
-C) **Fish/Aquaculture**
+C) Fish/Aquaculture
 D) Cotton
 ANS: C
-Q: **BT Cotton**, a Genetically Modified (GM) crop grown in India, is engineered to be resistant to:
+Q: BT Cotton, a Genetically Modified (GM) crop grown in India, is engineered to be resistant to:
 A) Drought
 B) Excess salinity
-C) **Pest attacks (Bollworm)**
+C) Pest attacks (Bollworm)
 D) Weeds
 ANS: C
-Q: The largest producer of **Groundnuts** in India is the state of:
+Q: The largest producer of Groundnuts in India is the state of:
 A) Andhra Pradesh
 B) Rajasthan
-C) **Gujarat**
+C) Gujarat
 D) Karnataka
 ANS: C
-Q: The **Saffron** crop, highly valued for its quality, is primarily cultivated in the **'Karewas'** (lacustrine/glacial deposits) of the:
+Q: The Saffron crop, highly valued for its quality, is primarily cultivated in the 'Karewas' (lacustrine/glacial deposits) of the:
 A) Himachal Pradesh Himalayas
-B) **Kashmir Himalayas**
+B) Kashmir Himalayas
 C) Sikkim Himalayas
 D) Uttarakhand Himalayas
 ANS: B
-Q: Which type of farming system is characterized by **crop rotation** and the **use of manure and organic fertilizers** instead of synthetic ones?
+Q: Which type of farming system is characterized by crop rotation and the use of manure and organic fertilizers instead of synthetic ones?
 A) Commercial Farming
 B) Plantation Farming
 C) Subsistence Farming
-D) **Organic Farming**
+D) Organic Farming
 ANS: D
-Q: The two major factors that determine the **calcareous concentration ('Kankar' or Lime nodules)** in a soil profile are:
-A) **Rainfall and Temperature**
+Q: The two major factors that determine the calcareous concentration ('Kankar' or Lime nodules) in a soil profile are:
+A) Rainfall and Temperature
 B) Wind Speed and Altitude
 C) Latitude and Relief
 D) Time and Vegetation
@@ -6028,296 +6028,296 @@ ANS: A
 Q: Which term describes the process where loose sediment is consolidated into solid rock (or soil layers) over time?
 A) Metamorphism
 B) Erosion
-C) **Lithification**
+C) Lithification
 D) Weathering
 ANS: C
-Q: The primary soil forming process in the **Laterite soil** is **Leaching**, which involves the rapid removal of soluble bases (like silica) by:
+Q: The primary soil forming process in the Laterite soil is Leaching, which involves the rapid removal of soluble bases (like silica) by:
 A) Wind action
-B) **Heavy rainfall**
+B) Heavy rainfall
 C) High evaporation
 D) Freezing action
 ANS: B
 
 [SUBJECT: Geography]
 [CHAPTER: Minerals]
-Q: A **mineral** is defined as a homogeneous, naturally occurring substance with a **definite internal structure** and:
+Q: A mineral is defined as a homogeneous, naturally occurring substance with a definite internal structure and:
 A) Simple chemical composition
-B) **Definable chemical and physical properties**
+B) Definable chemical and physical properties
 C) Organic origin only
 D) Artificial composition
 ANS: B
-Q: **Ferrous minerals** are those that contain:
+Q: Ferrous minerals are those that contain:
 A) Manganese
 B) Copper
-C) **Iron**
+C) Iron
 D) Aluminium
 ANS: C
-Q: Which of the following is the **highest grade Iron Ore**, containing up to 70% pure iron content?
+Q: Which of the following is the highest grade Iron Ore, containing up to 70% pure iron content?
 A) Haematite
 B) Siderite
 C) Limonite
-D) **Magnetite**
+D) Magnetite
 ANS: D
-Q: The **Haematite** iron ore, though having a lower iron content (50-60%), is the **most important industrial iron ore** in terms of:
+Q: The Haematite iron ore, though having a lower iron content (50-60%), is the most important industrial iron ore in terms of:
 A) Hardness
 B) Magnetic properties
-C) **Quantity used**
+C) Quantity used
 D) Purity
 ANS: C
-Q: Which **four states** together account for nearly 97% of India's Iron Ore production?
+Q: Which four states together account for nearly 97% of India's Iron Ore production?
 A) Bihar, West Bengal, Assam, Nagaland
 B) Gujarat, Maharashtra, Goa, Kerala
-C) **Odisha, Chhattisgarh, Karnataka, and Jharkhand**
+C) Odisha, Chhattisgarh, Karnataka, and Jharkhand
 D) Rajasthan, Punjab, Haryana, Uttarakhand
 ANS: C
-Q: The **Bailadila Mines** in Chhattisgarh are known for their high-quality iron ore and are named after:
+Q: The Bailadila Mines in Chhattisgarh are known for their high-quality iron ore and are named after:
 A) A local deity
-B) **The humps of an ox**
+B) The humps of an ox
 C) A local river
 D) A British geologist
 ANS: B
-Q: The **Kudremukh Mines** in Karnataka are named after:
+Q: The Kudremukh Mines in Karnataka are named after:
 A) A nearby hill station
 B) The local name for Elephant
-C) **The local name for Horse's face**
+C) The local name for Horse's face
 D) The type of rock found there
 ANS: C
-Q: **Manganese** is primarily used in the manufacturing of:
+Q: Manganese is primarily used in the manufacturing of:
 A) Aluminium
 B) Copper cables
-C) **Steel and ferro-manganese alloys**
+C) Steel and ferro-manganese alloys
 D) Electrical wires
 ANS: C
-Q: Which state is the **largest producer of Manganese** in India?
+Q: Which state is the largest producer of Manganese in India?
 A) Maharashtra
 B) Odisha
 C) Andhra Pradesh
-D) **Madhya Pradesh**
+D) Madhya Pradesh
 ANS: D
-Q: The **first metal discovered by humans** was:
+Q: The first metal discovered by humans was:
 A) Iron
 B) Gold
-C) **Copper**
+C) Copper
 D) Bronze
 ANS: C
-Q: The famous **Khetri Mines** in Rajasthan are the major source of:
+Q: The famous Khetri Mines in Rajasthan are the major source of:
 A) Iron Ore
 B) Gold
-C) **Copper**
+C) Copper
 D) Zinc
 ANS: C
-Q: The primary ore used for the extraction of **Aluminium** is:
+Q: The primary ore used for the extraction of Aluminium is:
 A) Haematite
 B) Mica
 C) Zinc Blende
-D) **Bauxite**
+D) Bauxite
 ANS: D
-Q: Which state is the **largest producer of Bauxite** in India?
+Q: Which state is the largest producer of Bauxite in India?
 A) Gujarat
 B) Jharkhand
-C) **Odisha**
+C) Odisha
 D) Madhya Pradesh
 ANS: C
-Q: Which **Non-Metallic mineral** is known for its excellent dielectric strength and insulating properties, making it vital for the electric and electronic industries?
+Q: Which Non-Metallic mineral is known for its excellent dielectric strength and insulating properties, making it vital for the electric and electronic industries?
 A) Limestone
 B) Gypsum
 C) Salt
-D) **Mica**
+D) Mica
 ANS: D
-Q: The **Koderma-Gaya-Hazaribagh belt** in Jharkhand is the leading producer of which mineral?
+Q: The Koderma-Gaya-Hazaribagh belt in Jharkhand is the leading producer of which mineral?
 A) Iron Ore
 B) Bauxite
 C) Gold
-D) **Mica**
+D) Mica
 ANS: D
-Q: **Limestone** is an essential raw material used in the manufacturing of:
+Q: Limestone is an essential raw material used in the manufacturing of:
 A) Steel and aluminum
-B) **Cement**
+B) Cement
 C) Glass and ceramics
 D) Fertilizers
 ANS: B
-Q: The **Kolar Gold Fields (KGF)** and **Hutti Gold Mines** are significant gold reserves located in:
+Q: The Kolar Gold Fields (KGF) and Hutti Gold Mines are significant gold reserves located in:
 A) Andhra Pradesh
 B) Tamil Nadu
-C) **Karnataka**
+C) Karnataka
 D) Kerala
 ANS: C
-Q: The only state in India that is a major producer of **Diamond** is:
+Q: The only state in India that is a major producer of Diamond is:
 A) Gujarat
 B) Andhra Pradesh
-C) **Madhya Pradesh (Panna Mines)**
+C) Madhya Pradesh (Panna Mines)
 D) Karnataka
 ANS: C
-Q: The **highest quality** coal, known as **Hard Coal**, which has the highest carbon content (80-90%) is:
+Q: The highest quality coal, known as Hard Coal, which has the highest carbon content (80-90%) is:
 A) Bituminous
 B) Lignite
 C) Peat
-D) **Anthracite**
+D) Anthracite
 ANS: D
-Q: The most widely available and used coal type in India, often referred to as **'Coking Coal'**, is:
+Q: The most widely available and used coal type in India, often referred to as 'Coking Coal', is:
 A) Anthracite
-B) **Bituminous**
+B) Bituminous
 C) Lignite
 D) Peat
 ANS: B
 Q: The lowest grade coal, which is soft and brown with a high moisture content, is:
 A) Bituminous
-B) **Lignite (Brown Coal)**
+B) Lignite (Brown Coal)
 C) Anthracite
 D) Coke
 ANS: B
-Q: **Lignite coal** reserves are primarily found in:
+Q: Lignite coal reserves are primarily found in:
 A) Jharkhand and West Bengal
 B) Chhattisgarh and Odisha
-C) **Neyveli (Tamil Nadu)**
+C) Neyveli (Tamil Nadu)
 D) Assam and Nagaland
 ANS: C
 Q: The coal reserves of India are mainly concentrated in the:
 A) Tertiary Age rocks
 B) Quaternary Age rocks
-C) **Gondwana Age rocks (over 97%)**
+C) Gondwana Age rocks (over 97%)
 D) Dharwar Age rocks
 ANS: C
-Q: **Petroleum** occurrence in India is mostly associated with **anticlines and fault traps** in the rock formations of the:
+Q: Petroleum occurrence in India is mostly associated with anticlines and fault traps in the rock formations of the:
 A) Gondwana Age
-B) **Tertiary Age**
+B) Tertiary Age
 C) Vindhyan Age
 D) Cenozoic Age
 ANS: B
-Q: The **oldest oil-producing state** in India is:
+Q: The oldest oil-producing state in India is:
 A) Gujarat
 B) Maharashtra
-C) **Assam (Digboi Refinery)**
+C) Assam (Digboi Refinery)
 D) Andhra Pradesh
 ANS: C
-Q: The primary component of **Natural Gas**, a clean energy source, is:
+Q: The primary component of Natural Gas, a clean energy source, is:
 A) Ethane
 B) Propane
 C) Butane
-D) **Methane (CH4)**
+D) Methane (CH4)
 ANS: D
-Q: The **HVJ (Hazira-Vijaipur-Jagdishpur) Gas Pipeline** was the first cross-country gas pipeline in India, linking the gas fields in **Mumbai High** and **Bassein** to:
+Q: The HVJ (Hazira-Vijaipur-Jagdishpur) Gas Pipeline was the first cross-country gas pipeline in India, linking the gas fields in Mumbai High and Bassein to:
 A) Eastern India
 B) Southern India
-C) **Western and Northern India**
+C) Western and Northern India
 D) Coastal India
 ANS: C
-Q: **Nuclear Energy** is obtained by altering the structure of an atom through the process of:
+Q: Nuclear Energy is obtained by altering the structure of an atom through the process of:
 A) Chemical reaction
 B) Nuclear fusion
-C) **Nuclear fission**
+C) Nuclear fission
 D) Radioactive decay
 ANS: C
-Q: The two main minerals used for generating **Nuclear Power** are:
+Q: The two main minerals used for generating Nuclear Power are:
 A) Coal and Petroleum
 B) Silicon and Lithium
-C) **Uranium and Thorium**
+C) Uranium and Thorium
 D) Iron and Aluminum
 ANS: C
 Q: The first nuclear power station established in India was:
 A) Kalpakkam (Tamil Nadu)
 B) Narora (Uttar Pradesh)
-C) **Tarapur (Maharashtra)**
+C) Tarapur (Maharashtra)
 D) Rawatbhata (Rajasthan)
 ANS: C
-Q: **Thorium** reserves in India are primarily found in the coastal sands of Kerala and Tamil Nadu, known as:
+Q: Thorium reserves in India are primarily found in the coastal sands of Kerala and Tamil Nadu, known as:
 A) Laterite Sand
 B) Iron Sand
-C) **Monazite Sand**
+C) Monazite Sand
 D) Alluvial Sand
 ANS: C
-Q: The largest potential for **Wind Energy** generation in India is located in the cluster between:
+Q: The largest potential for Wind Energy generation in India is located in the cluster between:
 A) Gujarat and Rajasthan
 B) North-Eastern Hills
-C) **Nagarkoil and Madurai (Tamil Nadu)**
+C) Nagarkoil and Madurai (Tamil Nadu)
 D) Coastal Karnataka
 ANS: C
-Q: The **Geothermal Energy** projects in India are primarily focused in the:
+Q: The Geothermal Energy projects in India are primarily focused in the:
 A) Gangetic Plains
 B) Thar Desert
-C) **Puga Valley (Ladakh) and Manikaran (Himachal Pradesh)**
+C) Puga Valley (Ladakh) and Manikaran (Himachal Pradesh)
 D) Coastal regions of Maharashtra
 ANS: C
 Q: The conversion of sunlight directly into electricity is achieved through:
 A) Solar thermal technology
 B) Biogas conversion
-C) **Photovoltaic technology**
+C) Photovoltaic technology
 D) Hydroelectric generation
 ANS: C
-Q: The **highest tidal energy generation potential** in India is found in the:
+Q: The highest tidal energy generation potential in India is found in the:
 A) Andaman and Nicobar Islands
 B) Gulf of Mannar
-C) **Gulf of Khambhat (Cambay) and Gulf of Kutch**
+C) Gulf of Khambhat (Cambay) and Gulf of Kutch
 D) Bay of Bengal Delta
 ANS: C
-Q: The traditional energy source that is classified as **Non-Commercial Conventional** is:
+Q: The traditional energy source that is classified as Non-Commercial Conventional is:
 A) Coal
 B) Petroleum
-C) **Firewood and agricultural waste**
+C) Firewood and agricultural waste
 D) Hydro-electricity
 ANS: C
-Q: The major reserves of **Uranium** in India are concentrated in the:
+Q: The major reserves of Uranium in India are concentrated in the:
 A) Neyveli Lignite fields
-B) **Jaduguda Mines (Jharkhand)**
+B) Jaduguda Mines (Jharkhand)
 C) Kolar Gold Fields
 D) Panna Diamond Mines
 ANS: B
-Q: The **National Aluminium Company Limited (NALCO)** has its headquarters in which city?
+Q: The National Aluminium Company Limited (NALCO) has its headquarters in which city?
 A) Mumbai
 B) New Delhi
-C) **Bhubaneswar**
+C) Bhubaneswar
 D) Kolkata
 ANS: C
-Q: The **Sillimanite and Kyanite** minerals are primarily used in the manufacturing of:
+Q: The Sillimanite and Kyanite minerals are primarily used in the manufacturing of:
 A) Fertilizers
 B) Glass and ceramics
-C) **Refractory materials (heat-resistant)**
+C) Refractory materials (heat-resistant)
 D) Pesticides
 ANS: C
-Q: The **Digboi Oil Refinery** is notable because it is the **oldest operating oil refinery** not just in India, but in all of:
+Q: The Digboi Oil Refinery is notable because it is the oldest operating oil refinery not just in India, but in all of:
 A) South Asia
 B) The Commonwealth
-C) **Asia**
+C) Asia
 D) The World
 ANS: C
-Q: The non-metallic mineral **Asbestos** is known for its resistance to fire and heat, making it useful in:
+Q: The non-metallic mineral Asbestos is known for its resistance to fire and heat, making it useful in:
 A) Electric cables
-B) **Fireproof materials**
+B) Fireproof materials
 C) Jewellery
 D) Concrete
 ANS: B
-Q: The **Vindhyan Rock Series** is famous for its large deposits of:
+Q: The Vindhyan Rock Series is famous for its large deposits of:
 A) Bauxite
 B) Coal
-C) **Limestone and Sandstone**
+C) Limestone and Sandstone
 D) Gold and Diamond
 ANS: C
-Q: The **Panna Diamond Mines** of Madhya Pradesh are a part of which major river basin?
+Q: The Panna Diamond Mines of Madhya Pradesh are a part of which major river basin?
 A) Narmada
 B) Godavari
 C) Tapi
-D) **Ganga (via Ken and Yamuna rivers)**
+D) Ganga (via Ken and Yamuna rivers)
 ANS: D
-Q: The **highest quality** iron ore, **Magnetite**, is known for its excellent:
+Q: The highest quality iron ore, Magnetite, is known for its excellent:
 A) Heat resistance
 B) Density
-C) **Magnetic properties**
+C) Magnetic properties
 D) Chemical stability
 ANS: C
-Q: The Indian government has set up an **ITR (Integrated Test Range)** for missile testing on which island, formerly known as Wheeler Island?
+Q: The Indian government has set up an ITR (Integrated Test Range) for missile testing on which island, formerly known as Wheeler Island?
 A) Sriharikota Island
-B) **Abdul Kalam Island (Odisha)**
+B) Abdul Kalam Island (Odisha)
 C) Pamban Island
 D) Kavaratti Island
 ANS: B
-Q: The concept of **Tailings**, which are the waste materials left over after the separation of the valuable fraction (ore) from the gangue, is a major environmental problem in:
+Q: The concept of Tailings, which are the waste materials left over after the separation of the valuable fraction (ore) from the gangue, is a major environmental problem in:
 A) Agriculture
-B) **Mining**
+B) Mining
 C) Fishery
 D) Forestry
 ANS: B
-Q: The primary purpose of converting **Natural Gas** into **CNG (Compressed Natural Gas)** is to use it as a clean fuel in:
-A) **Transportation**
+Q: The primary purpose of converting Natural Gas into CNG (Compressed Natural Gas) is to use it as a clean fuel in:
+A) Transportation
 B) Power generation
 C) Fertilizers
 D) Industrial heating
@@ -6326,775 +6326,775 @@ Q: The geological term for a large mass of intrusive igneous rock that has coole
 A) Dyke
 B) Sill
 C) Laccolith
-D) **Batholith**
+D) Batholith
 ANS: D
-Q: The **Black Gold** is a term used for:
+Q: The Black Gold is a term used for:
 A) Coal
-B) **Petroleum (Crude Oil)**
+B) Petroleum (Crude Oil)
 C) Iron Ore
 D) Gold
 ANS: B
-Q: The **Bokaro and Jharia** coalfields are located in which river valley?
+Q: The Bokaro and Jharia coalfields are located in which river valley?
 A) Mahanadi River Valley
 B) Godavari River Valley
 C) Son River Valley
-D) **DVC (Darmodar Valley Corporation) Region**
+D) DVC (Darmodar Valley Corporation) Region
 ANS: D
 
 [SUBJECT: Geography]
 [CHAPTER: World Map]
-Q: Which of the following is the **largest continent** in the world by both **area and population**?
+Q: Which of the following is the largest continent in the world by both area and population?
 A) Africa
 B) North America
 C) Europe
-D) **Asia**
+D) Asia
 ANS: D
-Q: Which **Transcontinental Country** acts as a border between Asia and Europe, primarily separated by the **Ural Mountains**?
+Q: Which Transcontinental Country acts as a border between Asia and Europe, primarily separated by the Ural Mountains?
 A) Kazakhstan
-B) **Russia**
+B) Russia
 C) Turkey (Turkiye)
 D) Egypt
 ANS: B
-Q: The **Strait of Malacca** separates:
+Q: The Strait of Malacca separates:
 A) India from Sri Lanka
-B) **Malaysia from the island of Sumatra (Indonesia)**
+B) Malaysia from the island of Sumatra (Indonesia)
 C) Europe from Africa
 D) North America from Asia
 ANS: B
-Q: The **Sunda Strait** separates which two Indonesian islands, both of which are part of Indonesia?
+Q: The Sunda Strait separates which two Indonesian islands, both of which are part of Indonesia?
 A) Borneo and Java
-B) **Sumatra and Java**
+B) Sumatra and Java
 C) Sumatra and Borneo
 D) Java and Celebes
 ANS: B
-Q: The **Bering Strait** separates which two continents?
+Q: The Bering Strait separates which two continents?
 A) Europe and North America
 B) South America and Africa
-C) **Asia and North America**
+C) Asia and North America
 D) Africa and Asia
 ANS: C
-Q: The **Bering Strait** connects which two major bodies of water?
+Q: The Bering Strait connects which two major bodies of water?
 A) Atlantic Ocean and Pacific Ocean
-B) **Pacific Ocean and Arctic Ocean**
+B) Pacific Ocean and Arctic Ocean
 C) Indian Ocean and Red Sea
 D) Black Sea and Mediterranean Sea
 ANS: B
-Q: The **Strait of Gibraltar** serves as a boundary between which two continents?
+Q: The Strait of Gibraltar serves as a boundary between which two continents?
 A) Asia and Europe
-B) **Europe and Africa**
+B) Europe and Africa
 C) North America and South America
 D) Australia and Asia
 ANS: B
-Q: The **Bab el Mandeb Strait** connects the **Red Sea** to the:
+Q: The Bab el Mandeb Strait connects the Red Sea to the:
 A) Persian Gulf
 B) Arabian Sea
-C) **Gulf of Aden**
+C) Gulf of Aden
 D) Gulf of Oman
 ANS: C
-Q: The **Strait of Hormuz** is a vital choke point connecting the **Persian Gulf** to the:
+Q: The Strait of Hormuz is a vital choke point connecting the Persian Gulf to the:
 A) Red Sea
 B) Arabian Sea
-C) **Gulf of Oman**
+C) Gulf of Oman
 D) Gulf of Aden
 ANS: C
-Q: Which country is known as a **'Doubly Landlocked Country'** (a country surrounded by landlocked countries)?
+Q: Which country is known as a 'Doubly Landlocked Country' (a country surrounded by landlocked countries)?
 A) Afghanistan
 B) Mongolia
-C) **Uzbekistan**
+C) Uzbekistan
 D) Kazakhstan
 ANS: C
-Q: Which country is the **largest landlocked country** in the world by area?
+Q: Which country is the largest landlocked country in the world by area?
 A) Mongolia
 B) Chad
-C) **Kazakhstan**
+C) Kazakhstan
 D) Uzbekistan
 ANS: C
-Q: The **deadliest and lowest point on Earth**, the **Dead Sea**, is known for its extremely high concentration of:
+Q: The deadliest and lowest point on Earth, the Dead Sea, is known for its extremely high concentration of:
 A) Sulphur
 B) Magnesium
 C) Calcium
-D) **Salt**
+D) Salt
 ANS: D
-Q: The **Dead Sea** is bordered by which two countries?
+Q: The Dead Sea is bordered by which two countries?
 A) Israel and Syria
 B) Lebanon and Jordan
-C) **Israel and Jordan**
+C) Israel and Jordan
 D) Egypt and Israel
 ANS: C
-Q: The **Suez Canal**, a major man-made waterway, links which two bodies of water?
-A) **Mediterranean Sea and Red Sea**
+Q: The Suez Canal, a major man-made waterway, links which two bodies of water?
+A) Mediterranean Sea and Red Sea
 B) Black Sea and Mediterranean Sea
 C) Red Sea and Arabian Sea
 D) Gulf of Suez and Gulf of Aqaba
 ANS: A
-Q: The **longest river in the world** by length is the:
+Q: The longest river in the world by length is the:
 A) Amazon River
 B) Yangtze River
-C) **Nile River**
+C) Nile River
 D) Mississippi River
 ANS: C
-Q: The **Nile River** is formed by the confluence of the **White Nile** and the **Blue Nile**. The White Nile originates from:
+Q: The Nile River is formed by the confluence of the White Nile and the Blue Nile. The White Nile originates from:
 A) Lake Tana
 B) Lake Victoria Nyanza
-C) **Lake Victoria**
+C) Lake Victoria
 D) Lake Albert
 ANS: C
-Q: The **country with the largest river basin** in the world is:
+Q: The country with the largest river basin in the world is:
 A) Egypt (Nile)
-B) **Brazil (Amazon)**
+B) Brazil (Amazon)
 C) China (Yangtze)
 D) USA (Mississippi)
 ANS: B
-Q: The **highest navigable lake** in the world, situated between Peru and Bolivia, is:
+Q: The highest navigable lake in the world, situated between Peru and Bolivia, is:
 A) Lake Superior
 B) Lake Baikal
 C) Lake Victoria
-D) **Lake Titicaca**
+D) Lake Titicaca
 ANS: D
-Q: Which is the **coldest desert** in the world and the **largest desert overall**?
+Q: Which is the coldest desert in the world and the largest desert overall?
 A) Sahara Desert
 B) Gobi Desert
 C) Atacama Desert
-D) **Antarctica**
+D) Antarctica
 ANS: D
-Q: The **Atacama Desert**, known as the **world's driest desert**, is located in which continent?
+Q: The Atacama Desert, known as the world's driest desert, is located in which continent?
 A) Africa
 B) Asia
-C) **South America**
+C) South America
 D) Australia
 ANS: C
-Q: The **Sahara Desert** is the **largest hot desert** in the world and is primarily bordered to the east by the:
+Q: The Sahara Desert is the largest hot desert in the world and is primarily bordered to the east by the:
 A) Red Sea
 B) Nile River
-C) **Horn of Africa**
+C) Horn of Africa
 D) Mediterranean Sea
 ANS: A
-Q: The **Great Barrier Reef**, the world's largest coral reef system, is located off the coast of:
+Q: The Great Barrier Reef, the world's largest coral reef system, is located off the coast of:
 A) Indonesia
 B) New Zealand
-C) **Australia**
+C) Australia
 D) Papua New Guinea
 ANS: C
-Q: The highest peak in **North America**, **Mount Denali (formerly Mt. McKinley)**, is located in which mountain range?
+Q: The highest peak in North America, Mount Denali (formerly Mt. McKinley), is located in which mountain range?
 A) Appalachian Mountains
 B) Cascade Range
-C) **Alaska Range**
+C) Alaska Range
 D) Rocky Mountains
 ANS: C
-Q: The **highest peak in South America**, **Mount Aconcagua**, is located in the mountain range:
+Q: The highest peak in South America, Mount Aconcagua, is located in the mountain range:
 A) Brazilian Highlands
 B) Andes Mountains
 C) Cordillera Central
-D) **Andes Mountains**
+D) Andes Mountains
 ANS: D
-Q: The **highest peak** in Africa is **Mount Kilimanjaro**, a volcanic mountain located in:
+Q: The highest peak in Africa is Mount Kilimanjaro, a volcanic mountain located in:
 A) Kenya
 B) Uganda
-C) **Tanzania**
+C) Tanzania
 D) Ethiopia
 ANS: C
-Q: The **Great Lakes** (Huron, Ontario, Michigan, Erie, Superior) are shared between the USA and which other country?
+Q: The Great Lakes (Huron, Ontario, Michigan, Erie, Superior) are shared between the USA and which other country?
 A) Mexico
-B) **Canada**
+B) Canada
 C) Russia
 D) Cuba
 ANS: B
-Q: The longest **International Border** in the world is shared between the USA and:
+Q: The longest International Border in the world is shared between the USA and:
 A) Mexico
 B) Russia
-C) **Canada**
+C) Canada
 D) China
 ANS: C
-Q: The **49th Parallel North** is a famous boundary line separating:
+Q: The 49th Parallel North is a famous boundary line separating:
 A) North Korea and South Korea
 B) USA and Mexico
 C) India and China (disputed)
-D) **USA and Canada**
+D) USA and Canada
 ANS: D
-Q: The imaginary line that passes through the **Great Lakes** and is often used as a physical reference line is the:
+Q: The imaginary line that passes through the Great Lakes and is often used as a physical reference line is the:
 A) Arctic Circle
 B) Tropic of Cancer
-C) **49th Parallel**
+C) 49th Parallel
 D) Equator
 ANS: C
-Q: Which of the following is the **deepest lake** in the world?
+Q: Which of the following is the deepest lake in the world?
 A) Lake Superior
 B) Lake Victoria
-C) **Lake Baikal**
+C) Lake Baikal
 D) Caspian Sea
 ANS: C
-Q: The **Pampas grasslands** are primarily located in:
+Q: The Pampas grasslands are primarily located in:
 A) Brazil and Uruguay
-B) **Argentina and Uruguay**
+B) Argentina and Uruguay
 C) Peru and Chile
 D) Colombia and Venezuela
 ANS: B
-Q: The **Llanos grasslands** are found in:
+Q: The Llanos grasslands are found in:
 A) Brazil
 B) Argentina
-C) **Venezuela and Colombia**
+C) Venezuela and Colombia
 D) Paraguay and Bolivia
 ANS: C
-Q: The **largest population** among all the continents resides in:
+Q: The largest population among all the continents resides in:
 A) Europe
 B) North America
 C) Africa
-D) **Asia**
+D) Asia
 ANS: D
-Q: Which continent is sometimes referred to as the **'Continent of Continents'** due to having the largest number of countries?
+Q: Which continent is sometimes referred to as the 'Continent of Continents' due to having the largest number of countries?
 A) Asia
 B) Europe
-C) **Africa**
+C) Africa
 D) South America
 ANS: C
-Q: The **Andes Mountains** are classified as:
+Q: The Andes Mountains are classified as:
 A) Block Mountains
 B) Volcanic Mountains
-C) **Young Fold Mountains**
+C) Young Fold Mountains
 D) Residual Mountains
 ANS: C
-Q: The **Appalachian Mountains** are classified as:
+Q: The Appalachian Mountains are classified as:
 A) Volcanic Mountains
 B) Block Mountains
-C) **Old Fold Mountains**
+C) Old Fold Mountains
 D) Young Fold Mountains
 ANS: C
-Q: The **limpopo river** is notable for crossing the **Tropic of Capricorn** how many times?
+Q: The limpopo river is notable for crossing the Tropic of Capricorn how many times?
 A) Once
-B) **Twice**
+B) Twice
 C) Three times
 D) Four times
 ANS: B
-Q: The **Congo River** (or Zaire River) is notable for crossing the **Equator** how many times?
+Q: The Congo River (or Zaire River) is notable for crossing the Equator how many times?
 A) Once
-B) **Twice**
+B) Twice
 C) Three times
 D) Four times
 ANS: B
-Q: Which river in India crosses the **Tropic of Cancer** twice?
+Q: Which river in India crosses the Tropic of Cancer twice?
 A) Narmada
 B) Godavari
-C) **Mahi**
+C) Mahi
 D) Krishna
 ANS: C
-Q: Which continent is the **only one** through which the **Equator, Tropic of Cancer, and Tropic of Capricorn** all pass?
+Q: Which continent is the only one through which the Equator, Tropic of Cancer, and Tropic of Capricorn all pass?
 A) North America
 B) South America
 C) Asia
-D) **Africa**
+D) Africa
 ANS: D
-Q: The **highest peak** in Europe is **Mount Elbrus**, which is part of the:
+Q: The highest peak in Europe is Mount Elbrus, which is part of the:
 A) Alps
 B) Pyrenees
-C) **Caucasus Mountains**
+C) Caucasus Mountains
 D) Carpathians
 ANS: C
-Q: The **highest peak** in Australia (Oceania) is **Mount Kosciuszko**, located in the:
+Q: The highest peak in Australia (Oceania) is Mount Kosciuszko, located in the:
 A) Great Dividing Range
 B) Australian Alps
-C) **Australian Alps**
+C) Australian Alps
 D) Hamersley Ranges
 ANS: C
-Q: The **Trans-Siberian Railway**, the longest railway line in the world, runs from Moscow to:
+Q: The Trans-Siberian Railway, the longest railway line in the world, runs from Moscow to:
 A) St. Petersburg
-B) **Vladivostok**
+B) Vladivostok
 C) Novosibirsk
 D) Beijing
 ANS: B
-Q: The **Kyoto Protocol** and the **Copenhagen Accord** are climate agreements related to which environmental issue?
+Q: The Kyoto Protocol and the Copenhagen Accord are climate agreements related to which environmental issue?
 A) Ozone Layer Depletion
 B) Acid Rain
-C) **Global Warming/Climate Change**
+C) Global Warming/Climate Change
 D) Biodiversity Loss
 ANS: C
-Q: The **Danube River**, a major European river, drains into which sea?
+Q: The Danube River, a major European river, drains into which sea?
 A) Mediterranean Sea
 B) Aegean Sea
-C) **Black Sea**
+C) Black Sea
 D) Baltic Sea
 ANS: C
-Q: The **Amazon Rainforests**, often called the **'Lungs of the World'**, are mainly located in:
+Q: The Amazon Rainforests, often called the 'Lungs of the World', are mainly located in:
 A) Central America
-B) **South America (Brazil)**
+B) South America (Brazil)
 C) Central Africa
 D) Southeast Asia
 ANS: B
-Q: The **Pampas grasslands** are an example of:
+Q: The Pampas grasslands are an example of:
 A) Tropical Grasslands
-B) **Temperate Grasslands**
+B) Temperate Grasslands
 C) Alpine Meadows
 D) Savanna Biome
 ANS: B
-Q: The **Patagonian Desert**, located in the rain shadow of the Andes Mountains, is primarily found in:
+Q: The Patagonian Desert, located in the rain shadow of the Andes Mountains, is primarily found in:
 A) Chile
-B) **Argentina**
+B) Argentina
 C) Brazil
 D) Peru
 ANS: B
-Q: The **highest volcano** in the world, **Ojos del Salado**, is located on the border of:
+Q: The highest volcano in the world, Ojos del Salado, is located on the border of:
 A) Peru and Ecuador
 B) Chile and Peru
-C) **Chile and Argentina**
+C) Chile and Argentina
 D) Colombia and Venezuela
 ANS: C
-Q: The region known as the **'Roof of the World'** is the:
+Q: The region known as the 'Roof of the World' is the:
 A) Himalayan Range
 B) Pamir Knot
-C) **Tibetan Plateau**
+C) Tibetan Plateau
 D) Karakoram Range
 ANS: C
-Q: The **most populous country** in the world is:
+Q: The most populous country in the world is:
 A) China
 B) USA
 C) Indonesia
-D) **India**
+D) India
 ANS: D
-Q: The **Mediterranean Climate** is ideal for the cultivation of:
+Q: The Mediterranean Climate is ideal for the cultivation of:
 A) Wheat
 B) Rice
-C) **Citrus fruits**
+C) Citrus fruits
 D) Coffee
 ANS: C
-Q: The **Canary Current**, a **cold ocean current**, flows along the coast of:
+Q: The Canary Current, a cold ocean current, flows along the coast of:
 A) South America
 B) Australia
-C) **North Africa and Europe**
+C) North Africa and Europe
 D) North America
 ANS: C
-Q: The **shortest international border** shared by India is with:
+Q: The shortest international border shared by India is with:
 A) Nepal
 B) Bhutan
-C) **Afghanistan (PoK)**
+C) Afghanistan (PoK)
 D) Myanmar
 ANS: C
-Q: Which line separates **North Korea and South Korea**?
+Q: Which line separates North Korea and South Korea?
 A) 17th Parallel
-B) **38th Parallel**
+B) 38th Parallel
 C) 49th Parallel
 D) Mason-Dixon Line
 ANS: B
-Q: The **Dardanelles Strait** and **Bosphorus Strait** are vital waterways located entirely within:
+Q: The Dardanelles Strait and Bosphorus Strait are vital waterways located entirely within:
 A) Greece
 B) Russia
-C) **Turkey (Turkiye)**
+C) Turkey (Turkiye)
 D) Romania
 ANS: C
-Q: The **highest lake** in the world, **Lake Cholaumoo**, is located in which Indian state?
+Q: The highest lake in the world, Lake Cholaumoo, is located in which Indian state?
 A) Uttarakhand
 B) Jammu & Kashmir
-C) **Sikkim**
+C) Sikkim
 D) Himachal Pradesh
 ANS: C
-Q: The **longest railway line** in Europe is the:
+Q: The longest railway line in Europe is the:
 A) Trans-European Express
 B) Orient Express
-C) **Trans-Siberian Railway**
+C) Trans-Siberian Railway
 D) Eurostar
 ANS: C
-Q: Which major global city is situated on the **Prime Meridian** (0° longitude)?
+Q: Which major global city is situated on the Prime Meridian (0° longitude)?
 A) Paris
 B) Madrid
-C) **London (Greenwich)**
+C) London (Greenwich)
 D) Rome
 ANS: C
-Q: The **highest waterfall** in the world is:
+Q: The highest waterfall in the world is:
 A) Niagara Falls (USA/Canada)
 B) Victoria Falls (Zambia/Zimbabwe)
 C) Jog Falls (India)
-D) **Angel Falls (Venezuela)**
+D) Angel Falls (Venezuela)
 ANS: D
-Q: The **highest concentration of Muslims** in the world is found in which country?
+Q: The highest concentration of Muslims in the world is found in which country?
 A) Pakistan
 B) India
 C) Indonesia
-D) **Indonesia**
+D) Indonesia
 ANS: D
-Q: The **longest continuous fence** in the world, originally built to keep dingoes out, is located in:
+Q: The longest continuous fence in the world, originally built to keep dingoes out, is located in:
 A) Russia
 B) China
-C) **Australia**
+C) Australia
 D) USA
 ANS: C
-Q: The **widest continental shelf** in the world is located near:
+Q: The widest continental shelf in the world is located near:
 A) North America
 B) South America
 C) Africa
-D) **Siberia (Russia)**
+D) Siberia (Russia)
 ANS: D
 
 [SUBJECT: Geography]
 [CHAPTER: National Parks and Biosphere Reserves]
-Q: Which type of conservation involves protecting wildlife **within their natural habitat**?
+Q: Which type of conservation involves protecting wildlife within their natural habitat?
 A) Ex-situ Conservation
-B) **In-situ Conservation**
+B) In-situ Conservation
 C) Botanical Gardens
 D) Gene Banks
 ANS: B
-Q: Which of the following is considered an **'Ex-situ'** conservation site?
+Q: Which of the following is considered an 'Ex-situ' conservation site?
 A) National Parks
 B) Wildlife Sanctuaries
 C) Biosphere Reserves
-D) **Zoos (Zoological Gardens)**
+D) Zoos (Zoological Gardens)
 ANS: D
-Q: The legal term **'Wildlife'** in the context of conservation typically refers to:
+Q: The legal term 'Wildlife' in the context of conservation typically refers to:
 A) Only animals
-B) **Both flora (plants) and fauna (animals)**
+B) Both flora (plants) and fauna (animals)
 C) Only endangered animals
 D) Plants used for medicine
 ANS: B
-Q: **National Parks** differ from **Wildlife Sanctuaries** primarily because National Parks prioritize the conservation of:
+Q: National Parks differ from Wildlife Sanctuaries primarily because National Parks prioritize the conservation of:
 A) Only animals
-B) **Both flora and fauna**
+B) Both flora and fauna
 C) Only birds
 D) Only endemic species
 ANS: B
-Q: Which zone of a Biosphere Reserve allows for **human activities and settlements** such as farming and forestry?
-A) **Transition Zone**
+Q: Which zone of a Biosphere Reserve allows for human activities and settlements such as farming and forestry?
+A) Transition Zone
 B) Core Zone
 C) Buffer Zone
 D) Ecological Zone
 ANS: A
-Q: Which zone of a Biosphere Reserve is designated for **strict protection**, where no human activity is allowed?
+Q: Which zone of a Biosphere Reserve is designated for strict protection, where no human activity is allowed?
 A) Transition Zone
-B) **Core Zone**
+B) Core Zone
 C) Buffer Zone
 D) Research Zone
 ANS: B
-Q: The **Wildlife Protection Act (WPA)** was enacted in India in the year:
+Q: The Wildlife Protection Act (WPA) was enacted in India in the year:
 A) 1952
 B) 1962
-C) **1972**
+C) 1972
 D) 1986
 ANS: C
-Q: The **highest level of protection** under the Wildlife Protection Act (WPA) is granted to species listed in:
+Q: The highest level of protection under the Wildlife Protection Act (WPA) is granted to species listed in:
 A) Schedule II
 B) Schedule IV
 C) Schedule V
-D) **Schedule I**
+D) Schedule I
 ANS: D
-Q: The **Project Tiger** conservation program was launched in India in the year:
+Q: The Project Tiger conservation program was launched in India in the year:
 A) 1965
-B) **1973**
+B) 1973
 C) 1982
 D) 1992
 ANS: B
-Q: The **Project Elephant** conservation program was launched in India in the year:
+Q: The Project Elephant conservation program was launched in India in the year:
 A) 1982
-B) **1992**
+B) 1992
 C) 2002
 D) 2010
 ANS: B
-Q: Which is the **largest National Park** in India by area?
+Q: Which is the largest National Park in India by area?
 A) Jim Corbett National Park
 B) Sunderbans National Park
-C) **Hemis National Park**
+C) Hemis National Park
 D) Ranthambore National Park
 ANS: C
-Q: **Hemis National Park** is famous for the conservation of which endangered species?
+Q: Hemis National Park is famous for the conservation of which endangered species?
 A) Asiatic Lion
 B) Royal Bengal Tiger
-C) **Snow Leopard (Him-Tandua)**
+C) Snow Leopard (Him-Tandua)
 D) One-horned Rhinoceros
 ANS: C
-Q: The **Dachigam National Park** in Jammu & Kashmir is the primary habitat for the critically endangered:
+Q: The Dachigam National Park in Jammu & Kashmir is the primary habitat for the critically endangered:
 A) Wild Ass
 B) Black Buck
-C) **Kashmiri Stag (Hangul)**
+C) Kashmiri Stag (Hangul)
 D) Himalayan Bear
 ANS: C
-Q: Which National Park in India was the **first** to be established in **1936**?
+Q: Which National Park in India was the first to be established in 1936?
 A) Bandipur National Park
 B) Kanha National Park
-C) **Jim Corbett National Park (formerly Hailey National Park)**
+C) Jim Corbett National Park (formerly Hailey National Park)
 D) Kaziranga National Park
 ANS: C
-Q: Which National Park in India is the site where **Project Tiger** was first launched?
+Q: Which National Park in India is the site where Project Tiger was first launched?
 A) Ranthambore National Park
 B) Sunderbans National Park
-C) **Jim Corbett National Park**
+C) Jim Corbett National Park
 D) Palamau National Park
 ANS: C
-Q: The **Valley of Flowers National Park**, famous for its endemic alpine flowers, is located in:
+Q: The Valley of Flowers National Park, famous for its endemic alpine flowers, is located in:
 A) Himachal Pradesh
 B) Jammu & Kashmir
-C) **Uttarakhand**
+C) Uttarakhand
 D) Sikkim
 ANS: C
-Q: The **highest peak** in Uttarakhand, **Nanda Devi**, is located within the boundaries of which National Park?
+Q: The highest peak in Uttarakhand, Nanda Devi, is located within the boundaries of which National Park?
 A) Jim Corbett National Park
 B) Govind National Park
-C) **Nanda Devi National Park (and Biosphere Reserve)**
+C) Nanda Devi National Park (and Biosphere Reserve)
 D) Gangotri National Park
 ANS: C
-Q: The **Great Himalayan National Park (GHNP)** is located in:
+Q: The Great Himalayan National Park (GHNP) is located in:
 A) Uttarakhand
-B) **Himachal Pradesh**
+B) Himachal Pradesh
 C) Sikkim
 D) Arunachal Pradesh
 ANS: B
-Q: **Kaziranga National Park** in Assam is world-famous as the primary habitat for the:
+Q: Kaziranga National Park in Assam is world-famous as the primary habitat for the:
 A) Bengal Tiger
 B) Asiatic Elephant
-C) **One-horned Rhinoceros**
+C) One-horned Rhinoceros
 D) Clouded Leopard
 ANS: C
 Q: Which two National Parks in Assam were recently designated as new National Parks in 2021, bringing the state's total to seven?
 A) Dibru-Saikhowa and Manas
 B) Kaziranga and Nameri
-C) **Raimona and Dehing Patkai**
+C) Raimona and Dehing Patkai
 D) Orang and Manas
 ANS: C
-Q: The **only floating National Park** in the world, **Keibul Lamjao National Park**, is located in which state?
+Q: The only floating National Park in the world, Keibul Lamjao National Park, is located in which state?
 A) Assam
 B) Meghalaya
-C) **Manipur**
+C) Manipur
 D) Tripura
 ANS: C
 Q: The unique floating masses of vegetation on Loktak Lake, which form the base of Keibul Lamjao National Park, are known as:
 A) Tamdil
 B) Dips
 C) Phawngpui
-D) **Phumdis**
+D) Phumdis
 ANS: D
-Q: The **Sirohi National Park** is located in:
+Q: The Sirohi National Park is located in:
 A) Nagaland
-B) **Manipur**
+B) Manipur
 C) Mizoram
 D) Arunachal Pradesh
 ANS: B
-Q: The **Khangchendzonga National Park** in Sikkim holds a unique status as India's only **UNESCO World Heritage Site** that is classified as:
+Q: The Khangchendzonga National Park in Sikkim holds a unique status as India's only UNESCO World Heritage Site that is classified as:
 A) Cultural Site
 B) Natural Site
-C) **Mixed Site (Cultural and Natural)**
+C) Mixed Site (Cultural and Natural)
 D) Heritage Site in Danger
 ANS: C
-Q: **Sunderbans National Park**, famous for its mangrove forest and Royal Bengal Tigers, is located in:
+Q: Sunderbans National Park, famous for its mangrove forest and Royal Bengal Tigers, is located in:
 A) Odisha
 B) Andhra Pradesh
-C) **West Bengal**
+C) West Bengal
 D) Tripura
 ANS: C
-Q: The **Simlipal National Park** and Tiger Reserve is located in:
+Q: The Simlipal National Park and Tiger Reserve is located in:
 A) Chhattisgarh
 B) Jharkhand
-C) **Odisha**
+C) Odisha
 D) West Bengal
 ANS: C
-Q: The **Betla National Park** and Palamau Tiger Reserve is located in:
+Q: The Betla National Park and Palamau Tiger Reserve is located in:
 A) West Bengal
-B) **Jharkhand**
+B) Jharkhand
 C) Odisha
 D) Bihar
 ANS: B
-Q: The **Indravati National Park** is located in:
+Q: The Indravati National Park is located in:
 A) Uttar Pradesh
 B) Madhya Pradesh
-C) **Chhattisgarh**
+C) Chhattisgarh
 D) Telangana
 ANS: C
-Q: Which state in India has the **highest number of National Parks**?
+Q: Which state in India has the highest number of National Parks?
 A) Arunachal Pradesh
 B) Maharashtra
-C) **Madhya Pradesh**
+C) Madhya Pradesh
 D) Rajasthan
 ANS: C
-Q: **Bandhavgarh National Park**, known for the highest density of the tiger population, is located in:
+Q: Bandhavgarh National Park, known for the highest density of the tiger population, is located in:
 A) Rajasthan
-B) **Madhya Pradesh**
+B) Madhya Pradesh
 C) Maharashtra
 D) Gujarat
 ANS: B
-Q: The **Satpura National Park** and Biosphere Reserve is located in:
+Q: The Satpura National Park and Biosphere Reserve is located in:
 A) Gujarat
-B) **Madhya Pradesh**
+B) Madhya Pradesh
 C) Chhattisgarh
 D) Rajasthan
 ANS: B
-Q: The **Tadoba Andhari National Park**, the oldest National Park of its state, is located in:
+Q: The Tadoba Andhari National Park, the oldest National Park of its state, is located in:
 A) Gujarat
-B) **Maharashtra**
+B) Maharashtra
 C) Goa
 D) Karnataka
 ANS: B
-Q: The **Gir National Park**, the last remaining habitat for the **Asiatic Lion**, is located in:
+Q: The Gir National Park, the last remaining habitat for the Asiatic Lion, is located in:
 A) Rajasthan
-B) **Gujarat**
+B) Gujarat
 C) Madhya Pradesh
 D) Uttar Pradesh
 ANS: B
-Q: The **Satkosia Gorge Wildlife Sanctuary** is located in:
+Q: The Satkosia Gorge Wildlife Sanctuary is located in:
 A) Gujarat
-B) **Odisha**
+B) Odisha
 C) West Bengal
 D) Tamil Nadu
 ANS: B
-Q: The **Silent Valley National Park** is located in:
+Q: The Silent Valley National Park is located in:
 A) Tamil Nadu
-B) **Kerala**
+B) Kerala
 C) Karnataka
 D) Andhra Pradesh
 ANS: B
-Q: The **Periyar National Park**, famous for elephants and tigers, is located in:
+Q: The Periyar National Park, famous for elephants and tigers, is located in:
 A) Tamil Nadu
-B) **Kerala**
+B) Kerala
 C) Karnataka
 D) Telangana
 ANS: B
-Q: The **Bandipur National Park** and Tiger Reserve is located in:
+Q: The Bandipur National Park and Tiger Reserve is located in:
 A) Kerala
 B) Tamil Nadu
 C) Andhra Pradesh
-D) **Karnataka**
+D) Karnataka
 ANS: D
-Q: The **first Biosphere Reserve** established in India (in 1986) was:
+Q: The first Biosphere Reserve established in India (in 1986) was:
 A) Great Rann of Kutch
 B) Gulf of Mannar
-C) **Nilgiri Biosphere Reserve**
+C) Nilgiri Biosphere Reserve
 D) Sunderbans
 ANS: C
-Q: The **Nilgiri Biosphere Reserve** spans across which three states?
+Q: The Nilgiri Biosphere Reserve spans across which three states?
 A) Andhra Pradesh, Telangana, Karnataka
-B) **Tamil Nadu, Kerala, Karnataka**
+B) Tamil Nadu, Kerala, Karnataka
 C) Kerala, Tamil Nadu, Andhra Pradesh
 D) Karnataka, Andhra Pradesh, Goa
 ANS: B
-Q: The **Gahirmatha Marine Wildlife Sanctuary** is a globally significant nesting site for the Olive Ridley sea turtles and is located in:
+Q: The Gahirmatha Marine Wildlife Sanctuary is a globally significant nesting site for the Olive Ridley sea turtles and is located in:
 A) West Bengal
 B) Andhra Pradesh
-C) **Odisha**
+C) Odisha
 D) Tamil Nadu
 ANS: C
-Q: The **highest mountain peak** of the entire Andaman and Nicobar Islands is:
+Q: The highest mountain peak of the entire Andaman and Nicobar Islands is:
 A) Mount Thuilier
 B) Mount Diavolo
 C) Mount Koyob
-D) **Saddle Peak**
+D) Saddle Peak
 ANS: D
-Q: **Saddle Peak National Park** is located on which island of the Andaman and Nicobar Islands?
+Q: Saddle Peak National Park is located on which island of the Andaman and Nicobar Islands?
 A) Little Andaman
 B) Middle Andaman
 C) South Andaman
-D) **North Andaman**
+D) North Andaman
 ANS: D
-Q: The **Barren Island**, the **only confirmed active volcano** in India, is located in the:
+Q: The Barren Island, the only confirmed active volcano in India, is located in the:
 A) Arabian Sea
 B) Lakshadweep Islands
-C) **Andaman Islands**
+C) Andaman Islands
 D) Nicobar Islands
 ANS: C
-Q: The **Narcondam Island** in the Andaman Islands contains India's only known:
+Q: The Narcondam Island in the Andaman Islands contains India's only known:
 A) Active volcano
-B) **Dormant volcano**
+B) Dormant volcano
 C) Extinct volcano
 D) Mud volcano
 ANS: B
-Q: The **cellular jail (Kala Pani)**, a historical monument from the freedom struggle, is located in:
+Q: The cellular jail (Kala Pani), a historical monument from the freedom struggle, is located in:
 A) North Andaman
 B) Little Andaman
-C) **South Andaman (Port Blair)**
+C) South Andaman (Port Blair)
 D) Great Nicobar
 ANS: C
-Q: The **Galathea Bay National Park** and **Campbell Bay National Park** are located on:
+Q: The Galathea Bay National Park and Campbell Bay National Park are located on:
 A) Little Andaman Island
 B) Little Nicobar Island
-C) **Great Nicobar Island**
+C) Great Nicobar Island
 D) North Andaman Island
 ANS: C
-Q: The **Dugong (Sea Cow)**, a vulnerable marine mammal, is the **State Animal** of which Indian Union Territory?
+Q: The Dugong (Sea Cow), a vulnerable marine mammal, is the State Animal of which Indian Union Territory?
 A) Lakshadweep
 B) Daman & Diu
 C) Puducherry
-D) **Andaman and Nicobar Islands**
+D) Andaman and Nicobar Islands
 ANS: D
-Q: The endangered **Sangai Deer (Dancing Deer)** is primarily found in which National Park?
+Q: The endangered Sangai Deer (Dancing Deer) is primarily found in which National Park?
 A) Manas National Park
 B) Keoladeo Ghana National Park
-C) **Keibul Lamjao National Park**
+C) Keibul Lamjao National Park
 D) Silent Valley National Park
 ANS: C
-Q: Which National Park has been renamed **Ramganga National Park** in 2021?
+Q: Which National Park has been renamed Ramganga National Park in 2021?
 A) Great Himalayan National Park
 B) Rajaji National Park
-C) **Jim Corbett National Park**
+C) Jim Corbett National Park
 D) Valley of Flowers National Park
 ANS: C
-Q: The **Pangong Tso** and **Tso Moriri** lakes, known for their high salinity, are located in:
+Q: The Pangong Tso and Tso Moriri lakes, known for their high salinity, are located in:
 A) Himachal Pradesh
-B) **Ladakh**
+B) Ladakh
 C) Uttarakhand
 D) Sikkim
 ANS: B
-Q: Which pass connects the **Kashmir Valley** to the **outer plains/foothills** and contains the **Jawahar Tunnel**?
+Q: Which pass connects the Kashmir Valley to the outer plains/foothills and contains the Jawahar Tunnel?
 A) Pir Panjal Pass
 B) Zoji La Pass
-C) **Banihal Pass**
+C) Banihal Pass
 D) Baralacha La Pass
 ANS: C
-Q: The **Malabar Coast** is famous for its backwaters known locally as:
+Q: The Malabar Coast is famous for its backwaters known locally as:
 A) Estuaries
 B) Lagoons
 C) Deltas
-D) **Kayals**
+D) Kayals
 ANS: D
-Q: Which Biosphere Reserve is known to have been a major focus of conservation efforts for its **melanistic (black)** tigers?
+Q: Which Biosphere Reserve is known to have been a major focus of conservation efforts for its melanistic (black) tigers?
 A) Manas Biosphere Reserve
-B) **Similipal Biosphere Reserve**
+B) Similipal Biosphere Reserve
 C) Sundarbans Biosphere Reserve
 D) Nanda Devi Biosphere Reserve
 ANS: B
-Q: The **Project Snow Leopard** conservation program was launched in which year?
+Q: The Project Snow Leopard conservation program was launched in which year?
 A) 1988
 B) 2005
-C) **2009**
+C) 2009
 D) 2014
 ANS: C
-Q: The **Rani Jhansi Marine National Park** is located near:
+Q: The Rani Jhansi Marine National Park is located near:
 A) Gulf of Kutch
 B) Gahirmatha Coast
-C) **Andaman Islands**
+C) Andaman Islands
 D) Lakshadweep Islands
 ANS: C
-Q: Which two species are classified as **'vermin'** under the WPA Schedule V, meaning they can be legally hunted as pests?
+Q: Which two species are classified as 'vermin' under the WPA Schedule V, meaning they can be legally hunted as pests?
 A) Tiger and Leopard
 B) Deer and Sambhar
-C) **Common Crow and Fruit Bat**
+C) Common Crow and Fruit Bat
 D) Wild Boar and Monkey
 ANS: C
-Q: The **oldest National Park** of **Maharashtra** is the:
+Q: The oldest National Park of Maharashtra is the:
 A) Pench National Park
 B) Sanjay Gandhi National Park
 C) Navegaon National Park
-D) **Tadoba Andhari National Park**
+D) Tadoba Andhari National Park
 ANS: D
-Q: The **highest altitude National Park** in India, which also holds the title of the largest park, is:
+Q: The highest altitude National Park in India, which also holds the title of the largest park, is:
 A) Khangchendzonga National Park
-B) **Hemis National Park**
+B) Hemis National Park
 C) Great Himalayan National Park
 D) Nanda Devi National Park
 ANS: B
-Q: The **largest population of migratory birds** in India gathers at which National Park/Sanctuary, which is also a Ramsar site?
+Q: The largest population of migratory birds in India gathers at which National Park/Sanctuary, which is also a Ramsar site?
 A) Ranganathittu Bird Sanctuary
 B) Vedanthangal Bird Sanctuary
-C) **Keoladeo Ghana National Park**
+C) Keoladeo Ghana National Park
 D) Chilika Lake
 ANS: C
-Q: The **'Shola'** grasslands and forests are primarily found in the high altitude areas of:
+Q: The 'Shola' grasslands and forests are primarily found in the high altitude areas of:
 A) Eastern Himalayas
-B) **Western Ghats (South India)**
+B) Western Ghats (South India)
 C) Satpura Range
 D) Aravalli Range
 ANS: B
-Q: The **largest area under forest cover** in India (by area) is in:
+Q: The largest area under forest cover in India (by area) is in:
 A) Arunachal Pradesh
 B) Chhattisgarh
-C) **Madhya Pradesh**
+C) Madhya Pradesh
 D) Maharashtra
 ANS: C
-Q: The **first state** in India to receive rainfall from the **South-West Monsoon** is:
+Q: The first state in India to receive rainfall from the South-West Monsoon is:
 A) Karnataka
 B) Tamil Nadu
 C) Andhra Pradesh
-D) **Kerala**
+D) Kerala
 ANS: D
 
 
