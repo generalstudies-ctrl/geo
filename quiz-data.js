@@ -211,7 +211,7 @@ A) Saturn
 B) Uranus
 C) Neptune
 D) Pluto
-ANS: C
+ANS: D
 Q: The 'Great Red Spot' is a giant storm located on which planet?
 A) Mars
 B) Jupiter
