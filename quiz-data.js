@@ -592,7 +592,7 @@ A) 180
 B) 181
 C) 360
 D) 361
-ANS: D
+ANS: B
 Q: Which country has the most time zones (up to 13)?
 A) Russia
 B) USA
@@ -3565,7 +3565,7 @@ B) Pamir Knot (also Tibeten Plateau)
 C) Karakoram Range
 D) Great Himalayan Range
 ANS: B
-QQ: The widest portion of the Himalayas is found in:
+Q: The widest portion of the Himalayas is found in:
 A) Arunachal Pradesh (East)
 B) Kashmir (West)
 C) Sikkim
@@ -6591,7 +6591,7 @@ D) Carpathians
 ANS: C
 Q: The highest peak in Australia (Oceania) is Mount Kosciuszko, located in the:
 A) Great Dividing Range
-B) Australian Alps
+B) African Alps
 C) Australian Alps
 D) Hamersley Ranges
 ANS: C
@@ -7012,7 +7012,7 @@ B) Keoladeo Ghana National Park
 C) Keibul Lamjao National Park
 D) Silent Valley National Park
 ANS: C
-Q: Which National Park has been renamed Ramganga National Park in 2021?
+Q: Which National Park has been renamed Ramganga National Park in 2021? 
 A) Great Himalayan National Park
 B) Rajaji National Park
 C) Jim Corbett National Park
